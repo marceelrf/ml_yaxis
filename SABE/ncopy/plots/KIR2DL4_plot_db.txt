@@ -1,0 +1,1135 @@
+Sample	Gene	Ratio	Heterozygosis	Order
+158718101	KIR2DL4	0.000000	heterozygosis: unknown	1
+599208021	KIR2DL4	0.000000	heterozygosis: unknown	2
+174003031	KIR2DL4	0.358580	heterozygosis: unknown	3
+831205021	KIR2DL4	0.367905	heterozygosis: unknown	4
+441206011	KIR2DL4	0.368969	heterozygosis: unknown	5
+656901101	KIR2DL4	0.375917	heterozygosis: unknown	6
+185706052	KIR2DL4	0.400584	heterozygosis: unknown	7
+513111021	KIR2DL4	0.405999	heterozygosis: unknown	8
+41130012	KIR2DL4	0.415612	heterozygosis: unknown	9
+1137118901	KIR2DL4	0.426521	heterozygosis: unknown	10
+1239325901	KIR2DL4	0.437539	heterozygosis: unknown	11
+625528081	KIR2DL4	0.439544	heterozygosis: unknown	12
+687912091	KIR2DL4	0.439830	heterozygosis: unknown	13
+1013617501	KIR2DL4	0.443938	heterozygosis: unknown	14
+1092662101	KIR2DL4	0.444603	heterozygosis: unknown	15
+1286518101	KIR2DL4	0.450677	heterozygosis: unknown	16
+471201042	KIR2DL4	0.453391	heterozygosis: unknown	17
+1212203001	KIR2DL4	0.456812	heterozygosis: unknown	18
+558809011	KIR2DL4	0.457411	heterozygosis: unknown	19
+1127231901	KIR2DL4	0.457936	heterozygosis: unknown	20
+314300111	KIR2DL4	0.468545	heterozygosis: unknown	21
+360106052	KIR2DL4	0.474839	heterozygosis: unknown	22
+1227828901	KIR2DL4	0.479373	heterozygosis: unknown	23
+1059310901	KIR2DL4	0.481488	heterozygosis: unknown	24
+26312102	KIR2DL4	0.482096	heterozygosis: unknown	25
+210800093	KIR2DL4	0.483176	heterozygosis: unknown	26
+1146418701	KIR2DL4	0.485524	heterozygosis: unknown	27
+1111319301	KIR2DL4	0.493213	heterozygosis: unknown	28
+304100101	KIR2DL4	0.494726	heterozygosis: unknown	29
+155224111	KIR2DL4	0.496012	heterozygosis: unknown	30
+509607121	KIR2DL4	0.500378	heterozygosis: unknown	31
+644417012	KIR2DL4	0.500685	heterozygosis: unknown	32
+191735081	KIR2DL4	0.501375	heterozygosis: unknown	33
+150228101	KIR2DL4	0.502035	heterozygosis: unknown	34
+103116022	KIR2DL4	0.511417	heterozygosis: unknown	35
+101106071	KIR2DL4	0.514009	heterozygosis: unknown	36
+84428022	KIR2DL4	0.520576	heterozygosis: unknown	37
+667934102	KIR2DL4	0.538639	heterozygosis: unknown	38
+474730041	KIR2DL4	0.543634	heterozygosis: unknown	39
+862900051	KIR2DL4	0.567194	heterozygosis: unknown	40
+600211031	KIR2DL4	0.573050	heterozygosis: unknown	41
+812023062	KIR2DL4	0.575719	heterozygosis: unknown	42
+1068305301	KIR2DL4	0.578431	heterozygosis: unknown	43
+38046011	KIR2DL4	0.585186	heterozygosis: unknown	44
+1337513301	KIR2DL4	0.587917	heterozygosis: unknown	45
+504900367	KIR2DL4	0.588115	heterozygosis: unknown	46
+1344203301	KIR2DL4	0.604221	heterozygosis: unknown	47
+1198546501	KIR2DL4	0.616887	heterozygosis: unknown	48
+210800081	KIR2DL4	0.625069	heterozygosis: unknown	49
+1142112701	KIR2DL4	0.668700	heterozygosis: yes (1-2)	50
+197226051	KIR2DL4	0.669638	heterozygosis: unknown	51
+1283622602	KIR2DL4	0.671746	heterozygosis: yes (1-2)	52
+665921081	KIR2DL4	0.697370	heterozygosis: unknown	53
+1060302901	KIR2DL4	0.699296	heterozygosis: unknown	54
+53409011	KIR2DL4	0.699384	heterozygosis: yes (1-2)	55
+666442081	KIR2DL4	0.705964	heterozygosis: unknown	56
+1062301301	KIR2DL4	0.706981	heterozygosis: unknown	57
+1072310801	KIR2DL4	0.714220	heterozygosis: yes (1-2)	58
+261805051	KIR2DL4	0.714936	heterozygosis: yes (1-2)	59
+393400101	KIR2DL4	0.718286	heterozygosis: yes (1-2)	60
+107301101	KIR2DL4	0.723462	heterozygosis: unknown	61
+1095415601	KIR2DL4	0.734971	heterozygosis: unknown	62
+1132140901	KIR2DL4	0.739866	heterozygosis: unknown	63
+404808011	KIR2DL4	0.742646	heterozygosis: unknown	64
+157610031	KIR2DL4	0.742763	heterozygosis: yes (1-2)	65
+214709101	KIR2DL4	0.743290	heterozygosis: unknown	66
+1036806701	KIR2DL4	0.745871	heterozygosis: unknown	67
+1052007701	KIR2DL4	0.746737	heterozygosis: yes (1-2)	68
+896105021	KIR2DL4	0.747833	heterozygosis: unknown	69
+1329603702	KIR2DL4	0.750988	heterozygosis: yes (1-2)	70
+439833011	KIR2DL4	0.754335	heterozygosis: unknown	71
+659404021	KIR2DL4	0.755027	heterozygosis: unknown	72
+664934021	KIR2DL4	0.755646	heterozygosis: yes (1-2)	73
+1119561901	KIR2DL4	0.764647	heterozygosis: unknown	74
+3173319102	KIR2DL4	0.765969	heterozygosis: unknown	75
+1129125002	KIR2DL4	0.771451	heterozygosis: unknown	76
+210800053	KIR2DL4	0.774743	heterozygosis: yes (1-2)	77
+16907052	KIR2DL4	0.775659	heterozygosis: unknown	78
+1204538102	KIR2DL4	0.776654	heterozygosis: yes (1-2)	79
+589000356	KIR2DL4	0.778820	heterozygosis: unknown	80
+119410052	KIR2DL4	0.779264	heterozygosis: unknown	81
+1048328901	KIR2DL4	0.783014	heterozygosis: unknown	82
+271110101	KIR2DL4	0.783936	heterozygosis: yes (1-2)	83
+494918051	KIR2DL4	0.784723	heterozygosis: unknown	84
+413620032	KIR2DL4	0.786403	heterozygosis: unknown	85
+1279606101	KIR2DL4	0.787572	heterozygosis: yes (1-2)	86
+177023091	KIR2DL4	0.787717	heterozygosis: unknown	87
+210800012	KIR2DL4	0.788122	heterozygosis: yes (1-2)	88
+1058009901	KIR2DL4	0.790803	heterozygosis: yes (1-2)	89
+575300031	KIR2DL4	0.794716	heterozygosis: unknown	90
+830203042	KIR2DL4	0.794905	heterozygosis: yes (1-2)	91
+51103051	KIR2DL4	0.795419	heterozygosis: yes (1-2)	92
+1144306901	KIR2DL4	0.795831	heterozygosis: unknown	93
+140706102	KIR2DL4	0.798302	heterozygosis: unknown	94
+1328603701	KIR2DL4	0.798690	heterozygosis: yes (1-2)	95
+1223818501	KIR2DL4	0.799049	heterozygosis: unknown	96
+864914071	KIR2DL4	0.801462	heterozygosis: unknown	97
+252900011	KIR2DL4	0.802601	heterozygosis: unknown	98
+570122061	KIR2DL4	0.803676	heterozygosis: yes (1-2)	99
+1332703401	KIR2DL4	0.804521	heterozygosis: unknown	100
+141707011	KIR2DL4	0.804903	heterozygosis: unknown	101
+696206071	KIR2DL4	0.806688	heterozygosis: unknown	102
+1218625501	KIR2DL4	0.807099	heterozygosis: unknown	103
+522715031	KIR2DL4	0.807588	heterozygosis: yes (1-2)	104
+1317223701	KIR2DL4	0.808471	heterozygosis: yes (1-2)	105
+808311032	KIR2DL4	0.808477	heterozygosis: unknown	106
+826605072	KIR2DL4	0.809306	heterozygosis: unknown	107
+446303051	KIR2DL4	0.809418	heterozygosis: yes (1-2)	108
+210800119	KIR2DL4	0.811930	heterozygosis: unknown	109
+827607111	KIR2DL4	0.811964	heterozygosis: yes (1-2)	110
+1195412401	KIR2DL4	0.812845	heterozygosis: yes (1-2)	111
+842112081	KIR2DL4	0.814057	heterozygosis: unknown	112
+870400071	KIR2DL4	0.814428	heterozygosis: unknown	113
+615800019	KIR2DL4	0.814992	heterozygosis: yes (1-2)	114
+1297013901	KIR2DL4	0.817082	heterozygosis: unknown	115
+508308101	KIR2DL4	0.819369	heterozygosis: yes (1-2)	116
+865000557	KIR2DL4	0.819372	heterozygosis: yes (1-2)	117
+14833012	KIR2DL4	0.820511	heterozygosis: yes (1-2)	118
+1017620101	KIR2DL4	0.821416	heterozygosis: yes (1-2)	119
+646405061	KIR2DL4	0.821809	heterozygosis: unknown	120
+849106091	KIR2DL4	0.823216	heterozygosis: unknown	121
+27319021	KIR2DL4	0.824488	heterozygosis: unknown	122
+210800122	KIR2DL4	0.824656	heterozygosis: unknown	123
+1187601202	KIR2DL4	0.826928	heterozygosis: yes (1-2)	124
+658402011	KIR2DL4	0.827039	heterozygosis: unknown	125
+1205554501	KIR2DL4	0.828394	heterozygosis: unknown	126
+405811051	KIR2DL4	0.829357	heterozygosis: unknown	127
+437202011	KIR2DL4	0.830252	heterozygosis: yes (1-2)	128
+210800088	KIR2DL4	0.831053	heterozygosis: unknown	129
+879809041	KIR2DL4	0.832006	heterozygosis: unknown	130
+313300141	KIR2DL4	0.832018	heterozygosis: yes (1-2)	131
+1011616902	KIR2DL4	0.832172	heterozygosis: unknown	132
+881813041	KIR2DL4	0.834497	heterozygosis: unknown	133
+210800083	KIR2DL4	0.834691	heterozygosis: unknown	134
+515000447	KIR2DL4	0.835478	heterozygosis: unknown	135
+210800091	KIR2DL4	0.836171	heterozygosis: unknown	136
+492910021	KIR2DL4	0.836255	heterozygosis: yes (1-2)	137
+576000031	KIR2DL4	0.837513	heterozygosis: yes (1-2)	138
+1117525001	KIR2DL4	0.837826	heterozygosis: unknown	139
+571000358	KIR2DL4	0.837925	heterozygosis: unknown	140
+645401031	KIR2DL4	0.838517	heterozygosis: unknown	141
+1303610901	KIR2DL4	0.838608	heterozygosis: yes (1-2)	142
+210800028	KIR2DL4	0.838773	heterozygosis: unknown	143
+297100011	KIR2DL4	0.839018	heterozygosis: yes (1-2)	144
+1190114802	KIR2DL4	0.840057	heterozygosis: unknown	145
+136923081	KIR2DL4	0.840515	heterozygosis: unknown	146
+461911071	KIR2DL4	0.840731	heterozygosis: unknown	147
+562815032	KIR2DL4	0.842375	heterozygosis: unknown	148
+376100111	KIR2DL4	0.842623	heterozygosis: unknown	149
+149213051	KIR2DL4	0.842629	heterozygosis: yes (1-2)	150
+210800024	KIR2DL4	0.842733	heterozygosis: unknown	151
+268101011	KIR2DL4	0.843668	heterozygosis: yes (1-2)	152
+888000458	KIR2DL4	0.843758	heterozygosis: unknown	153
+1336507301	KIR2DL4	0.844454	heterozygosis: unknown	154
+436200080	KIR2DL4	0.846265	heterozygosis: yes (1-2)	155
+323708051	KIR2DL4	0.846303	heterozygosis: yes (1-2)	156
+1261523701	KIR2DL4	0.847410	heterozygosis: yes (1-2)	157
+855227091	KIR2DL4	0.847807	heterozygosis: unknown	158
+308300051	KIR2DL4	0.847935	heterozygosis: yes (1-2)	159
+283910031	KIR2DL4	0.848260	heterozygosis: yes (1-2)	160
+210800011	KIR2DL4	0.848403	heterozygosis: yes (1-2)	161
+1216606101	KIR2DL4	0.848413	heterozygosis: yes (1-2)	162
+371100011	KIR2DL4	0.849823	heterozygosis: yes (1-2)	163
+210800100	KIR2DL4	0.850375	heterozygosis: unknown	164
+423320091	KIR2DL4	0.850838	heterozygosis: unknown	165
+512510011	KIR2DL4	0.850888	heterozygosis: unknown	166
+151228102	KIR2DL4	0.851635	heterozygosis: yes (1-2)	167
+194211031	KIR2DL4	0.852962	heterozygosis: unknown	168
+1315510301	KIR2DL4	0.853321	heterozygosis: yes (1-2)	169
+1307701101	KIR2DL4	0.854102	heterozygosis: unknown	170
+1091616501	KIR2DL4	0.854185	heterozygosis: unknown	171
+397725012	KIR2DL4	0.854316	heterozygosis: yes (1-2)	172
+1150414501	KIR2DL4	0.854557	heterozygosis: unknown	173
+210800111	KIR2DL4	0.854675	heterozygosis: unknown	174
+145709101	KIR2DL4	0.855446	heterozygosis: unknown	175
+137701061	KIR2DL4	0.855777	heterozygosis: yes (1-2)	176
+464151061	KIR2DL4	0.855793	heterozygosis: yes (1-2)	177
+210800066	KIR2DL4	0.855888	heterozygosis: yes (1-2)	178
+592911051	KIR2DL4	0.856152	heterozygosis: yes (1-2)	179
+610503102	KIR2DL4	0.857233	heterozygosis: unknown	180
+210800134	KIR2DL4	0.857454	heterozygosis: yes (1-2)	181
+1250226501	KIR2DL4	0.857648	heterozygosis: unknown	182
+447303052	KIR2DL4	0.858026	heterozygosis: yes (1-2)	183
+210800139	KIR2DL4	0.858418	heterozygosis: unknown	184
+832901032	KIR2DL4	0.858806	heterozygosis: unknown	185
+883701052	KIR2DL4	0.859010	heterozygosis: unknown	186
+159210011	KIR2DL4	0.859971	heterozygosis: unknown	187
+889110131	KIR2DL4	0.860268	heterozygosis: yes (1-2)	188
+611508041	KIR2DL4	0.860488	heterozygosis: unknown	189
+1175511701	KIR2DL4	0.861774	heterozygosis: yes (1-2)	190
+574003082	KIR2DL4	0.861838	heterozygosis: unknown	191
+247327031	KIR2DL4	0.862446	heterozygosis: yes (1-2)	192
+350817072	KIR2DL4	0.862861	heterozygosis: unknown	193
+1165600901	KIR2DL4	0.863052	heterozygosis: unknown	194
+324708111	KIR2DL4	0.863137	heterozygosis: unknown	195
+306300031	KIR2DL4	0.863197	heterozygosis: unknown	196
+375100081	KIR2DL4	0.863245	heterozygosis: yes (1-2)	197
+379007151	KIR2DL4	0.863377	heterozygosis: unknown	198
+36041011	KIR2DL4	0.865076	heterozygosis: yes (1-2)	199
+226505041	KIR2DL4	0.865123	heterozygosis: yes (1-2)	200
+33838042	KIR2DL4	0.865814	heterozygosis: unknown	201
+495919111	KIR2DL4	0.865894	heterozygosis: yes (1-2)	202
+683407031	KIR2DL4	0.866414	heterozygosis: unknown	203
+1181107101	KIR2DL4	0.868015	heterozygosis: unknown	204
+1298019101	KIR2DL4	0.868242	heterozygosis: yes (1-2)	205
+1233501301	KIR2DL4	0.869030	heterozygosis: yes (1-2)	206
+538224061	KIR2DL4	0.869057	heterozygosis: yes (1-2)	207
+210800048	KIR2DL4	0.869063	heterozygosis: unknown	208
+270103041	KIR2DL4	0.869185	heterozygosis: unknown	209
+1226835501	KIR2DL4	0.869197	heterozygosis: yes (1-2)	210
+1014604901	KIR2DL4	0.869208	heterozygosis: yes (1-2)	211
+546000429	KIR2DL4	0.869905	heterozygosis: yes (1-2)	212
+445303031	KIR2DL4	0.870272	heterozygosis: unknown	213
+210800056	KIR2DL4	0.870482	heterozygosis: yes (1-2)	214
+80418051	KIR2DL4	0.871052	heterozygosis: unknown	215
+1159519001	KIR2DL4	0.871875	heterozygosis: yes (1-2)	216
+1243300102	KIR2DL4	0.872912	heterozygosis: yes (>2)	217
+510512061	KIR2DL4	0.873086	heterozygosis: unknown	218
+1090670301	KIR2DL4	0.873281	heterozygosis: unknown	219
+559809021	KIR2DL4	0.873434	heterozygosis: unknown	220
+111306051	KIR2DL4	0.874519	heterozygosis: yes (1-2)	221
+1002209901	KIR2DL4	0.874708	heterozygosis: unknown	222
+127923021	KIR2DL4	0.875730	heterozygosis: unknown	223
+236414032	KIR2DL4	0.876001	heterozygosis: unknown	224
+805105101	KIR2DL4	0.876048	heterozygosis: unknown	225
+420213011	KIR2DL4	0.877707	heterozygosis: unknown	226
+122309061	KIR2DL4	0.878680	heterozygosis: yes (1-2)	227
+1161560701	KIR2DL4	0.878981	heterozygosis: unknown	228
+818918011	KIR2DL4	0.880965	heterozygosis: yes (>2)	229
+619507061	KIR2DL4	0.880967	heterozygosis: yes (1-2)	230
+438800029	KIR2DL4	0.881101	heterozygosis: yes (1-2)	231
+210800044	KIR2DL4	0.881185	heterozygosis: unknown	232
+396725011	KIR2DL4	0.881686	heterozygosis: unknown	233
+577000032	KIR2DL4	0.881832	heterozygosis: yes (1-2)	234
+486425051	KIR2DL4	0.882100	heterozygosis: yes (1-2)	235
+663921051	KIR2DL4	0.882306	heterozygosis: unknown	236
+24312081	KIR2DL4	0.882354	heterozygosis: yes (1-2)	237
+1077418301	KIR2DL4	0.882555	heterozygosis: unknown	238
+210800105	KIR2DL4	0.883991	heterozygosis: unknown	239
+877819091	KIR2DL4	0.885124	heterozygosis: unknown	240
+210800043	KIR2DL4	0.885143	heterozygosis: unknown	241
+203323011	KIR2DL4	0.885170	heterozygosis: yes (>2)	242
+210800076	KIR2DL4	0.885751	heterozygosis: unknown	243
+362105011	KIR2DL4	0.886280	heterozygosis: unknown	244
+1018621701	KIR2DL4	0.886951	heterozygosis: yes (1-2)	245
+231904021	KIR2DL4	0.887316	heterozygosis: unknown	246
+210800040	KIR2DL4	0.887404	heterozygosis: yes (1-2)	247
+1281608201	KIR2DL4	0.887555	heterozygosis: unknown	248
+1330617501	KIR2DL4	0.887942	heterozygosis: yes (1-2)	249
+327601041	KIR2DL4	0.888207	heterozygosis: unknown	250
+265812072	KIR2DL4	0.888314	heterozygosis: unknown	251
+193200178	KIR2DL4	0.889923	heterozygosis: yes (1-2)	252
+843112071	KIR2DL4	0.890358	heterozygosis: yes (1-2)	253
+583016011	KIR2DL4	0.890404	heterozygosis: yes (1-2)	254
+385823082	KIR2DL4	0.890522	heterozygosis: yes (>2)	255
+1202536101	KIR2DL4	0.890541	heterozygosis: unknown	256
+868610051	KIR2DL4	0.890931	heterozygosis: yes (1-2)	257
+408000441	KIR2DL4	0.891269	heterozygosis: unknown	258
+496917101	KIR2DL4	0.891349	heterozygosis: yes (1-2)	259
+115700198	KIR2DL4	0.891472	heterozygosis: unknown	260
+1170503901	KIR2DL4	0.891930	heterozygosis: yes (1-2)	261
+894207061	KIR2DL4	0.892509	heterozygosis: yes (1-2)	262
+1154200401	KIR2DL4	0.893691	heterozygosis: unknown	263
+210800074	KIR2DL4	0.893897	heterozygosis: unknown	264
+627513061	KIR2DL4	0.895620	heterozygosis: unknown	265
+853216071	KIR2DL4	0.895642	heterozygosis: unknown	266
+1237235701	KIR2DL4	0.895695	heterozygosis: unknown	267
+1238224501	KIR2DL4	0.895742	heterozygosis: yes (1-2)	268
+470201041	KIR2DL4	0.896009	heterozygosis: unknown	269
+547000448	KIR2DL4	0.896184	heterozygosis: unknown	270
+128909102	KIR2DL4	0.896311	heterozygosis: yes (1-2)	271
+845112062	KIR2DL4	0.896473	heterozygosis: unknown	272
+259801031	KIR2DL4	0.896655	heterozygosis: unknown	273
+1258529501	KIR2DL4	0.896688	heterozygosis: unknown	274
+874000021	KIR2DL4	0.896738	heterozygosis: unknown	275
+266102011	KIR2DL4	0.897263	heterozygosis: yes (1-2)	276
+674703041	KIR2DL4	0.897482	heterozygosis: unknown	277
+682409091	KIR2DL4	0.898042	heterozygosis: yes (1-2)	278
+518624081	KIR2DL4	0.898075	heterozygosis: unknown	279
+1183605501	KIR2DL4	0.898666	heterozygosis: yes (1-2)	280
+618502071	KIR2DL4	0.899145	heterozygosis: unknown	281
+432800071	KIR2DL4	0.899209	heterozygosis: unknown	282
+210800062	KIR2DL4	0.899422	heterozygosis: yes (1-2)	283
+1034803101	KIR2DL4	0.899742	heterozygosis: unknown	284
+64404101	KIR2DL4	0.899769	heterozygosis: yes (1-2)	285
+568112011	KIR2DL4	0.899963	heterozygosis: unknown	286
+1089637701	KIR2DL4	0.900125	heterozygosis: yes (1-2)	287
+168921021	KIR2DL4	0.900526	heterozygosis: yes (>2)	288
+106301032	KIR2DL4	0.900693	heterozygosis: yes (1-2)	289
+636902031	KIR2DL4	0.900796	heterozygosis: unknown	290
+1134304501	KIR2DL4	0.900987	heterozygosis: yes (1-2)	291
+108303082	KIR2DL4	0.900988	heterozygosis: unknown	292
+210800061	KIR2DL4	0.901285	heterozygosis: unknown	293
+1169524101	KIR2DL4	0.901800	heterozygosis: unknown	294
+594913051	KIR2DL4	0.902165	heterozygosis: yes (1-2)	295
+210800037	KIR2DL4	0.902219	heterozygosis: yes (1-2)	296
+215712101	KIR2DL4	0.902235	heterozygosis: unknown	297
+579020062	KIR2DL4	0.902377	heterozygosis: yes (1-2)	298
+1008216701	KIR2DL4	0.902453	heterozygosis: unknown	299
+1191526001	KIR2DL4	0.902820	heterozygosis: unknown	300
+188711071	KIR2DL4	0.902933	heterozygosis: yes (1-2)	301
+1037800501	KIR2DL4	0.903336	heterozygosis: yes (1-2)	302
+428046012	KIR2DL4	0.903852	heterozygosis: unknown	303
+434800024	KIR2DL4	0.904388	heterozygosis: unknown	304
+1135327301	KIR2DL4	0.906048	heterozygosis: unknown	305
+210800057	KIR2DL4	0.906377	heterozygosis: unknown	306
+828604051	KIR2DL4	0.906461	heterozygosis: yes (1-2)	307
+50103042	KIR2DL4	0.906558	heterozygosis: yes (1-2)	308
+300100061	KIR2DL4	0.906671	heterozygosis: yes (1-2)	309
+210800022	KIR2DL4	0.906967	heterozygosis: unknown	310
+210800126	KIR2DL4	0.906982	heterozygosis: unknown	311
+246323051	KIR2DL4	0.907111	heterozygosis: unknown	312
+210800019	KIR2DL4	0.907242	heterozygosis: unknown	313
+647405102	KIR2DL4	0.907377	heterozygosis: unknown	314
+590000426	KIR2DL4	0.907530	heterozygosis: unknown	315
+402000439	KIR2DL4	0.908126	heterozygosis: unknown	316
+801213101	KIR2DL4	0.908171	heterozygosis: yes (1-2)	317
+1026319101	KIR2DL4	0.908563	heterozygosis: unknown	318
+257801021	KIR2DL4	0.908918	heterozygosis: unknown	319
+198305011	KIR2DL4	0.909230	heterozygosis: unknown	320
+394400011	KIR2DL4	0.909605	heterozygosis: yes (1-2)	321
+1333214001	KIR2DL4	0.910500	heterozygosis: unknown	322
+334615011	KIR2DL4	0.910841	heterozygosis: unknown	323
+169640071	KIR2DL4	0.911246	heterozygosis: unknown	324
+152206101	KIR2DL4	0.911449	heterozygosis: unknown	325
+603211092	KIR2DL4	0.912087	heterozygosis: yes (1-2)	326
+1130125901	KIR2DL4	0.912710	heterozygosis: yes (>2)	327
+466000377	KIR2DL4	0.912809	heterozygosis: yes (1-2)	328
+1076406101	KIR2DL4	0.913279	heterozygosis: unknown	329
+1316014101	KIR2DL4	0.913330	heterozygosis: unknown	330
+139111041	KIR2DL4	0.913535	heterozygosis: yes (1-2)	331
+1272231301	KIR2DL4	0.913655	heterozygosis: yes (1-2)	332
+800207091	KIR2DL4	0.913888	heterozygosis: unknown	333
+435800114	KIR2DL4	0.914443	heterozygosis: yes (1-2)	334
+210800104	KIR2DL4	0.914836	heterozygosis: yes (1-2)	335
+681000475	KIR2DL4	0.915142	heterozygosis: yes (1-2)	336
+225204032	KIR2DL4	0.915865	heterozygosis: unknown	337
+467000378	KIR2DL4	0.916157	heterozygosis: unknown	338
+1025318501	KIR2DL4	0.916335	heterozygosis: unknown	339
+211322012	KIR2DL4	0.916345	heterozygosis: unknown	340
+662000476	KIR2DL4	0.916720	heterozygosis: yes (1-2)	341
+824810122	KIR2DL4	0.917194	heterozygosis: yes (1-2)	342
+289911091	KIR2DL4	0.917938	heterozygosis: yes (1-2)	343
+677226041	KIR2DL4	0.917955	heterozygosis: unknown	344
+22309072	KIR2DL4	0.917970	heterozygosis: yes (1-2)	345
+319416011	KIR2DL4	0.918171	heterozygosis: yes (>2)	346
+698300155	KIR2DL4	0.918695	heterozygosis: yes (1-2)	347
+1166506501	KIR2DL4	0.918865	heterozygosis: yes (1-2)	348
+1040822501	KIR2DL4	0.919037	heterozygosis: unknown	349
+210800021	KIR2DL4	0.919752	heterozygosis: unknown	350
+105301031	KIR2DL4	0.919763	heterozygosis: yes (1-2)	351
+525900031	KIR2DL4	0.920435	heterozygosis: unknown	352
+244604061	KIR2DL4	0.920507	heterozygosis: unknown	353
+851230081	KIR2DL4	0.920687	heterozygosis: yes (1-2)	354
+869541071	KIR2DL4	0.920825	heterozygosis: yes (1-2)	355
+1185611601	KIR2DL4	0.921043	heterozygosis: unknown	356
+1288305901	KIR2DL4	0.921480	heterozygosis: unknown	357
+299100051	KIR2DL4	0.921981	heterozygosis: unknown	358
+527900101	KIR2DL4	0.922300	heterozygosis: unknown	359
+210800142	KIR2DL4	0.922698	heterozygosis: yes (1-2)	360
+678226042	KIR2DL4	0.922730	heterozygosis: unknown	361
+601211052	KIR2DL4	0.922750	heterozygosis: yes (1-2)	362
+1339531301	KIR2DL4	0.922923	heterozygosis: yes (1-2)	363
+245309062	KIR2DL4	0.923227	heterozygosis: yes (1-2)	364
+366123012	KIR2DL4	0.923329	heterozygosis: yes (1-2)	365
+1030315301	KIR2DL4	0.923925	heterozygosis: unknown	366
+210800064	KIR2DL4	0.924072	heterozygosis: unknown	367
+210800054	KIR2DL4	0.924244	heterozygosis: unknown	368
+1104308401	KIR2DL4	0.924873	heterozygosis: unknown	369
+660407051	KIR2DL4	0.924909	heterozygosis: yes (>2)	370
+210800094	KIR2DL4	0.924920	heterozygosis: unknown	371
+483732031	KIR2DL4	0.924955	heterozygosis: unknown	372
+210800103	KIR2DL4	0.925339	heterozygosis: unknown	373
+1042404301	KIR2DL4	0.926148	heterozygosis: unknown	374
+210800114	KIR2DL4	0.926478	heterozygosis: yes (1-2)	375
+253900058	KIR2DL4	0.926765	heterozygosis: yes (1-2)	376
+584016071	KIR2DL4	0.926965	heterozygosis: unknown	377
+482732051	KIR2DL4	0.927374	heterozygosis: unknown	378
+210807000	KIR2DL4	0.927640	heterozygosis: unknown	379
+332205021	KIR2DL4	0.927883	heterozygosis: yes (1-2)	380
+1053009701	KIR2DL4	0.928659	heterozygosis: unknown	381
+275108081	KIR2DL4	0.928721	heterozygosis: unknown	382
+161230101	KIR2DL4	0.928759	heterozygosis: unknown	383
+339028131	KIR2DL4	0.929040	heterozygosis: unknown	384
+1194402801	KIR2DL4	0.929069	heterozygosis: unknown	385
+210800120	KIR2DL4	0.929256	heterozygosis: yes (1-2)	386
+822823072	KIR2DL4	0.929659	heterozygosis: unknown	387
+1020330101	KIR2DL4	0.929778	heterozygosis: unknown	388
+893226021	KIR2DL4	0.929902	heterozygosis: unknown	389
+1257013101	KIR2DL4	0.930101	heterozygosis: yes (1-2)	390
+1103307601	KIR2DL4	0.930375	heterozygosis: unknown	391
+1071310701	KIR2DL4	0.930764	heterozygosis: yes (1-2)	392
+596906101	KIR2DL4	0.931011	heterozygosis: yes (1-2)	393
+524900021	KIR2DL4	0.931217	heterozygosis: yes (1-2)	394
+565126021	KIR2DL4	0.931356	heterozygosis: unknown	395
+392400061	KIR2DL4	0.931686	heterozygosis: unknown	396
+117731031	KIR2DL4	0.931777	heterozygosis: unknown	397
+210800047	KIR2DL4	0.931969	heterozygosis: yes (1-2)	398
+67903011	KIR2DL4	0.931977	heterozygosis: yes (1-2)	399
+210800067	KIR2DL4	0.932236	heterozygosis: unknown	400
+251226081	KIR2DL4	0.932848	heterozygosis: yes (1-2)	401
+501910081	KIR2DL4	0.933170	heterozygosis: unknown	402
+477714051	KIR2DL4	0.933357	heterozygosis: yes (>2)	403
+1230536501	KIR2DL4	0.934391	heterozygosis: unknown	404
+612206051	KIR2DL4	0.934707	heterozygosis: yes (1-2)	405
+1141109101	KIR2DL4	0.934892	heterozygosis: yes (1-2)	406
+431106051	KIR2DL4	0.935248	heterozygosis: unknown	407
+143709042	KIR2DL4	0.935861	heterozygosis: yes (1-2)	408
+503914062	KIR2DL4	0.935945	heterozygosis: unknown	409
+1313411701	KIR2DL4	0.935978	heterozygosis: yes (1-2)	410
+1311000301	KIR2DL4	0.936162	heterozygosis: yes (1-2)	411
+278900185	KIR2DL4	0.936557	heterozygosis: yes (1-2)	412
+521601061	KIR2DL4	0.938007	heterozygosis: unknown	413
+1099223302	KIR2DL4	0.938362	heterozygosis: yes (>2)	414
+675000350	KIR2DL4	0.938872	heterozygosis: unknown	415
+1255325901	KIR2DL4	0.939467	heterozygosis: unknown	416
+543236031	KIR2DL4	0.939720	heterozygosis: unknown	417
+130900253	KIR2DL4	0.939723	heterozygosis: yes (1-2)	418
+239601011	KIR2DL4	0.940089	heterozygosis: yes (1-2)	419
+833922051	KIR2DL4	0.940326	heterozygosis: yes (1-2)	420
+210800095	KIR2DL4	0.940494	heterozygosis: unknown	421
+1263534501	KIR2DL4	0.940573	heterozygosis: yes (1-2)	422
+1093410201	KIR2DL4	0.941156	heterozygosis: yes (1-2)	423
+43140021	KIR2DL4	0.941197	heterozygosis: yes (1-2)	424
+1211205401	KIR2DL4	0.942034	heterozygosis: yes (1-2)	425
+69929081	KIR2DL4	0.942322	heterozygosis: yes (>2)	426
+1125533701	KIR2DL4	0.942506	heterozygosis: yes (1-2)	427
+42140012	KIR2DL4	0.942607	heterozygosis: unknown	428
+248200128	KIR2DL4	0.942764	heterozygosis: unknown	429
+643417011	KIR2DL4	0.942784	heterozygosis: unknown	430
+580000088	KIR2DL4	0.942920	heterozygosis: yes (1-2)	431
+316300122	KIR2DL4	0.943392	heterozygosis: unknown	432
+1249232701	KIR2DL4	0.943579	heterozygosis: yes (1-2)	433
+1088603301	KIR2DL4	0.943610	heterozygosis: unknown	434
+591920071	KIR2DL4	0.943661	heterozygosis: unknown	435
+1055016301	KIR2DL4	0.943733	heterozygosis: yes (1-2)	436
+342309061	KIR2DL4	0.943953	heterozygosis: yes (1-2)	437
+676719081	KIR2DL4	0.944087	heterozygosis: yes (1-2)	438
+1189134901	KIR2DL4	0.944277	heterozygosis: unknown	439
+609503101	KIR2DL4	0.945023	heterozygosis: unknown	440
+552809062	KIR2DL4	0.945472	heterozygosis: unknown	441
+57914021	KIR2DL4	0.945790	heterozygosis: yes (1-2)	442
+1277601601	KIR2DL4	0.945791	heterozygosis: unknown	443
+602211091	KIR2DL4	0.945863	heterozygosis: yes (>2)	444
+210800042	KIR2DL4	0.946135	heterozygosis: unknown	445
+1215630501	KIR2DL4	0.946716	heterozygosis: yes (1-2)	446
+196216032	KIR2DL4	0.946804	heterozygosis: unknown	447
+113306062	KIR2DL4	0.946844	heterozygosis: unknown	448
+887000453	KIR2DL4	0.947266	heterozygosis: yes (1-2)	449
+384010051	KIR2DL4	0.947345	heterozygosis: yes (1-2)	450
+186905062	KIR2DL4	0.947371	heterozygosis: yes (1-2)	451
+210800016	KIR2DL4	0.947494	heterozygosis: yes (>2)	452
+1106309302	KIR2DL4	0.947636	heterozygosis: yes (1-2)	453
+1266700901	KIR2DL4	0.948230	heterozygosis: unknown	454
+383007071	KIR2DL4	0.948254	heterozygosis: unknown	455
+859630011	KIR2DL4	0.948334	heterozygosis: unknown	456
+1287202101	KIR2DL4	0.948537	heterozygosis: unknown	457
+695209021	KIR2DL4	0.948670	heterozygosis: yes (1-2)	458
+475700124	KIR2DL4	0.948710	heterozygosis: yes (1-2)	459
+848331071	KIR2DL4	0.949580	heterozygosis: unknown	460
+83425022	KIR2DL4	0.949784	heterozygosis: yes (1-2)	461
+1044307701	KIR2DL4	0.950041	heterozygosis: yes (1-2)	462
+1114222501	KIR2DL4	0.950635	heterozygosis: yes (1-2)	463
+349819101	KIR2DL4	0.950679	heterozygosis: unknown	464
+1050333901	KIR2DL4	0.950786	heterozygosis: yes (1-2)	465
+693209051	KIR2DL4	0.951374	heterozygosis: unknown	466
+528900061	KIR2DL4	0.951620	heterozygosis: unknown	467
+616501091	KIR2DL4	0.952008	heterozygosis: yes (1-2)	468
+1065307801	KIR2DL4	0.952070	heterozygosis: unknown	469
+399725052	KIR2DL4	0.952151	heterozygosis: unknown	470
+210800017	KIR2DL4	0.952286	heterozygosis: yes (1-2)	471
+535200028	KIR2DL4	0.953049	heterozygosis: yes (1-2)	472
+1133814801	KIR2DL4	0.953063	heterozygosis: unknown	473
+325710071	KIR2DL4	0.953170	heterozygosis: yes (>2)	474
+210800038	KIR2DL4	0.953650	heterozygosis: yes (1-2)	475
+1005214101	KIR2DL4	0.953719	heterozygosis: yes (1-2)	476
+1160534602	KIR2DL4	0.953831	heterozygosis: unknown	477
+620523031	KIR2DL4	0.954185	heterozygosis: unknown	478
+243607091	KIR2DL4	0.954351	heterozygosis: yes (1-2)	479
+318933021	KIR2DL4	0.954524	heterozygosis: yes (1-2)	480
+153206102	KIR2DL4	0.954554	heterozygosis: yes (1-2)	481
+529900111	KIR2DL4	0.954888	heterozygosis: unknown	482
+1280605801	KIR2DL4	0.954892	heterozygosis: yes (1-2)	483
+18912051	KIR2DL4	0.955347	heterozygosis: unknown	484
+587011051	KIR2DL4	0.955412	heterozygosis: unknown	485
+1128125001	KIR2DL4	0.955430	heterozygosis: unknown	486
+210800141	KIR2DL4	0.956433	heterozygosis: yes (1-2)	487
+860809022	KIR2DL4	0.956923	heterozygosis: unknown	488
+861812011	KIR2DL4	0.957004	heterozygosis: unknown	489
+588314051	KIR2DL4	0.957086	heterozygosis: unknown	490
+502903022	KIR2DL4	0.957446	heterozygosis: unknown	491
+1343317022	KIR2DL4	0.957708	heterozygosis: unknown	492
+210800059	KIR2DL4	0.957711	heterozygosis: unknown	493
+1101303201	KIR2DL4	0.957820	heterozygosis: unknown	494
+458904031	KIR2DL4	0.957822	heterozygosis: yes (1-2)	495
+536212062	KIR2DL4	0.957910	heterozygosis: yes (1-2)	496
+288920032	KIR2DL4	0.959502	heterozygosis: unknown	497
+1340826701	KIR2DL4	0.959528	heterozygosis: unknown	498
+62929011	KIR2DL4	0.959539	heterozygosis: unknown	499
+146509051	KIR2DL4	0.959559	heterozygosis: yes (1-2)	500
+305100171	KIR2DL4	0.960202	heterozygosis: yes (1-2)	501
+220211091	KIR2DL4	0.960870	heterozygosis: yes (1-2)	502
+204327071	KIR2DL4	0.961980	heterozygosis: yes (1-2)	503
+1098222101	KIR2DL4	0.962242	heterozygosis: yes (1-2)	504
+216211041	KIR2DL4	0.962860	heterozygosis: unknown	505
+210800140	KIR2DL4	0.963037	heterozygosis: yes (1-2)	506
+517622031	KIR2DL4	0.963678	heterozygosis: yes (1-2)	507
+1074415201	KIR2DL4	0.963897	heterozygosis: unknown	508
+1061309301	KIR2DL4	0.963942	heterozygosis: unknown	509
+254911101	KIR2DL4	0.964010	heterozygosis: unknown	510
+1022306301	KIR2DL4	0.964103	heterozygosis: unknown	511
+312300171	KIR2DL4	0.964748	heterozygosis: yes (1-2)	512
+608506011	KIR2DL4	0.965002	heterozygosis: unknown	513
+352105011	KIR2DL4	0.965611	heterozygosis: unknown	514
+210800087	KIR2DL4	0.965749	heterozygosis: unknown	515
+500933081	KIR2DL4	0.966409	heterozygosis: yes (1-2)	516
+298100021	KIR2DL4	0.966547	heterozygosis: yes (1-2)	517
+534200027	KIR2DL4	0.966604	heterozygosis: unknown	518
+205300083	KIR2DL4	0.966771	heterozygosis: unknown	519
+210800010	KIR2DL4	0.967699	heterozygosis: yes (1-2)	520
+1081411201	KIR2DL4	0.967946	heterozygosis: unknown	521
+114306102	KIR2DL4	0.967995	heterozygosis: yes (1-2)	522
+210800127	KIR2DL4	0.968122	heterozygosis: yes (1-2)	523
+142707081	KIR2DL4	0.968308	heterozygosis: unknown	524
+1264618401	KIR2DL4	0.968813	heterozygosis: unknown	525
+1247403701	KIR2DL4	0.969049	heterozygosis: yes (1-2)	526
+523704101	KIR2DL4	0.969310	heterozygosis: unknown	527
+1207301001	KIR2DL4	0.969399	heterozygosis: yes (1-2)	528
+1335501701	KIR2DL4	0.969504	heterozygosis: yes (1-2)	529
+463137092	KIR2DL4	0.971158	heterozygosis: yes (1-2)	530
+631000405	KIR2DL4	0.971616	heterozygosis: unknown	531
+1079410601	KIR2DL4	0.971670	heterozygosis: yes (1-2)	532
+256801011	KIR2DL4	0.971674	heterozygosis: yes (1-2)	533
+228901052	KIR2DL4	0.972193	heterozygosis: yes (1-2)	534
+386832101	KIR2DL4	0.972223	heterozygosis: yes (1-2)	535
+840007041	KIR2DL4	0.972306	heterozygosis: yes (1-2)	536
+680000556	KIR2DL4	0.972346	heterozygosis: unknown	537
+1231532101	KIR2DL4	0.972651	heterozygosis: unknown	538
+210800112	KIR2DL4	0.972862	heterozygosis: yes (1-2)	539
+190731091	KIR2DL4	0.973131	heterozygosis: unknown	540
+1270318701	KIR2DL4	0.973203	heterozygosis: yes (1-2)	541
+372100051	KIR2DL4	0.973453	heterozygosis: unknown	542
+1054020501	KIR2DL4	0.973472	heterozygosis: yes (1-2)	543
+406000435	KIR2DL4	0.973512	heterozygosis: unknown	544
+210800052	KIR2DL4	0.973643	heterozygosis: yes (1-2)	545
+476703051	KIR2DL4	0.974084	heterozygosis: yes (1-2)	546
+1015611101	KIR2DL4	0.974252	heterozygosis: unknown	547
+1284314601	KIR2DL4	0.974453	heterozygosis: unknown	548
+1267601501	KIR2DL4	0.974672	heterozygosis: unknown	549
+491905071	KIR2DL4	0.974927	heterozygosis: unknown	550
+296309042	KIR2DL4	0.974983	heterozygosis: unknown	551
+835930011	KIR2DL4	0.975206	heterozygosis: unknown	552
+1001207701	KIR2DL4	0.976258	heterozygosis: unknown	553
+210800130	KIR2DL4	0.976724	heterozygosis: unknown	554
+872400021	KIR2DL4	0.976724	heterozygosis: unknown	555
+1265619701	KIR2DL4	0.976734	heterozygosis: yes (1-2)	556
+605228011	KIR2DL4	0.976845	heterozygosis: yes (1-2)	557
+421218041	KIR2DL4	0.977278	heterozygosis: unknown	558
+15843041	KIR2DL4	0.977597	heterozygosis: unknown	559
+876806031	KIR2DL4	0.977611	heterozygosis: yes (1-2)	560
+617502082	KIR2DL4	0.977618	heterozygosis: unknown	561
+481732011	KIR2DL4	0.977728	heterozygosis: unknown	562
+13813041	KIR2DL4	0.977945	heterozygosis: yes (1-2)	563
+210800063	KIR2DL4	0.978051	heterozygosis: yes (1-2)	564
+829211061	KIR2DL4	0.978151	heterozygosis: yes (1-2)	565
+303100081	KIR2DL4	0.978656	heterozygosis: unknown	566
+210800025	KIR2DL4	0.978783	heterozygosis: unknown	567
+183810061	KIR2DL4	0.979220	heterozygosis: unknown	568
+581020052	KIR2DL4	0.980308	heterozygosis: yes (1-2)	569
+210800078	KIR2DL4	0.980447	heterozygosis: unknown	570
+210800039	KIR2DL4	0.980538	heterozygosis: yes (1-2)	571
+1197502501	KIR2DL4	0.980551	heterozygosis: yes (1-2)	572
+1176601101	KIR2DL4	0.980832	heterozygosis: yes (1-2)	573
+338015051	KIR2DL4	0.980924	heterozygosis: yes (1-2)	574
+132936052	KIR2DL4	0.981066	heterozygosis: yes (1-2)	575
+582011101	KIR2DL4	0.981580	heterozygosis: yes (1-2)	576
+39111041	KIR2DL4	0.981950	heterozygosis: yes (1-2)	577
+1206552501	KIR2DL4	0.982246	heterozygosis: unknown	578
+1269611501	KIR2DL4	0.982499	heterozygosis: unknown	579
+274105051	KIR2DL4	0.982857	heterozygosis: unknown	580
+172901102	KIR2DL4	0.983088	heterozygosis: yes (1-2)	581
+641427041	KIR2DL4	0.983307	heterozygosis: yes (1-2)	582
+624500287	KIR2DL4	0.983409	heterozygosis: unknown	583
+1262524101	KIR2DL4	0.983445	heterozygosis: yes (1-2)	584
+685903011	KIR2DL4	0.983473	heterozygosis: yes (1-2)	585
+1209209301	KIR2DL4	0.983560	heterozygosis: unknown	586
+1213208101	KIR2DL4	0.983629	heterozygosis: yes (1-2)	587
+572122013	KIR2DL4	0.983737	heterozygosis: unknown	588
+210800125	KIR2DL4	0.983737	heterozygosis: unknown	589
+1232510901	KIR2DL4	0.984013	heterozygosis: unknown	590
+100102082	KIR2DL4	0.984919	heterozygosis: unknown	591
+1252327301	KIR2DL4	0.985277	heterozygosis: yes (1-2)	592
+614202101	KIR2DL4	0.985647	heterozygosis: yes (1-2)	593
+1251233701	KIR2DL4	0.985778	heterozygosis: yes (1-2)	594
+89220082	KIR2DL4	0.985920	heterozygosis: yes (1-2)	595
+1196421401	KIR2DL4	0.986398	heterozygosis: unknown	596
+854200282	KIR2DL4	0.986589	heterozygosis: yes (1-2)	597
+388409011	KIR2DL4	0.986687	heterozygosis: yes (1-2)	598
+1324616101	KIR2DL4	0.986744	heterozygosis: unknown	599
+1210206401	KIR2DL4	0.986765	heterozygosis: unknown	600
+1314207601	KIR2DL4	0.987267	heterozygosis: unknown	601
+104116082	KIR2DL4	0.987588	heterozygosis: unknown	602
+621523032	KIR2DL4	0.987977	heterozygosis: unknown	603
+1143306101	KIR2DL4	0.988005	heterozygosis: yes (1-2)	604
+1019621702	KIR2DL4	0.988679	heterozygosis: unknown	605
+110306031	KIR2DL4	0.989099	heterozygosis: yes (1-2)	606
+219208092	KIR2DL4	0.989227	heterozygosis: unknown	607
+88220081	KIR2DL4	0.990068	heterozygosis: unknown	608
+654000467	KIR2DL4	0.990260	heterozygosis: yes (1-2)	609
+507933012	KIR2DL4	0.990267	heterozygosis: yes (1-2)	610
+578323051	KIR2DL4	0.990773	heterozygosis: yes (1-2)	611
+407000434	KIR2DL4	0.992929	heterozygosis: yes (1-2)	612
+1139102501	KIR2DL4	0.993272	heterozygosis: unknown	613
+1294003701	KIR2DL4	0.993668	heterozygosis: unknown	614
+462911072	KIR2DL4	0.993696	heterozygosis: unknown	615
+210800014	KIR2DL4	0.994353	heterozygosis: unknown	616
+102116021	KIR2DL4	0.994409	heterozygosis: unknown	617
+31823101	KIR2DL4	0.994543	heterozygosis: unknown	618
+258801022	KIR2DL4	0.995259	heterozygosis: yes (1-2)	619
+1248403701	KIR2DL4	0.995499	heterozygosis: unknown	620
+182806101	KIR2DL4	0.995531	heterozygosis: unknown	621
+1047326101	KIR2DL4	0.995739	heterozygosis: unknown	622
+1157101101	KIR2DL4	0.995897	heterozygosis: unknown	623
+46518081	KIR2DL4	0.996587	heterozygosis: unknown	624
+1131137001	KIR2DL4	0.997032	heterozygosis: yes (1-2)	625
+210800027	KIR2DL4	0.997063	heterozygosis: unknown	626
+40126061	KIR2DL4	0.997118	heterozygosis: unknown	627
+340304011	KIR2DL4	0.997526	heterozygosis: yes (1-2)	628
+417218092	KIR2DL4	0.998351	heterozygosis: unknown	629
+1338519701	KIR2DL4	0.999009	heterozygosis: yes (1-2)	630
+1118225101	KIR2DL4	0.999163	heterozygosis: yes (1-2)	631
+382019052	KIR2DL4	0.999455	heterozygosis: yes (1-2)	632
+131909101	KIR2DL4	0.999943	heterozygosis: yes (1-2)	633
+381016011	KIR2DL4	1.000091	heterozygosis: yes (1-2)	634
+1149417901	KIR2DL4	1.000518	heterozygosis: yes (1-2)	635
+166919061	KIR2DL4	1.000923	heterozygosis: yes (1-2)	636
+498929061	KIR2DL4	1.000983	heterozygosis: yes (1-2)	637
+473700138	KIR2DL4	1.001012	heterozygosis: yes (1-2)	638
+873115091	KIR2DL4	1.001296	heterozygosis: yes (1-2)	639
+566106091	KIR2DL4	1.001363	heterozygosis: unknown	640
+210800138	KIR2DL4	1.001377	heterozygosis: unknown	641
+433800072	KIR2DL4	1.001932	heterozygosis: yes (1-2)	642
+189711051	KIR2DL4	1.001966	heterozygosis: yes (1-2)	643
+1067305201	KIR2DL4	1.002278	heterozygosis: unknown	644
+1321617901	KIR2DL4	1.002376	heterozygosis: yes (1-2)	645
+1245314301	KIR2DL4	1.002571	heterozygosis: yes (1-2)	646
+1105309301	KIR2DL4	1.002655	heterozygosis: yes (1-2)	647
+1174511301	KIR2DL4	1.002744	heterozygosis: yes (1-2)	648
+1244303302	KIR2DL4	1.002845	heterozygosis: unknown	649
+311300012	KIR2DL4	1.003034	heterozygosis: yes (1-2)	650
+686907091	KIR2DL4	1.003383	heterozygosis: unknown	651
+573100301	KIR2DL4	1.003711	heterozygosis: yes (1-2)	652
+210800072	KIR2DL4	1.003790	heterozygosis: unknown	653
+1086675791	KIR2DL4	1.004246	heterozygosis: yes (1-2)	654
+148213091	KIR2DL4	1.004353	heterozygosis: unknown	655
+210800049	KIR2DL4	1.004424	heterozygosis: unknown	656
+210800075	KIR2DL4	1.004914	heterozygosis: yes (1-2)	657
+1113557401	KIR2DL4	1.005070	heterozygosis: unknown	658
+694209052	KIR2DL4	1.005547	heterozygosis: yes (1-2)	659
+210800073	KIR2DL4	1.005615	heterozygosis: yes (1-2)	660
+272106071	KIR2DL4	1.005850	heterozygosis: unknown	661
+1306837101	KIR2DL4	1.006076	heterozygosis: yes (1-2)	662
+1301619901	KIR2DL4	1.006365	heterozygosis: yes (1-2)	663
+823810121	KIR2DL4	1.006558	heterozygosis: yes (1-2)	664
+353105031	KIR2DL4	1.006688	heterozygosis: unknown	665
+184817091	KIR2DL4	1.006775	heterozygosis: yes (1-2)	666
+671208082	KIR2DL4	1.007225	heterozygosis: unknown	667
+410817061	KIR2DL4	1.007300	heterozygosis: yes (1-2)	668
+1012617701	KIR2DL4	1.007540	heterozygosis: yes (1-2)	669
+533802051	KIR2DL4	1.008130	heterozygosis: yes (1-2)	670
+489404031	KIR2DL4	1.008144	heterozygosis: unknown	671
+52103052	KIR2DL4	1.008889	heterozygosis: unknown	672
+597200217	KIR2DL4	1.009293	heterozygosis: unknown	673
+224309081	KIR2DL4	1.009403	heterozygosis: yes (1-2)	674
+1147414901	KIR2DL4	1.009806	heterozygosis: unknown	675
+1222818901	KIR2DL4	1.010033	heterozygosis: yes (1-2)	676
+1199548101	KIR2DL4	1.010043	heterozygosis: unknown	677
+63929012	KIR2DL4	1.010797	heterozygosis: yes (>2)	678
+210800023	KIR2DL4	1.011193	heterozygosis: unknown	679
+210800135	KIR2DL4	1.011321	heterozygosis: yes (1-2)	680
+803123042	KIR2DL4	1.011503	heterozygosis: yes (1-2)	681
+858000540	KIR2DL4	1.011814	heterozygosis: unknown	682
+1167510101	KIR2DL4	1.012461	heterozygosis: yes (1-2)	683
+210800137	KIR2DL4	1.012525	heterozygosis: yes (1-2)	684
+839007051	KIR2DL4	1.012532	heterozygosis: yes (1-2)	685
+210800058	KIR2DL4	1.014185	heterozygosis: yes (1-2)	686
+1066300601	KIR2DL4	1.014627	heterozygosis: unknown	687
+369814111	KIR2DL4	1.014646	heterozygosis: unknown	688
+816400231	KIR2DL4	1.015263	heterozygosis: yes (1-2)	689
+607502081	KIR2DL4	1.015471	heterozygosis: yes (1-2)	690
+526900011	KIR2DL4	1.015512	heterozygosis: yes (1-2)	691
+55911051	KIR2DL4	1.015747	heterozygosis: yes (1-2)	692
+1145306902	KIR2DL4	1.015758	heterozygosis: yes (1-2)	693
+449720041	KIR2DL4	1.015946	heterozygosis: unknown	694
+593918082	KIR2DL4	1.016304	heterozygosis: unknown	695
+321701011	KIR2DL4	1.016322	heterozygosis: unknown	696
+1305612401	KIR2DL4	1.016523	heterozygosis: yes (1-2)	697
+1254306102	KIR2DL4	1.016848	heterozygosis: yes (1-2)	698
+210800015	KIR2DL4	1.017180	heterozygosis: unknown	699
+1080414201	KIR2DL4	1.017314	heterozygosis: unknown	700
+286647051	KIR2DL4	1.017661	heterozygosis: unknown	701
+561815021	KIR2DL4	1.017683	heterozygosis: yes (1-2)	702
+343021102	KIR2DL4	1.017745	heterozygosis: unknown	703
+293900060	KIR2DL4	1.018052	heterozygosis: yes (1-2)	704
+368814102	KIR2DL4	1.018156	heterozygosis: yes (1-2)	705
+65414101	KIR2DL4	1.018422	heterozygosis: yes (1-2)	706
+422211031	KIR2DL4	1.018820	heterozygosis: unknown	707
+337005011	KIR2DL4	1.018895	heterozygosis: unknown	708
+1116208702	KIR2DL4	1.018987	heterozygosis: unknown	709
+871400011	KIR2DL4	1.019519	heterozygosis: yes (1-2)	710
+201320081	KIR2DL4	1.019819	heterozygosis: yes (1-2)	711
+885000534	KIR2DL4	1.019939	heterozygosis: yes (1-2)	712
+273106111	KIR2DL4	1.020127	heterozygosis: unknown	713
+516622071	KIR2DL4	1.020310	heterozygosis: unknown	714
+814903031	KIR2DL4	1.020476	heterozygosis: unknown	715
+820000506	KIR2DL4	1.021065	heterozygosis: yes (1-2)	716
+815407031	KIR2DL4	1.021159	heterozygosis: yes (1-2)	717
+210800031	KIR2DL4	1.021271	heterozygosis: unknown	718
+262805052	KIR2DL4	1.021330	heterozygosis: unknown	719
+170918061	KIR2DL4	1.021961	heterozygosis: unknown	720
+210800045	KIR2DL4	1.022193	heterozygosis: unknown	721
+221409101	KIR2DL4	1.022205	heterozygosis: unknown	722
+630000403	KIR2DL4	1.022470	heterozygosis: yes (1-2)	723
+1087643301	KIR2DL4	1.022489	heterozygosis: unknown	724
+697206072	KIR2DL4	1.022699	heterozygosis: unknown	725
+1070309701	KIR2DL4	1.023513	heterozygosis: unknown	726
+1000206901	KIR2DL4	1.024102	heterozygosis: unknown	727
+1016611301	KIR2DL4	1.025742	heterozygosis: yes (1-2)	728
+269102031	KIR2DL4	1.026517	heterozygosis: unknown	729
+291903092	KIR2DL4	1.026973	heterozygosis: yes (1-2)	730
+260803041	KIR2DL4	1.027040	heterozygosis: yes (1-2)	731
+1004211301	KIR2DL4	1.027235	heterozygosis: unknown	732
+264812071	KIR2DL4	1.027374	heterozygosis: unknown	733
+520701041	KIR2DL4	1.027421	heterozygosis: unknown	734
+210800128	KIR2DL4	1.027995	heterozygosis: yes (1-2)	735
+213720091	KIR2DL4	1.028279	heterozygosis: unknown	736
+181806072	KIR2DL4	1.028916	heterozygosis: yes (1-2)	737
+210800123	KIR2DL4	1.029230	heterozygosis: yes (1-2)	738
+429046101	KIR2DL4	1.029795	heterozygosis: yes (>2)	739
+210800029	KIR2DL4	1.030637	heterozygosis: unknown	740
+229727101	KIR2DL4	1.030960	heterozygosis: yes (1-2)	741
+1292014101	KIR2DL4	1.031003	heterozygosis: yes (1-2)	742
+1299323301	KIR2DL4	1.031007	heterozygosis: yes (1-2)	743
+32833091	KIR2DL4	1.031395	heterozygosis: yes (1-2)	744
+1027328701	KIR2DL4	1.031611	heterozygosis: unknown	745
+1028328901	KIR2DL4	1.031666	heterozygosis: yes (1-2)	746
+451303101	KIR2DL4	1.032330	heterozygosis: unknown	747
+206701082	KIR2DL4	1.032382	heterozygosis: unknown	748
+1253306101	KIR2DL4	1.032564	heterozygosis: unknown	749
+326712081	KIR2DL4	1.033291	heterozygosis: unknown	750
+210800129	KIR2DL4	1.033875	heterozygosis: yes (>2)	751
+60933051	KIR2DL4	1.034275	heterozygosis: unknown	752
+1163613101	KIR2DL4	1.035392	heterozygosis: yes (1-2)	753
+202320082	KIR2DL4	1.035620	heterozygosis: yes (1-2)	754
+1164621101	KIR2DL4	1.035832	heterozygosis: yes (1-2)	755
+234435042	KIR2DL4	1.036275	heterozygosis: yes (1-2)	756
+361100250	KIR2DL4	1.036356	heterozygosis: unknown	757
+1171507301	KIR2DL4	1.036379	heterozygosis: yes (1-2)	758
+424320092	KIR2DL4	1.036566	heterozygosis: unknown	759
+345801011	KIR2DL4	1.037118	heterozygosis: unknown	760
+1271304902	KIR2DL4	1.037272	heterozygosis: unknown	761
+586000089	KIR2DL4	1.037281	heterozygosis: yes (1-2)	762
+17912032	KIR2DL4	1.037434	heterozygosis: yes (1-2)	763
+237218082	KIR2DL4	1.037692	heterozygosis: yes (1-2)	764
+804131031	KIR2DL4	1.038174	heterozygosis: yes (1-2)	765
+307300032	KIR2DL4	1.038474	heterozygosis: yes (1-2)	766
+1094410202	KIR2DL4	1.038489	heterozygosis: yes (1-2)	767
+284626051	KIR2DL4	1.039006	heterozygosis: unknown	768
+426111081	KIR2DL4	1.039338	heterozygosis: unknown	769
+567100315	KIR2DL4	1.039431	heterozygosis: unknown	770
+850206101	KIR2DL4	1.039477	heterozygosis: unknown	771
+210800089	KIR2DL4	1.039514	heterozygosis: yes (1-2)	772
+1278601602	KIR2DL4	1.039636	heterozygosis: yes (1-2)	773
+10227052	KIR2DL4	1.040924	heterozygosis: yes (1-2)	774
+167919062	KIR2DL4	1.042321	heterozygosis: unknown	775
+623523111	KIR2DL4	1.042602	heterozygosis: yes (1-2)	776
+210800026	KIR2DL4	1.042656	heterozygosis: yes (1-2)	777
+179800101	KIR2DL4	1.042662	heterozygosis: unknown	778
+519200295	KIR2DL4	1.042926	heterozygosis: unknown	779
+1123524701	KIR2DL4	1.043046	heterozygosis: yes (>2)	780
+68922043	KIR2DL4	1.043491	heterozygosis: unknown	781
+1024311301	KIR2DL4	1.044083	heterozygosis: yes (1-2)	782
+210800035	KIR2DL4	1.044098	heterozygosis: unknown	783
+1296010301	KIR2DL4	1.044478	heterozygosis: unknown	784
+1038800301	KIR2DL4	1.045016	heterozygosis: unknown	785
+210800046	KIR2DL4	1.045148	heterozygosis: yes (1-2)	786
+1309534301	KIR2DL4	1.045800	heterozygosis: yes (>2)	787
+838001021	KIR2DL4	1.046033	heterozygosis: yes (1-2)	788
+358106042	KIR2DL4	1.046592	heterozygosis: unknown	789
+1136309301	KIR2DL4	1.046982	heterozygosis: unknown	790
+1023311101	KIR2DL4	1.048052	heterozygosis: unknown	791
+21309053	KIR2DL4	1.048480	heterozygosis: yes (1-2)	792
+670208081	KIR2DL4	1.048491	heterozygosis: unknown	793
+1310570901	KIR2DL4	1.049306	heterozygosis: unknown	794
+210800033	KIR2DL4	1.049727	heterozygosis: yes (1-2)	795
+1051007301	KIR2DL4	1.049780	heterozygosis: unknown	796
+210800115	KIR2DL4	1.051045	heterozygosis: unknown	797
+401217031	KIR2DL4	1.051102	heterozygosis: unknown	798
+540230101	KIR2DL4	1.051168	heterozygosis: unknown	799
+1341317021	KIR2DL4	1.051414	heterozygosis: unknown	800
+160230011	KIR2DL4	1.051483	heterozygosis: unknown	801
+210800030	KIR2DL4	1.051527	heterozygosis: unknown	802
+1096407801	KIR2DL4	1.051624	heterozygosis: yes (1-2)	803
+1035816701	KIR2DL4	1.052144	heterozygosis: yes (1-2)	804
+882730051	KIR2DL4	1.052564	heterozygosis: unknown	805
+25312101	KIR2DL4	1.053216	heterozygosis: yes (1-2)	806
+639417062	KIR2DL4	1.053365	heterozygosis: unknown	807
+560809022	KIR2DL4	1.053514	heterozygosis: unknown	808
+557844101	KIR2DL4	1.054693	heterozygosis: yes (1-2)	809
+1010616901	KIR2DL4	1.054793	heterozygosis: yes (1-2)	810
+295309041	KIR2DL4	1.055170	heterozygosis: unknown	811
+465300832	KIR2DL4	1.055421	heterozygosis: unknown	812
+118410051	KIR2DL4	1.056076	heterozygosis: yes (1-2)	813
+351944071	KIR2DL4	1.057156	heterozygosis: yes (1-2)	814
+280905041	KIR2DL4	1.057351	heterozygosis: unknown	815
+398725051	KIR2DL4	1.057425	heterozygosis: yes (1-2)	816
+263805061	KIR2DL4	1.057457	heterozygosis: yes (1-2)	817
+1274204501	KIR2DL4	1.058062	heterozygosis: unknown	818
+210800110	KIR2DL4	1.058191	heterozygosis: unknown	819
+210800032	KIR2DL4	1.059288	heterozygosis: unknown	820
+380013012	KIR2DL4	1.059571	heterozygosis: yes (1-2)	821
+210800065	KIR2DL4	1.059596	heterozygosis: unknown	822
+207701083	KIR2DL4	1.059742	heterozygosis: yes (>2)	823
+890110091	KIR2DL4	1.059982	heterozygosis: unknown	824
+802123041	KIR2DL4	1.060219	heterozygosis: unknown	825
+86428052	KIR2DL4	1.060383	heterozygosis: unknown	826
+811225081	KIR2DL4	1.060822	heterozygosis: yes (1-2)	827
+554824101	KIR2DL4	1.061534	heterozygosis: yes (1-2)	828
+391400051	KIR2DL4	1.063089	heterozygosis: yes (1-2)	829
+825605071	KIR2DL4	1.063216	heterozygosis: unknown	830
+335916011	KIR2DL4	1.064311	heterozygosis: yes (>2)	831
+1282622601	KIR2DL4	1.064322	heterozygosis: unknown	832
+1085674901	KIR2DL4	1.066057	heterozygosis: yes (1-2)	833
+210800018	KIR2DL4	1.066789	heterozygosis: yes (1-2)	834
+468402011	KIR2DL4	1.067921	heterozygosis: unknown	835
+210800107	KIR2DL4	1.067964	heterozygosis: unknown	836
+863900061	KIR2DL4	1.068417	heterozygosis: yes (1-2)	837
+564832012	KIR2DL4	1.068829	heterozygosis: unknown	838
+165919051	KIR2DL4	1.068990	heterozygosis: yes (1-2)	839
+290907011	KIR2DL4	1.070540	heterozygosis: yes (1-2)	840
+294309021	KIR2DL4	1.072474	heterozygosis: unknown	841
+359106051	KIR2DL4	1.072588	heterozygosis: unknown	842
+1031824301	KIR2DL4	1.072775	heterozygosis: unknown	843
+886000538	KIR2DL4	1.073103	heterozygosis: unknown	844
+1188124701	KIR2DL4	1.073208	heterozygosis: yes (1-2)	845
+235414031	KIR2DL4	1.073351	heterozygosis: unknown	846
+218208091	KIR2DL4	1.073492	heterozygosis: yes (1-2)	847
+688929011	KIR2DL4	1.073701	heterozygosis: unknown	848
+8227031	KIR2DL4	1.073877	heterozygosis: unknown	849
+1300308501	KIR2DL4	1.074649	heterozygosis: unknown	850
+363116101	KIR2DL4	1.075224	heterozygosis: unknown	851
+1064331901	KIR2DL4	1.075503	heterozygosis: yes (1-2)	852
+109303083	KIR2DL4	1.075684	heterozygosis: yes (1-2)	853
+240601021	KIR2DL4	1.076267	heterozygosis: yes (1-2)	854
+469217021	KIR2DL4	1.076412	heterozygosis: yes (1-2)	855
+134901092	KIR2DL4	1.076937	heterozygosis: unknown	856
+635323081	KIR2DL4	1.076947	heterozygosis: yes (1-2)	857
+138106041	KIR2DL4	1.078503	heterozygosis: yes (1-2)	858
+210800133	KIR2DL4	1.078853	heterozygosis: unknown	859
+210809000	KIR2DL4	1.079485	heterozygosis: yes (>2)	860
+551800070	KIR2DL4	1.079783	heterozygosis: unknown	861
+209320091	KIR2DL4	1.080307	heterozygosis: unknown	862
+373100091	KIR2DL4	1.080317	heterozygosis: yes (1-2)	863
+1229509801	KIR2DL4	1.080590	heterozygosis: unknown	864
+514708022	KIR2DL4	1.081122	heterozygosis: unknown	865
+210800084	KIR2DL4	1.081403	heterozygosis: unknown	866
+679226032	KIR2DL4	1.081451	heterozygosis: unknown	867
+628000409	KIR2DL4	1.081518	heterozygosis: unknown	868
+310300011	KIR2DL4	1.081948	heterozygosis: yes (1-2)	869
+880808061	KIR2DL4	1.082502	heterozygosis: unknown	870
+210800013	KIR2DL4	1.082999	heterozygosis: unknown	871
+387832102	KIR2DL4	1.083046	heterozygosis: yes (1-2)	872
+487428061	KIR2DL4	1.084274	heterozygosis: yes (1-2)	873
+12813033	KIR2DL4	1.084536	heterozygosis: yes (1-2)	874
+210800109	KIR2DL4	1.085103	heterozygosis: unknown	875
+819800030	KIR2DL4	1.086061	heterozygosis: unknown	876
+1063331501	KIR2DL4	1.087242	heterozygosis: unknown	877
+156202031	KIR2DL4	1.087360	heterozygosis: yes (1-2)	878
+511515011	KIR2DL4	1.088457	heterozygosis: yes (1-2)	879
+1342817101	KIR2DL4	1.088630	heterozygosis: yes (1-2)	880
+377900041	KIR2DL4	1.088923	heterozygosis: yes (1-2)	881
+317300161	KIR2DL4	1.089589	heterozygosis: unknown	882
+1041302101	KIR2DL4	1.090143	heterozygosis: unknown	883
+217211042	KIR2DL4	1.091141	heterozygosis: yes (1-2)	884
+222409102	KIR2DL4	1.091417	heterozygosis: unknown	885
+632000410	KIR2DL4	1.091769	heterozygosis: yes (1-2)	886
+357106041	KIR2DL4	1.092049	heterozygosis: unknown	887
+1108317201	KIR2DL4	1.092490	heterozygosis: yes (1-2)	888
+1073306701	KIR2DL4	1.092509	heterozygosis: yes (1-2)	889
+28326021	KIR2DL4	1.092853	heterozygosis: yes (1-2)	890
+531900151	KIR2DL4	1.093615	heterozygosis: yes (1-2)	891
+856103091	KIR2DL4	1.094439	heterozygosis: yes (>2)	892
+19309051	KIR2DL4	1.094733	heterozygosis: unknown	893
+545000422	KIR2DL4	1.094989	heterozygosis: yes (>2)	894
+233435041	KIR2DL4	1.096987	heterozygosis: yes (1-2)	895
+1138100101	KIR2DL4	1.097216	heterozygosis: yes (1-2)	896
+875000031	KIR2DL4	1.098192	heterozygosis: unknown	897
+1110318701	KIR2DL4	1.098495	heterozygosis: unknown	898
+210800077	KIR2DL4	1.098892	heterozygosis: yes (1-2)	899
+210800079	KIR2DL4	1.099000	heterozygosis: unknown	900
+1168514701	KIR2DL4	1.101087	heterozygosis: unknown	901
+210800034	KIR2DL4	1.101268	heterozygosis: yes (1-2)	902
+1126220301	KIR2DL4	1.101780	heterozygosis: unknown	903
+506417051	KIR2DL4	1.101959	heterozygosis: unknown	904
+210800051	KIR2DL4	1.104373	heterozygosis: yes (>2)	905
+585016092	KIR2DL4	1.105022	heterozygosis: unknown	906
+210800108	KIR2DL4	1.105407	heterozygosis: yes (1-2)	907
+673715061	KIR2DL4	1.105474	heterozygosis: unknown	908
+210800082	KIR2DL4	1.105605	heterozygosis: yes (1-2)	909
+817922021	KIR2DL4	1.106262	heterozygosis: unknown	910
+1177609101	KIR2DL4	1.106744	heterozygosis: unknown	911
+1155216701	KIR2DL4	1.106843	heterozygosis: yes (>2)	912
+1186600201	KIR2DL4	1.107050	heterozygosis: unknown	913
+555824102	KIR2DL4	1.107412	heterozygosis: unknown	914
+1322616701	KIR2DL4	1.107414	heterozygosis: yes (>2)	915
+348814061	KIR2DL4	1.107584	heterozygosis: yes (1-2)	916
+642705082	KIR2DL4	1.107648	heterozygosis: unknown	917
+595913111	KIR2DL4	1.107949	heterozygosis: yes (1-2)	918
+195211032	KIR2DL4	1.108109	heterozygosis: yes (1-2)	919
+692420091	KIR2DL4	1.109485	heterozygosis: unknown	920
+1312401501	KIR2DL4	1.109513	heterozygosis: unknown	921
+378900081	KIR2DL4	1.110868	heterozygosis: yes (1-2)	922
+1295009501	KIR2DL4	1.111004	heterozygosis: yes (1-2)	923
+569122051	KIR2DL4	1.111153	heterozygosis: unknown	924
+637323091	KIR2DL4	1.111966	heterozygosis: yes (1-2)	925
+1109317202	KIR2DL4	1.112913	heterozygosis: unknown	926
+210808000	KIR2DL4	1.112961	heterozygosis: unknown	927
+653000468	KIR2DL4	1.113281	heterozygosis: unknown	928
+374100071	KIR2DL4	1.113688	heterozygosis: yes (1-2)	929
+1156206501	KIR2DL4	1.113964	heterozygosis: unknown	930
+866604021	KIR2DL4	1.114226	heterozygosis: yes (1-2)	931
+844112061	KIR2DL4	1.115431	heterozygosis: unknown	932
+210800020	KIR2DL4	1.115469	heterozygosis: yes (1-2)	933
+1043306901	KIR2DL4	1.117228	heterozygosis: yes (1-2)	934
+66417082	KIR2DL4	1.118094	heterozygosis: yes (1-2)	935
+121418032	KIR2DL4	1.118211	heterozygosis: yes (1-2)	936
+59603011	KIR2DL4	1.119820	heterozygosis: unknown	937
+162910071	KIR2DL4	1.120639	heterozygosis: yes (1-2)	938
+672208061	KIR2DL4	1.121119	heterozygosis: unknown	939
+1319604602	KIR2DL4	1.122137	heterozygosis: yes (1-2)	940
+364131061	KIR2DL4	1.122302	heterozygosis: unknown	941
+1180101501	KIR2DL4	1.122626	heterozygosis: unknown	942
+550800017	KIR2DL4	1.122760	heterozygosis: yes (1-2)	943
+23312012	KIR2DL4	1.122873	heterozygosis: yes (1-2)	944
+847939062	KIR2DL4	1.122932	heterozygosis: yes (1-2)	945
+640417051	KIR2DL4	1.123053	heterozygosis: unknown	946
+126322071	KIR2DL4	1.123225	heterozygosis: yes (1-2)	947
+622523092	KIR2DL4	1.124025	heterozygosis: unknown	948
+1326613901	KIR2DL4	1.124214	heterozygosis: unknown	949
+210800085	KIR2DL4	1.125489	heterozygosis: unknown	950
+276110121	KIR2DL4	1.125535	heterozygosis: yes (1-2)	951
+606224012	KIR2DL4	1.125845	heterozygosis: yes (1-2)	952
+1078415001	KIR2DL4	1.125941	heterozygosis: unknown	953
+45513012	KIR2DL4	1.126892	heterozygosis: yes (1-2)	954
+238218081	KIR2DL4	1.127301	heterozygosis: unknown	955
+147213061	KIR2DL4	1.127371	heterozygosis: unknown	956
+47518082	KIR2DL4	1.127942	heterozygosis: unknown	957
+44140022	KIR2DL4	1.128142	heterozygosis: unknown	958
+1302824301	KIR2DL4	1.128708	heterozygosis: unknown	959
+1045318901	KIR2DL4	1.130033	heterozygosis: unknown	960
+1219602701	KIR2DL4	1.133665	heterozygosis: yes (1-2)	961
+626528021	KIR2DL4	1.133814	heterozygosis: yes (1-2)	962
+279902091	KIR2DL4	1.135041	heterozygosis: yes (1-2)	963
+1158102101	KIR2DL4	1.135045	heterozygosis: yes (1-2)	964
+810200141	KIR2DL4	1.135340	heterozygosis: unknown	965
+1084649101	KIR2DL4	1.135429	heterozygosis: yes (1-2)	966
+180806071	KIR2DL4	1.135675	heterozygosis: yes (1-2)	967
+210800071	KIR2DL4	1.136481	heterozygosis: yes (1-2)	968
+539224062	KIR2DL4	1.136901	heterozygosis: unknown	969
+54409051	KIR2DL4	1.137321	heterozygosis: unknown	970
+87428053	KIR2DL4	1.137383	heterozygosis: yes (1-2)	971
+395200244	KIR2DL4	1.137723	heterozygosis: yes (1-2)	972
+1334717501	KIR2DL4	1.138269	heterozygosis: yes (1-2)	973
+49103041	KIR2DL4	1.138671	heterozygosis: yes (1-2)	974
+1224835901	KIR2DL4	1.141109	heterozygosis: unknown	975
+1236209301	KIR2DL4	1.141160	heterozygosis: unknown	976
+330201041	KIR2DL4	1.141584	heterozygosis: yes (1-2)	977
+125318061	KIR2DL4	1.141872	heterozygosis: unknown	978
+1217612301	KIR2DL4	1.142786	heterozygosis: yes (1-2)	979
+478714091	KIR2DL4	1.143145	heterozygosis: yes (1-2)	980
+210800101	KIR2DL4	1.143737	heterozygosis: yes (1-2)	981
+175020072	KIR2DL4	1.144039	heterozygosis: yes (1-2)	982
+210800116	KIR2DL4	1.145629	heterozygosis: yes (1-2)	983
+267102051	KIR2DL4	1.146459	heterozygosis: unknown	984
+135901091	KIR2DL4	1.146536	heterozygosis: yes (1-2)	985
+210800036	KIR2DL4	1.147318	heterozygosis: unknown	986
+1075415202	KIR2DL4	1.147481	heterozygosis: yes (1-2)	987
+891400031	KIR2DL4	1.148003	heterozygosis: unknown	988
+1242300101	KIR2DL4	1.149400	heterozygosis: yes (1-2)	989
+341309071	KIR2DL4	1.150537	heterozygosis: unknown	990
+354102051	KIR2DL4	1.150791	heterozygosis: yes (1-2)	991
+1184611101	KIR2DL4	1.150847	heterozygosis: unknown	992
+1275529101	KIR2DL4	1.151254	heterozygosis: unknown	993
+227708102	KIR2DL4	1.151528	heterozygosis: yes (1-2)	994
+329202012	KIR2DL4	1.151540	heterozygosis: unknown	995
+1122217501	KIR2DL4	1.152083	heterozygosis: unknown	996
+634300224	KIR2DL4	1.152590	heterozygosis: yes (1-2)	997
+133918061	KIR2DL4	1.154531	heterozygosis: yes (1-2)	998
+1046324501	KIR2DL4	1.156095	heterozygosis: unknown	999
+472700136	KIR2DL4	1.157202	heterozygosis: yes (1-2)	1000
+1179619501	KIR2DL4	1.157396	heterozygosis: yes (1-2)	1001
+1214602101	KIR2DL4	1.157512	heterozygosis: unknown	1002
+490903011	KIR2DL4	1.159405	heterozygosis: unknown	1003
+1120208701	KIR2DL4	1.160636	heterozygosis: yes (1-2)	1004
+1153202102	KIR2DL4	1.161355	heterozygosis: yes (1-2)	1005
+415601031	KIR2DL4	1.161479	heterozygosis: unknown	1006
+497413041	KIR2DL4	1.161628	heterozygosis: yes (1-2)	1007
+1235616502	KIR2DL4	1.163258	heterozygosis: yes (1-2)	1008
+563000569	KIR2DL4	1.163523	heterozygosis: yes (1-2)	1009
+210800050	KIR2DL4	1.163804	heterozygosis: unknown	1010
+212716041	KIR2DL4	1.164415	heterozygosis: yes (1-2)	1011
+1208202601	KIR2DL4	1.168481	heterozygosis: yes (1-2)	1012
+210800086	KIR2DL4	1.170532	heterozygosis: unknown	1013
+328202011	KIR2DL4	1.171150	heterozygosis: unknown	1014
+1285201401	KIR2DL4	1.171844	heterozygosis: unknown	1015
+1032827101	KIR2DL4	1.173791	heterozygosis: yes (1-2)	1016
+210800070	KIR2DL4	1.173858	heterozygosis: yes (1-2)	1017
+690901071	KIR2DL4	1.174286	heterozygosis: unknown	1018
+178718051	KIR2DL4	1.175948	heterozygosis: yes (1-2)	1019
+302100071	KIR2DL4	1.176734	heterozygosis: unknown	1020
+1029307901	KIR2DL4	1.176846	heterozygosis: unknown	1021
+411611051	KIR2DL4	1.178499	heterozygosis: unknown	1022
+553815101	KIR2DL4	1.181543	heterozygosis: unknown	1023
+11808031	KIR2DL4	1.182491	heterozygosis: yes (1-2)	1024
+208320012	KIR2DL4	1.184848	heterozygosis: yes (1-2)	1025
+1057014701	KIR2DL4	1.186638	heterozygosis: unknown	1026
+187914081	KIR2DL4	1.188555	heterozygosis: unknown	1027
+367814101	KIR2DL4	1.188579	heterozygosis: unknown	1028
+1201535702	KIR2DL4	1.189766	heterozygosis: unknown	1029
+164919041	KIR2DL4	1.190263	heterozygosis: yes (1-2)	1030
+120416021	KIR2DL4	1.191231	heterozygosis: unknown	1031
+1007215301	KIR2DL4	1.191919	heterozygosis: unknown	1032
+806105102	KIR2DL4	1.191924	heterozygosis: yes (1-2)	1033
+163910072	KIR2DL4	1.192683	heterozygosis: unknown	1034
+210800060	KIR2DL4	1.192940	heterozygosis: yes (1-2)	1035
+1082416301	KIR2DL4	1.193825	heterozygosis: unknown	1036
+1241322501	KIR2DL4	1.194997	heterozygosis: yes (1-2)	1037
+210322011	KIR2DL4	1.195668	heterozygosis: yes (1-2)	1038
+1097223901	KIR2DL4	1.197724	heterozygosis: yes (1-2)	1039
+1112517801	KIR2DL4	1.198014	heterozygosis: unknown	1040
+852220051	KIR2DL4	1.199559	heterozygosis: yes (1-2)	1041
+282916071	KIR2DL4	1.199905	heterozygosis: yes (>2)	1042
+412617011	KIR2DL4	1.201630	heterozygosis: unknown	1043
+1009228901	KIR2DL4	1.208251	heterozygosis: unknown	1044
+416215041	KIR2DL4	1.209077	heterozygosis: unknown	1045
+344305051	KIR2DL4	1.210882	heterozygosis: yes (1-2)	1046
+285626052	KIR2DL4	1.211669	heterozygosis: yes (1-2)	1047
+61929041	KIR2DL4	1.214661	heterozygosis: yes (1-2)	1048
+1039801301	KIR2DL4	1.215600	heterozygosis: yes (1-2)	1049
+1148415501	KIR2DL4	1.217587	heterozygosis: unknown	1050
+1102304001	KIR2DL4	1.218859	heterozygosis: yes (1-2)	1051
+192723061	KIR2DL4	1.220851	heterozygosis: unknown	1052
+604214091	KIR2DL4	1.222244	heterozygosis: unknown	1053
+661407041	KIR2DL4	1.226758	heterozygosis: unknown	1054
+242605081	KIR2DL4	1.229773	heterozygosis: yes (1-2)	1055
+365123011	KIR2DL4	1.230826	heterozygosis: yes (1-2)	1056
+532802041	KIR2DL4	1.233117	heterozygosis: unknown	1057
+629000523	KIR2DL4	1.236596	heterozygosis: yes (1-2)	1058
+898106061	KIR2DL4	1.238992	heterozygosis: yes (>2)	1059
+541230102	KIR2DL4	1.239915	heterozygosis: unknown	1060
+1228816501	KIR2DL4	1.240013	heterozygosis: unknown	1061
+633312061	KIR2DL4	1.240290	heterozygosis: unknown	1062
+315300121	KIR2DL4	1.242952	heterozygosis: yes (1-2)	1063
+1151210901	KIR2DL4	1.243598	heterozygosis: yes (1-2)	1064
+37041012	KIR2DL4	1.244252	heterozygosis: yes (1-2)	1065
+1003210301	KIR2DL4	1.249139	heterozygosis: unknown	1066
+548000496	KIR2DL4	1.251094	heterozygosis: unknown	1067
+613206052	KIR2DL4	1.255714	heterozygosis: unknown	1068
+292903042	KIR2DL4	1.255967	heterozygosis: yes (1-2)	1069
+857103081	KIR2DL4	1.259779	heterozygosis: yes (1-2)	1070
+1069305601	KIR2DL4	1.263064	heterozygosis: yes (1-2)	1071
+884000530	KIR2DL4	1.271527	heterozygosis: yes (1-2)	1072
+232503031	KIR2DL4	1.272429	heterozygosis: unknown	1073
+81418052	KIR2DL4	1.288344	heterozygosis: yes (1-2)	1074
+1115534601	KIR2DL4	1.288493	heterozygosis: yes (1-2)	1075
+336908021	KIR2DL4	1.291562	heterozygosis: yes (1-2)	1076
+154224081	KIR2DL4	1.292831	heterozygosis: unknown	1077
+123313091	KIR2DL4	1.295681	heterozygosis: yes (1-2)	1078
+116724051	KIR2DL4	1.295901	heterozygosis: unknown	1079
+813016061	KIR2DL4	1.300725	heterozygosis: yes (1-2)	1080
+85428051	KIR2DL4	1.303758	heterozygosis: yes (1-2)	1081
+556827101	KIR2DL4	1.305779	heterozygosis: unknown	1082
+493911021	KIR2DL4	1.306412	heterozygosis: yes (1-2)	1083
+241601031	KIR2DL4	1.310488	heterozygosis: yes (1-2)	1084
+124313101	KIR2DL4	1.320143	heterozygosis: yes (1-2)	1085
+836930072	KIR2DL4	1.325252	heterozygosis: unknown	1086
+320712091	KIR2DL4	1.327587	heterozygosis: yes (1-2)	1087
+414601022	KIR2DL4	1.328258	heterozygosis: yes (1-2)	1088
+479725051	KIR2DL4	1.337198	heterozygosis: yes (1-2)	1089
+488428071	KIR2DL4	1.342730	heterozygosis: unknown	1090
+210800118	KIR2DL4	1.345232	heterozygosis: unknown	1091
+1273214701	KIR2DL4	1.348705	heterozygosis: unknown	1092
+1172507501	KIR2DL4	1.348797	heterozygosis: unknown	1093
+210800117	KIR2DL4	1.364507	heterozygosis: unknown	1094
+309300061	KIR2DL4	1.370552	heterozygosis: unknown	1095
+210800092	KIR2DL4	1.375721	heterozygosis: yes (1-2)	1096
+837001011	KIR2DL4	1.378990	heterozygosis: unknown	1097
+34930051	KIR2DL4	1.382259	heterozygosis: unknown	1098
+82425021	KIR2DL4	1.382892	heterozygosis: unknown	1099
+1304510501	KIR2DL4	1.387914	heterozygosis: unknown	1100
+403611041	KIR2DL4	1.419212	heterozygosis: yes (>2)	1101
+841108042	KIR2DL4	1.423259	heterozygosis: unknown	1102
+530900091	KIR2DL4	1.434024	heterozygosis: unknown	1103
+210800106	KIR2DL4	1.441612	heterozygosis: unknown	1104
+331201042	KIR2DL4	1.464815	heterozygosis: unknown	1105
+390400091	KIR2DL4	1.469168	heterozygosis: unknown	1106
+56911052	KIR2DL4	1.471249	heterozygosis: unknown	1107
+649927031	KIR2DL4	1.479848	heterozygosis: unknown	1108
+210800041	KIR2DL4	1.481513	heterozygosis: yes (1-2)	1109
+651923072	KIR2DL4	1.486340	heterozygosis: unknown	1110
+322703021	KIR2DL4	1.509175	heterozygosis: unknown	1111
+210800055	KIR2DL4	1.512342	heterozygosis: unknown	1112
+1200535701	KIR2DL4	1.521189	heterozygosis: unknown	1113
+355101021	KIR2DL4	1.527339	heterozygosis: unknown	1114
+58908011	KIR2DL4	1.544041	heterozygosis: unknown	1115
+1083645101	KIR2DL4	1.555097	heterozygosis: unknown	1116
+277101021	KIR2DL4	1.557397	heterozygosis: unknown	1117
+370100041	KIR2DL4	1.557774	heterozygosis: unknown	1118
+230727081	KIR2DL4	1.566390	heterozygosis: unknown	1119
+1220801701	KIR2DL4	1.583416	heterozygosis: unknown	1120
+425100248	KIR2DL4	1.589020	heterozygosis: unknown	1121
+427046021	KIR2DL4	1.607873	heterozygosis: unknown	1122
+250214101	KIR2DL4	1.613836	heterozygosis: unknown	1123
+897109041	KIR2DL4	1.623005	heterozygosis: unknown	1124
+1107311001	KIR2DL4	1.696045	heterozygosis: unknown	1125
+1178609102	KIR2DL4	1.700274	heterozygosis: unknown	1126
+1323600501	KIR2DL4	1.718117	heterozygosis: unknown	1127
+544000385	KIR2DL4	1.728109	heterozygosis: unknown	1128
+1246402801	KIR2DL4	1.758322	heterozygosis: unknown	1129
+409000527	KIR2DL4	1.768170	heterozygosis: unknown	1130
+48130071	KIR2DL4	1.801786	heterozygosis: unknown	1131
+1140104501	KIR2DL4	1.835754	heterozygosis: unknown	1132
+1162610301	KIR2DL4	1.890468	heterozygosis: yes (1-2)	1133
+210800136	KIR2DL4	1.941807	heterozygosis: unknown	1134

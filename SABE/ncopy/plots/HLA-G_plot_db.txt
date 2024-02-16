@@ -1,0 +1,1135 @@
+Sample	Gene	Ratio	Heterozygosis	Order
+36041011	HLA-G	0.533496	heterozygosis: yes (1-2)	1
+210800083	HLA-G	0.534915	heterozygosis: yes (1-2)	2
+280905041	HLA-G	0.591568	heterozygosis: yes (1-2)	3
+820000506	HLA-G	0.613144	heterozygosis: unknown	4
+438800029	HLA-G	0.616035	heterozygosis: unknown	5
+865000557	HLA-G	0.616232	heterozygosis: unknown	6
+215712101	HLA-G	0.638098	heterozygosis: yes (1-2)	7
+488428071	HLA-G	0.638222	heterozygosis: yes (1-2)	8
+1122217501	HLA-G	0.641992	heterozygosis: unknown	9
+210800119	HLA-G	0.648852	heterozygosis: unknown	10
+210800126	HLA-G	0.649581	heterozygosis: yes (1-2)	11
+467000378	HLA-G	0.652289	heterozygosis: yes (1-2)	12
+881813041	HLA-G	0.661720	heterozygosis: unknown	13
+619507061	HLA-G	0.670159	heterozygosis: yes (1-2)	14
+665921081	HLA-G	0.670743	heterozygosis: yes (1-2)	15
+1167510101	HLA-G	0.679735	heterozygosis: yes (>2)	16
+183810061	HLA-G	0.681107	heterozygosis: unknown	17
+806105102	HLA-G	0.682480	heterozygosis: unknown	18
+506417051	HLA-G	0.683476	heterozygosis: unknown	19
+1062301301	HLA-G	0.683977	heterozygosis: unknown	20
+168921021	HLA-G	0.684400	heterozygosis: yes (1-2)	21
+416215041	HLA-G	0.686334	heterozygosis: yes (>2)	22
+16907052	HLA-G	0.687319	heterozygosis: yes (1-2)	23
+166919061	HLA-G	0.692780	heterozygosis: unknown	24
+53409011	HLA-G	0.693809	heterozygosis: yes (1-2)	25
+1160534602	HLA-G	0.696097	heterozygosis: unknown	26
+257801021	HLA-G	0.697432	heterozygosis: yes (1-2)	27
+1018621701	HLA-G	0.698251	heterozygosis: unknown	28
+218208091	HLA-G	0.699066	heterozygosis: unknown	29
+1022306301	HLA-G	0.699787	heterozygosis: unknown	30
+437202011	HLA-G	0.699822	heterozygosis: unknown	31
+157610031	HLA-G	0.703420	heterozygosis: yes (1-2)	32
+671208082	HLA-G	0.704068	heterozygosis: unknown	33
+210800037	HLA-G	0.705723	heterozygosis: unknown	34
+1116208702	HLA-G	0.708017	heterozygosis: unknown	35
+694209052	HLA-G	0.708031	heterozygosis: yes (1-2)	36
+522715031	HLA-G	0.711641	heterozygosis: unknown	37
+1101303201	HLA-G	0.712427	heterozygosis: yes (1-2)	38
+151228102	HLA-G	0.714157	heterozygosis: unknown	39
+572122013	HLA-G	0.714304	heterozygosis: unknown	40
+210800100	HLA-G	0.715418	heterozygosis: unknown	41
+855227091	HLA-G	0.716024	heterozygosis: yes (1-2)	42
+434800024	HLA-G	0.716109	heterozygosis: yes (1-2)	43
+198305011	HLA-G	0.718235	heterozygosis: unknown	44
+210800139	HLA-G	0.718961	heterozygosis: unknown	45
+651923072	HLA-G	0.721545	heterozygosis: unknown	46
+177023091	HLA-G	0.722249	heterozygosis: unknown	47
+210800120	HLA-G	0.722840	heterozygosis: unknown	48
+1003210301	HLA-G	0.723631	heterozygosis: unknown	49
+474730041	HLA-G	0.725948	heterozygosis: unknown	50
+667934102	HLA-G	0.728733	heterozygosis: unknown	51
+170918061	HLA-G	0.730684	heterozygosis: yes (1-2)	52
+1072310801	HLA-G	0.731255	heterozygosis: unknown	53
+832901032	HLA-G	0.731435	heterozygosis: unknown	54
+618502071	HLA-G	0.732995	heterozygosis: unknown	55
+210800118	HLA-G	0.733510	heterozygosis: unknown	56
+1307701101	HLA-G	0.736363	heterozygosis: unknown	57
+589000356	HLA-G	0.736580	heterozygosis: unknown	58
+113306062	HLA-G	0.736582	heterozygosis: unknown	59
+1053009701	HLA-G	0.737135	heterozygosis: yes (1-2)	60
+137701061	HLA-G	0.737415	heterozygosis: unknown	61
+210800094	HLA-G	0.738567	heterozygosis: yes (1-2)	62
+515000447	HLA-G	0.739300	heterozygosis: unknown	63
+1137118901	HLA-G	0.739880	heterozygosis: unknown	64
+1032827101	HLA-G	0.740519	heterozygosis: unknown	65
+210800088	HLA-G	0.741236	heterozygosis: yes (1-2)	66
+1095415601	HLA-G	0.742202	heterozygosis: unknown	67
+210800051	HLA-G	0.742315	heterozygosis: unknown	68
+571000358	HLA-G	0.743735	heterozygosis: unknown	69
+258801022	HLA-G	0.744084	heterozygosis: unknown	70
+1129125002	HLA-G	0.744154	heterozygosis: yes (1-2)	71
+538224061	HLA-G	0.745063	heterozygosis: unknown	72
+230727081	HLA-G	0.745326	heterozygosis: yes (1-2)	73
+1250226501	HLA-G	0.745651	heterozygosis: yes (1-2)	74
+1115534601	HLA-G	0.746137	heterozygosis: yes (1-2)	75
+404808011	HLA-G	0.746995	heterozygosis: yes (1-2)	76
+266102011	HLA-G	0.747471	heterozygosis: unknown	77
+348814061	HLA-G	0.748635	heterozygosis: yes (1-2)	78
+278900185	HLA-G	0.749244	heterozygosis: unknown	79
+43140021	HLA-G	0.749263	heterozygosis: yes (1-2)	80
+210800065	HLA-G	0.749533	heterozygosis: yes (1-2)	81
+842112081	HLA-G	0.749677	heterozygosis: unknown	82
+402000439	HLA-G	0.750283	heterozygosis: unknown	83
+810200141	HLA-G	0.750325	heterozygosis: unknown	84
+210800063	HLA-G	0.754487	heterozygosis: yes (1-2)	85
+210800044	HLA-G	0.755212	heterozygosis: yes (1-2)	86
+1144306901	HLA-G	0.755394	heterozygosis: yes (1-2)	87
+1205554501	HLA-G	0.756061	heterozygosis: unknown	88
+523704101	HLA-G	0.756225	heterozygosis: unknown	89
+366123012	HLA-G	0.756330	heterozygosis: yes (1-2)	90
+286647051	HLA-G	0.757291	heterozygosis: yes (1-2)	91
+210800033	HLA-G	0.758402	heterozygosis: unknown	92
+31823101	HLA-G	0.760175	heterozygosis: yes (1-2)	93
+1099223302	HLA-G	0.760217	heterozygosis: yes (1-2)	94
+615800019	HLA-G	0.760775	heterozygosis: unknown	95
+828604051	HLA-G	0.761990	heterozygosis: yes (1-2)	96
+1035816701	HLA-G	0.763583	heterozygosis: unknown	97
+1079410601	HLA-G	0.764508	heterozygosis: yes (1-2)	98
+259801031	HLA-G	0.764660	heterozygosis: unknown	99
+858000540	HLA-G	0.764762	heterozygosis: yes (1-2)	100
+393400101	HLA-G	0.765309	heterozygosis: unknown	101
+551800070	HLA-G	0.765658	heterozygosis: unknown	102
+1263534501	HLA-G	0.765846	heterozygosis: unknown	103
+217211042	HLA-G	0.766485	heterozygosis: yes (1-2)	104
+141707011	HLA-G	0.767533	heterozygosis: yes (1-2)	105
+1135327301	HLA-G	0.768119	heterozygosis: yes (1-2)	106
+3173319102	HLA-G	0.769022	heterozygosis: unknown	107
+172901102	HLA-G	0.769749	heterozygosis: yes (1-2)	108
+510512061	HLA-G	0.769939	heterozygosis: unknown	109
+1138100101	HLA-G	0.770163	heterozygosis: unknown	110
+461911071	HLA-G	0.770181	heterozygosis: yes (1-2)	111
+12813033	HLA-G	0.770683	heterozygosis: yes (>2)	112
+210800078	HLA-G	0.771743	heterozygosis: unknown	113
+656901101	HLA-G	0.772331	heterozygosis: unknown	114
+435800114	HLA-G	0.772868	heterozygosis: yes (1-2)	115
+210800112	HLA-G	0.773672	heterozygosis: yes (1-2)	116
+243607091	HLA-G	0.773746	heterozygosis: yes (1-2)	117
+1204538102	HLA-G	0.774360	heterozygosis: unknown	118
+368814102	HLA-G	0.774497	heterozygosis: yes (1-2)	119
+423320091	HLA-G	0.774519	heterozygosis: yes (1-2)	120
+1097223901	HLA-G	0.774958	heterozygosis: yes (1-2)	121
+584016071	HLA-G	0.775945	heterozygosis: unknown	122
+210800045	HLA-G	0.776477	heterozygosis: unknown	123
+41130012	HLA-G	0.776574	heterozygosis: unknown	124
+840007041	HLA-G	0.776613	heterozygosis: unknown	125
+297100011	HLA-G	0.777003	heterozygosis: yes (1-2)	126
+524900021	HLA-G	0.777224	heterozygosis: yes (1-2)	127
+251226081	HLA-G	0.777791	heterozygosis: unknown	128
+260803041	HLA-G	0.777852	heterozygosis: unknown	129
+835930011	HLA-G	0.777910	heterozygosis: yes (1-2)	130
+1132140901	HLA-G	0.778001	heterozygosis: yes (1-2)	131
+210800136	HLA-G	0.778584	heterozygosis: yes (1-2)	132
+492910021	HLA-G	0.778693	heterozygosis: yes (1-2)	133
+1048328901	HLA-G	0.779852	heterozygosis: yes (1-2)	134
+1321617901	HLA-G	0.780538	heterozygosis: unknown	135
+519200295	HLA-G	0.782145	heterozygosis: unknown	136
+376100111	HLA-G	0.782705	heterozygosis: yes (1-2)	137
+682409091	HLA-G	0.783986	heterozygosis: yes (>2)	138
+272106071	HLA-G	0.784159	heterozygosis: yes (1-2)	139
+381016011	HLA-G	0.785176	heterozygosis: yes (1-2)	140
+10227052	HLA-G	0.785215	heterozygosis: unknown	141
+121418032	HLA-G	0.786073	heterozygosis: unknown	142
+451303101	HLA-G	0.786414	heterozygosis: unknown	143
+466000377	HLA-G	0.786601	heterozygosis: unknown	144
+836930072	HLA-G	0.786612	heterozygosis: yes (1-2)	145
+429046101	HLA-G	0.787210	heterozygosis: unknown	146
+417218092	HLA-G	0.787738	heterozygosis: yes (1-2)	147
+582011101	HLA-G	0.788653	heterozygosis: yes (1-2)	148
+508308101	HLA-G	0.788714	heterozygosis: unknown	149
+1091616501	HLA-G	0.788725	heterozygosis: unknown	150
+210800093	HLA-G	0.788726	heterozygosis: yes (1-2)	151
+868610051	HLA-G	0.788888	heterozygosis: unknown	152
+1273214701	HLA-G	0.789027	heterozygosis: unknown	153
+254911101	HLA-G	0.789124	heterozygosis: yes (1-2)	154
+431106051	HLA-G	0.789796	heterozygosis: unknown	155
+203323011	HLA-G	0.790306	heterozygosis: yes (>2)	156
+659404021	HLA-G	0.791162	heterozygosis: unknown	157
+1017620101	HLA-G	0.791658	heterozygosis: yes (1-2)	158
+140706102	HLA-G	0.791863	heterozygosis: yes (1-2)	159
+503914062	HLA-G	0.792350	heterozygosis: unknown	160
+643417011	HLA-G	0.793039	heterozygosis: yes (1-2)	161
+677226041	HLA-G	0.793814	heterozygosis: unknown	162
+1266700901	HLA-G	0.794854	heterozygosis: unknown	163
+1238224501	HLA-G	0.795570	heterozygosis: yes (1-2)	164
+80418051	HLA-G	0.796112	heterozygosis: yes (1-2)	165
+106301032	HLA-G	0.796396	heterozygosis: unknown	166
+247327031	HLA-G	0.796426	heterozygosis: unknown	167
+1093410201	HLA-G	0.796662	heterozygosis: unknown	168
+1052007701	HLA-G	0.797428	heterozygosis: yes (1-2)	169
+646405061	HLA-G	0.797526	heterozygosis: yes (1-2)	170
+210800038	HLA-G	0.798867	heterozygosis: unknown	171
+1109317202	HLA-G	0.799306	heterozygosis: unknown	172
+210800107	HLA-G	0.799649	heterozygosis: unknown	173
+894207061	HLA-G	0.799852	heterozygosis: unknown	174
+42140012	HLA-G	0.800267	heterozygosis: yes (1-2)	175
+245309062	HLA-G	0.800486	heterozygosis: unknown	176
+837001011	HLA-G	0.800589	heterozygosis: unknown	177
+1036806701	HLA-G	0.800599	heterozygosis: unknown	178
+355101021	HLA-G	0.801406	heterozygosis: yes (1-2)	179
+498929061	HLA-G	0.801466	heterozygosis: yes (1-2)	180
+692420091	HLA-G	0.803523	heterozygosis: unknown	181
+349819101	HLA-G	0.803534	heterozygosis: unknown	182
+577000032	HLA-G	0.803760	heterozygosis: unknown	183
+803123042	HLA-G	0.804260	heterozygosis: unknown	184
+641427041	HLA-G	0.805728	heterozygosis: yes (1-2)	185
+210800115	HLA-G	0.806085	heterozygosis: yes (1-2)	186
+1279606101	HLA-G	0.806257	heterozygosis: unknown	187
+210800061	HLA-G	0.806582	heterozygosis: unknown	188
+1103307601	HLA-G	0.806592	heterozygosis: unknown	189
+552809062	HLA-G	0.807506	heterozygosis: unknown	190
+804131031	HLA-G	0.807756	heterozygosis: unknown	191
+165919051	HLA-G	0.808962	heterozygosis: yes (1-2)	192
+210800104	HLA-G	0.809429	heterozygosis: unknown	193
+1040822501	HLA-G	0.809793	heterozygosis: unknown	194
+588314051	HLA-G	0.810130	heterozygosis: yes (1-2)	195
+319416011	HLA-G	0.811187	heterozygosis: unknown	196
+611508041	HLA-G	0.811676	heterozygosis: unknown	197
+521601061	HLA-G	0.812102	heterozygosis: yes (1-2)	198
+1211205401	HLA-G	0.812575	heterozygosis: yes (1-2)	199
+697206072	HLA-G	0.813047	heterozygosis: yes (1-2)	200
+879809041	HLA-G	0.813099	heterozygosis: yes (1-2)	201
+864914071	HLA-G	0.813470	heterozygosis: unknown	202
+445303031	HLA-G	0.813949	heterozygosis: yes (1-2)	203
+539224062	HLA-G	0.814460	heterozygosis: yes (>2)	204
+331201042	HLA-G	0.814849	heterozygosis: yes (1-2)	205
+204327071	HLA-G	0.814932	heterozygosis: yes (1-2)	206
+14833012	HLA-G	0.815589	heterozygosis: yes (1-2)	207
+210800012	HLA-G	0.815676	heterozygosis: unknown	208
+405811051	HLA-G	0.815701	heterozygosis: yes (1-2)	209
+220211091	HLA-G	0.815964	heterozygosis: yes (1-2)	210
+146509051	HLA-G	0.816647	heterozygosis: yes (1-2)	211
+1237235701	HLA-G	0.817027	heterozygosis: unknown	212
+1165600901	HLA-G	0.817079	heterozygosis: yes (1-2)	213
+332205021	HLA-G	0.817223	heterozygosis: yes (1-2)	214
+861812011	HLA-G	0.817275	heterozygosis: yes (1-2)	215
+210800095	HLA-G	0.817473	heterozygosis: unknown	216
+1189134901	HLA-G	0.817742	heterozygosis: yes (1-2)	217
+27319021	HLA-G	0.817993	heterozygosis: yes (1-2)	218
+888000458	HLA-G	0.818648	heterozygosis: yes (1-2)	219
+470201041	HLA-G	0.818705	heterozygosis: unknown	220
+458904031	HLA-G	0.818880	heterozygosis: yes (1-2)	221
+399725052	HLA-G	0.819536	heterozygosis: yes (1-2)	222
+475700124	HLA-G	0.820649	heterozygosis: unknown	223
+1058009901	HLA-G	0.821439	heterozygosis: unknown	224
+401217031	HLA-G	0.822045	heterozygosis: unknown	225
+1054020501	HLA-G	0.822449	heterozygosis: yes (1-2)	226
+210800066	HLA-G	0.822774	heterozygosis: yes (1-2)	227
+69929081	HLA-G	0.823188	heterozygosis: yes (1-2)	228
+145709101	HLA-G	0.823263	heterozygosis: yes (1-2)	229
+210800052	HLA-G	0.823887	heterozygosis: unknown	230
+558809011	HLA-G	0.824147	heterozygosis: yes (1-2)	231
+1170503901	HLA-G	0.824245	heterozygosis: yes (1-2)	232
+476703051	HLA-G	0.824433	heterozygosis: unknown	233
+483732031	HLA-G	0.825722	heterozygosis: unknown	234
+210800053	HLA-G	0.825789	heterozygosis: yes (1-2)	235
+369814111	HLA-G	0.825832	heterozygosis: yes (1-2)	236
+271110101	HLA-G	0.825856	heterozygosis: unknown	237
+383007071	HLA-G	0.826071	heterozygosis: unknown	238
+1059310901	HLA-G	0.826634	heterozygosis: yes (1-2)	239
+211322012	HLA-G	0.827134	heterozygosis: unknown	240
+214709101	HLA-G	0.827204	heterozygosis: unknown	241
+274105051	HLA-G	0.827612	heterozygosis: unknown	242
+1139102501	HLA-G	0.827622	heterozygosis: unknown	243
+1283622602	HLA-G	0.827691	heterozygosis: unknown	244
+590000426	HLA-G	0.827747	heterozygosis: yes (1-2)	245
+1317223701	HLA-G	0.828035	heterozygosis: yes (1-2)	246
+1294003701	HLA-G	0.828373	heterozygosis: unknown	247
+1281608201	HLA-G	0.828440	heterozygosis: unknown	248
+210800128	HLA-G	0.828443	heterozygosis: unknown	249
+358106042	HLA-G	0.829015	heterozygosis: yes (1-2)	250
+1161560701	HLA-G	0.829169	heterozygosis: yes (1-2)	251
+264812071	HLA-G	0.829765	heterozygosis: yes (1-2)	252
+531900151	HLA-G	0.830091	heterozygosis: unknown	253
+1336507301	HLA-G	0.830417	heterozygosis: unknown	254
+193200178	HLA-G	0.830435	heterozygosis: yes (1-2)	255
+620523031	HLA-G	0.830499	heterozygosis: unknown	256
+210800010	HLA-G	0.830631	heterozygosis: yes (1-2)	257
+1071310701	HLA-G	0.830725	heterozygosis: yes (1-2)	258
+210800064	HLA-G	0.831143	heterozygosis: yes (1-2)	259
+529900111	HLA-G	0.831168	heterozygosis: yes (1-2)	260
+210800125	HLA-G	0.831337	heterozygosis: unknown	261
+1329603702	HLA-G	0.831446	heterozygosis: yes (1-2)	262
+1077418301	HLA-G	0.831871	heterozygosis: unknown	263
+535200028	HLA-G	0.832023	heterozygosis: unknown	264
+210800122	HLA-G	0.832811	heterozygosis: yes (1-2)	265
+386832101	HLA-G	0.833251	heterozygosis: yes (1-2)	266
+1154200401	HLA-G	0.834417	heterozygosis: unknown	267
+1269611501	HLA-G	0.834646	heterozygosis: yes (1-2)	268
+1118225101	HLA-G	0.835208	heterozygosis: yes (1-2)	269
+1145306902	HLA-G	0.835605	heterozygosis: yes (1-2)	270
+580000088	HLA-G	0.836153	heterozygosis: unknown	271
+174003031	HLA-G	0.836228	heterozygosis: unknown	272
+323708051	HLA-G	0.836918	heterozygosis: yes (1-2)	273
+1223818501	HLA-G	0.836918	heterozygosis: unknown	274
+1190114802	HLA-G	0.837087	heterozygosis: yes (1-2)	275
+808311032	HLA-G	0.837407	heterozygosis: unknown	276
+664934021	HLA-G	0.838086	heterozygosis: yes (1-2)	277
+152206101	HLA-G	0.838204	heterozygosis: unknown	278
+1042404301	HLA-G	0.838405	heterozygosis: yes (1-2)	279
+375100081	HLA-G	0.838658	heterozygosis: yes (1-2)	280
+543236031	HLA-G	0.838692	heterozygosis: unknown	281
+104116082	HLA-G	0.838876	heterozygosis: yes (1-2)	282
+1117525001	HLA-G	0.839318	heterozygosis: yes (1-2)	283
+1070309701	HLA-G	0.839671	heterozygosis: unknown	284
+1113557401	HLA-G	0.840973	heterozygosis: unknown	285
+883701052	HLA-G	0.841029	heterozygosis: unknown	286
+624500287	HLA-G	0.841323	heterozygosis: unknown	287
+494918051	HLA-G	0.841336	heterozygosis: yes (1-2)	288
+50103042	HLA-G	0.841546	heterozygosis: unknown	289
+21309053	HLA-G	0.842111	heterozygosis: yes (1-2)	290
+625528081	HLA-G	0.842582	heterozygosis: yes (1-2)	291
+1043306901	HLA-G	0.843122	heterozygosis: unknown	292
+34930051	HLA-G	0.843312	heterozygosis: unknown	293
+216211041	HLA-G	0.843545	heterozygosis: unknown	294
+1185611601	HLA-G	0.843584	heterozygosis: unknown	295
+1002209901	HLA-G	0.843637	heterozygosis: yes (1-2)	296
+1044307701	HLA-G	0.843641	heterozygosis: unknown	297
+1287202101	HLA-G	0.844062	heterozygosis: unknown	298
+823810121	HLA-G	0.844405	heterozygosis: unknown	299
+1230536501	HLA-G	0.844847	heterozygosis: unknown	300
+477714051	HLA-G	0.845161	heterozygosis: yes (1-2)	301
+812023062	HLA-G	0.845444	heterozygosis: unknown	302
+210800111	HLA-G	0.845743	heterozygosis: unknown	303
+616501091	HLA-G	0.846280	heterozygosis: unknown	304
+210800108	HLA-G	0.846832	heterozygosis: yes (1-2)	305
+449720041	HLA-G	0.847033	heterozygosis: yes (1-2)	306
+1055016301	HLA-G	0.847815	heterozygosis: unknown	307
+181806072	HLA-G	0.847842	heterozygosis: yes (1-2)	308
+210800018	HLA-G	0.847878	heterozygosis: yes (1-2)	309
+188711071	HLA-G	0.847975	heterozygosis: unknown	310
+439833011	HLA-G	0.848606	heterozygosis: unknown	311
+527900101	HLA-G	0.848790	heterozygosis: yes (1-2)	312
+824810122	HLA-G	0.850184	heterozygosis: unknown	313
+859630011	HLA-G	0.850578	heterozygosis: yes (1-2)	314
+1261523701	HLA-G	0.850676	heterozygosis: unknown	315
+890110091	HLA-G	0.850727	heterozygosis: unknown	316
+688929011	HLA-G	0.851372	heterozygosis: unknown	317
+1023311101	HLA-G	0.851460	heterozygosis: yes (1-2)	318
+617502082	HLA-G	0.852127	heterozygosis: unknown	319
+261805051	HLA-G	0.852370	heterozygosis: unknown	320
+15843041	HLA-G	0.852506	heterozygosis: yes (1-2)	321
+379007151	HLA-G	0.852621	heterozygosis: yes (1-2)	322
+681000475	HLA-G	0.852627	heterozygosis: unknown	323
+628000409	HLA-G	0.852657	heterozygosis: unknown	324
+674703041	HLA-G	0.852778	heterozygosis: unknown	325
+1215630501	HLA-G	0.852783	heterozygosis: unknown	326
+210800137	HLA-G	0.853015	heterozygosis: unknown	327
+1267601501	HLA-G	0.853984	heterozygosis: unknown	328
+205300083	HLA-G	0.854276	heterozygosis: unknown	329
+262805052	HLA-G	0.855326	heterozygosis: yes (1-2)	330
+252900011	HLA-G	0.855604	heterozygosis: unknown	331
+1000206901	HLA-G	0.855613	heterozygosis: yes (1-2)	332
+107301101	HLA-G	0.855801	heterozygosis: unknown	333
+26312102	HLA-G	0.856053	heterozygosis: unknown	334
+38046011	HLA-G	0.856278	heterozygosis: yes (1-2)	335
+194211031	HLA-G	0.856415	heterozygosis: yes (1-2)	336
+210800117	HLA-G	0.856659	heterozygosis: yes (1-2)	337
+860809022	HLA-G	0.856707	heterozygosis: unknown	338
+1127231901	HLA-G	0.856899	heterozygosis: unknown	339
+33838042	HLA-G	0.857026	heterozygosis: unknown	340
+497413041	HLA-G	0.857288	heterozygosis: yes (1-2)	341
+1083645101	HLA-G	0.857498	heterozygosis: unknown	342
+202320082	HLA-G	0.858068	heterozygosis: unknown	343
+599208021	HLA-G	0.858127	heterozygosis: yes (1-2)	344
+210800043	HLA-G	0.858165	heterozygosis: unknown	345
+683407031	HLA-G	0.858310	heterozygosis: unknown	346
+1111319301	HLA-G	0.858446	heterozygosis: yes (>2)	347
+250214101	HLA-G	0.858516	heterozygosis: yes (1-2)	348
+210800026	HLA-G	0.858618	heterozygosis: yes (1-2)	349
+210800067	HLA-G	0.859743	heterozygosis: yes (1-2)	350
+1159519001	HLA-G	0.860279	heterozygosis: yes (1-2)	351
+1026319101	HLA-G	0.860465	heterozygosis: unknown	352
+871400011	HLA-G	0.860735	heterozygosis: yes (1-2)	353
+603211092	HLA-G	0.861111	heterozygosis: unknown	354
+1194402801	HLA-G	0.861319	heterozygosis: yes (1-2)	355
+283910031	HLA-G	0.861419	heterozygosis: unknown	356
+534200027	HLA-G	0.861482	heterozygosis: yes (1-2)	357
+210800074	HLA-G	0.861801	heterozygosis: unknown	358
+1106309302	HLA-G	0.862208	heterozygosis: yes (1-2)	359
+1119561901	HLA-G	0.862234	heterozygosis: unknown	360
+28326021	HLA-G	0.862349	heterozygosis: yes (1-2)	361
+1187601202	HLA-G	0.862486	heterozygosis: yes (1-2)	362
+210322011	HLA-G	0.863081	heterozygosis: unknown	363
+647405102	HLA-G	0.863154	heterozygosis: yes (1-2)	364
+605228011	HLA-G	0.863248	heterozygosis: unknown	365
+1031824301	HLA-G	0.863796	heterozygosis: unknown	366
+1218625501	HLA-G	0.864387	heterozygosis: unknown	367
+1025318501	HLA-G	0.864642	heterozygosis: unknown	368
+1108317201	HLA-G	0.864730	heterozygosis: unknown	369
+579020062	HLA-G	0.864875	heterozygosis: yes (1-2)	370
+309300061	HLA-G	0.865151	heterozygosis: yes (1-2)	371
+1339531301	HLA-G	0.865283	heterozygosis: unknown	372
+253900058	HLA-G	0.865302	heterozygosis: unknown	373
+210800028	HLA-G	0.865969	heterozygosis: unknown	374
+303100081	HLA-G	0.865986	heterozygosis: unknown	375
+851230081	HLA-G	0.866787	heterozygosis: unknown	376
+289911091	HLA-G	0.866831	heterozygosis: yes (1-2)	377
+229727101	HLA-G	0.866876	heterozygosis: yes (>2)	378
+1060302901	HLA-G	0.867022	heterozygosis: yes (1-2)	379
+1311000301	HLA-G	0.868725	heterozygosis: yes (1-2)	380
+600211031	HLA-G	0.868727	heterozygosis: yes (1-2)	381
+514708022	HLA-G	0.869307	heterozygosis: yes (1-2)	382
+631000405	HLA-G	0.869401	heterozygosis: yes (1-2)	383
+675000350	HLA-G	0.870704	heterozygosis: unknown	384
+111306051	HLA-G	0.871029	heterozygosis: unknown	385
+239601011	HLA-G	0.871095	heterozygosis: unknown	386
+645401031	HLA-G	0.871282	heterozygosis: yes (1-2)	387
+635323081	HLA-G	0.871292	heterozygosis: unknown	388
+131909101	HLA-G	0.871967	heterozygosis: yes (1-2)	389
+351944071	HLA-G	0.872033	heterozygosis: yes (1-2)	390
+210800030	HLA-G	0.872722	heterozygosis: yes (1-2)	391
+397725012	HLA-G	0.873094	heterozygosis: unknown	392
+1177609101	HLA-G	0.873273	heterozygosis: yes (1-2)	393
+1210206401	HLA-G	0.873619	heterozygosis: yes (1-2)	394
+1335501701	HLA-G	0.873937	heterozygosis: unknown	395
+1166506501	HLA-G	0.874193	heterozygosis: unknown	396
+308300051	HLA-G	0.874396	heterozygosis: yes (1-2)	397
+1061309301	HLA-G	0.874612	heterozygosis: unknown	398
+321701011	HLA-G	0.874935	heterozygosis: unknown	399
+313300141	HLA-G	0.875065	heterozygosis: unknown	400
+382019052	HLA-G	0.875312	heterozygosis: yes (1-2)	401
+182806101	HLA-G	0.876070	heterozygosis: yes (1-2)	402
+1007215301	HLA-G	0.876168	heterozygosis: yes (1-2)	403
+190731091	HLA-G	0.876763	heterozygosis: unknown	404
+695209021	HLA-G	0.877627	heterozygosis: unknown	405
+1163613101	HLA-G	0.877925	heterozygosis: yes (1-2)	406
+1005214101	HLA-G	0.878221	heterozygosis: yes (1-2)	407
+463137092	HLA-G	0.878462	heterozygosis: unknown	408
+462911072	HLA-G	0.878481	heterozygosis: unknown	409
+687912091	HLA-G	0.878738	heterozygosis: yes (1-2)	410
+222409102	HLA-G	0.879379	heterozygosis: unknown	411
+210800141	HLA-G	0.879458	heterozygosis: yes (1-2)	412
+1333214001	HLA-G	0.880123	heterozygosis: unknown	413
+210800027	HLA-G	0.880240	heterozygosis: yes (1-2)	414
+1030315301	HLA-G	0.880556	heterozygosis: unknown	415
+654000467	HLA-G	0.880565	heterozygosis: unknown	416
+1310570901	HLA-G	0.881302	heterozygosis: yes (1-2)	417
+1037800501	HLA-G	0.881444	heterozygosis: yes (>2)	418
+1172507501	HLA-G	0.881594	heterozygosis: unknown	419
+1224835901	HLA-G	0.882046	heterozygosis: yes (1-2)	420
+64404101	HLA-G	0.882433	heterozygosis: unknown	421
+513111021	HLA-G	0.882568	heterozygosis: yes (1-2)	422
+856103091	HLA-G	0.882669	heterozygosis: yes (1-2)	423
+62929011	HLA-G	0.882706	heterozygosis: unknown	424
+1047326101	HLA-G	0.883154	heterozygosis: yes (1-2)	425
+210800062	HLA-G	0.883184	heterozygosis: unknown	426
+310300011	HLA-G	0.883260	heterozygosis: yes (1-2)	427
+575300031	HLA-G	0.883267	heterozygosis: yes (1-2)	428
+1092662101	HLA-G	0.883485	heterozygosis: yes (1-2)	429
+210800142	HLA-G	0.883817	heterozygosis: yes (1-2)	430
+1013617501	HLA-G	0.884175	heterozygosis: unknown	431
+666442081	HLA-G	0.884237	heterozygosis: yes (1-2)	432
+594913051	HLA-G	0.884775	heterozygosis: yes (1-2)	433
+210800024	HLA-G	0.886012	heterozygosis: unknown	434
+486425051	HLA-G	0.886022	heterozygosis: yes (1-2)	435
+596906101	HLA-G	0.886158	heterozygosis: yes (1-2)	436
+210800042	HLA-G	0.886313	heterozygosis: yes (>2)	437
+142707081	HLA-G	0.886732	heterozygosis: yes (1-2)	438
+1134304501	HLA-G	0.886770	heterozygosis: yes (1-2)	439
+248200128	HLA-G	0.887727	heterozygosis: unknown	440
+210800021	HLA-G	0.887799	heterozygosis: yes (1-2)	441
+413620032	HLA-G	0.888101	heterozygosis: unknown	442
+559809021	HLA-G	0.888302	heterozygosis: yes (1-2)	443
+338015051	HLA-G	0.888789	heterozygosis: unknown	444
+1155216701	HLA-G	0.889568	heterozygosis: yes (1-2)	445
+195211032	HLA-G	0.889723	heterozygosis: yes (1-2)	446
+818918011	HLA-G	0.889765	heterozygosis: unknown	447
+518624081	HLA-G	0.889907	heterozygosis: yes (1-2)	448
+398725051	HLA-G	0.890063	heterozygosis: unknown	449
+826605072	HLA-G	0.890184	heterozygosis: yes (1-2)	450
+428046012	HLA-G	0.890474	heterozygosis: yes (1-2)	451
+408000441	HLA-G	0.890696	heterozygosis: yes (1-2)	452
+1015611101	HLA-G	0.891038	heterozygosis: yes (1-2)	453
+877819091	HLA-G	0.891191	heterozygosis: yes (1-2)	454
+143709042	HLA-G	0.891737	heterozygosis: unknown	455
+68922043	HLA-G	0.891751	heterozygosis: unknown	456
+210800016	HLA-G	0.891996	heterozygosis: yes (1-2)	457
+311300012	HLA-G	0.893251	heterozygosis: unknown	458
+607502081	HLA-G	0.893447	heterozygosis: unknown	459
+1029307901	HLA-G	0.893481	heterozygosis: yes (1-2)	460
+698300155	HLA-G	0.893595	heterozygosis: unknown	461
+889110131	HLA-G	0.893608	heterozygosis: unknown	462
+63929012	HLA-G	0.893782	heterozygosis: yes (1-2)	463
+345801011	HLA-G	0.893917	heterozygosis: unknown	464
+800207091	HLA-G	0.894853	heterozygosis: yes (1-2)	465
+164919041	HLA-G	0.894939	heterozygosis: yes (1-2)	466
+155224111	HLA-G	0.895353	heterozygosis: yes (1-2)	467
+1076406101	HLA-G	0.896042	heterozygosis: unknown	468
+210800109	HLA-G	0.897468	heterozygosis: unknown	469
+1227828901	HLA-G	0.897491	heterozygosis: unknown	470
+196216032	HLA-G	0.897662	heterozygosis: yes (>2)	471
+210800034	HLA-G	0.897864	heterozygosis: unknown	472
+578323051	HLA-G	0.897984	heterozygosis: unknown	473
+562815032	HLA-G	0.898269	heterozygosis: yes (1-2)	474
+805105101	HLA-G	0.898413	heterozygosis: yes (1-2)	475
+822823072	HLA-G	0.899282	heterozygosis: unknown	476
+256801011	HLA-G	0.899303	heterozygosis: yes (1-2)	477
+1274204501	HLA-G	0.899521	heterozygosis: unknown	478
+583016011	HLA-G	0.899915	heterozygosis: unknown	479
+602211091	HLA-G	0.899933	heterozygosis: unknown	480
+1254306102	HLA-G	0.900120	heterozygosis: unknown	481
+246323051	HLA-G	0.900310	heterozygosis: unknown	482
+1014604901	HLA-G	0.900368	heterozygosis: unknown	483
+1164621101	HLA-G	0.901047	heterozygosis: yes (1-2)	484
+342309061	HLA-G	0.901935	heterozygosis: yes (1-2)	485
+1316014101	HLA-G	0.902011	heterozygosis: yes (1-2)	486
+833922051	HLA-G	0.902574	heterozygosis: yes (1-2)	487
+268101011	HLA-G	0.902807	heterozygosis: unknown	488
+597200217	HLA-G	0.903331	heterozygosis: yes (1-2)	489
+1088603301	HLA-G	0.904683	heterozygosis: yes (1-2)	490
+184817091	HLA-G	0.904712	heterozygosis: yes (1-2)	491
+1133814801	HLA-G	0.904972	heterozygosis: unknown	492
+547000448	HLA-G	0.905012	heterozygosis: unknown	493
+633312061	HLA-G	0.905160	heterozygosis: yes (1-2)	494
+267102051	HLA-G	0.905744	heterozygosis: yes (1-2)	495
+82425021	HLA-G	0.905813	heterozygosis: unknown	496
+105301031	HLA-G	0.905907	heterozygosis: yes (1-2)	497
+421218041	HLA-G	0.905921	heterozygosis: unknown	498
+570122061	HLA-G	0.905993	heterozygosis: unknown	499
+210800140	HLA-G	0.906716	heterozygosis: yes (1-2)	500
+533802051	HLA-G	0.906729	heterozygosis: yes (1-2)	501
+350817072	HLA-G	0.907144	heterozygosis: yes (1-2)	502
+447303052	HLA-G	0.907505	heterozygosis: yes (1-2)	503
+1313411701	HLA-G	0.907586	heterozygosis: yes (1-2)	504
+1257013101	HLA-G	0.908238	heterozygosis: unknown	505
+1249232701	HLA-G	0.908627	heterozygosis: unknown	506
+1142112701	HLA-G	0.908684	heterozygosis: unknown	507
+686907091	HLA-G	0.909136	heterozygosis: unknown	508
+1162610301	HLA-G	0.909326	heterozygosis: yes (1-2)	509
+149213051	HLA-G	0.910202	heterozygosis: yes (1-2)	510
+210800123	HLA-G	0.910419	heterozygosis: unknown	511
+586000089	HLA-G	0.910742	heterozygosis: yes (1-2)	512
+210800059	HLA-G	0.910927	heterozygosis: unknown	513
+362105011	HLA-G	0.910988	heterozygosis: unknown	514
+1226835501	HLA-G	0.911003	heterozygosis: unknown	515
+811225081	HLA-G	0.911166	heterozygosis: yes (1-2)	516
+210800076	HLA-G	0.911779	heterozygosis: yes (1-2)	517
+66417082	HLA-G	0.911899	heterozygosis: unknown	518
+208320012	HLA-G	0.911911	heterozygosis: yes (>2)	519
+481732011	HLA-G	0.912090	heterozygosis: yes (1-2)	520
+102116021	HLA-G	0.912134	heterozygosis: unknown	521
+135901091	HLA-G	0.912165	heterozygosis: unknown	522
+568112011	HLA-G	0.912207	heterozygosis: unknown	523
+1208202601	HLA-G	0.912250	heterozygosis: unknown	524
+392400061	HLA-G	0.912401	heterozygosis: yes (1-2)	525
+210800046	HLA-G	0.913305	heterozygosis: yes (>2)	526
+870400071	HLA-G	0.913409	heterozygosis: yes (1-2)	527
+471201042	HLA-G	0.914222	heterozygosis: yes (1-2)	528
+424320092	HLA-G	0.914223	heterozygosis: yes (1-2)	529
+601211052	HLA-G	0.914260	heterozygosis: yes (1-2)	530
+160230011	HLA-G	0.914308	heterozygosis: unknown	531
+478714091	HLA-G	0.914361	heterozygosis: yes (1-2)	532
+1296010301	HLA-G	0.914762	heterozygosis: unknown	533
+1012617701	HLA-G	0.914766	heterozygosis: unknown	534
+1082416301	HLA-G	0.915003	heterozygosis: yes (1-2)	535
+329202012	HLA-G	0.915097	heterozygosis: unknown	536
+304100101	HLA-G	0.915331	heterozygosis: unknown	537
+525900031	HLA-G	0.915786	heterozygosis: unknown	538
+186905062	HLA-G	0.915852	heterozygosis: unknown	539
+1157101101	HLA-G	0.916042	heterozygosis: yes (1-2)	540
+410817061	HLA-G	0.916188	heterozygosis: yes (1-2)	541
+1222818901	HLA-G	0.917326	heterozygosis: yes (1-2)	542
+849106091	HLA-G	0.917613	heterozygosis: unknown	543
+210800127	HLA-G	0.917889	heterozygosis: yes (1-2)	544
+1147414901	HLA-G	0.917983	heterozygosis: yes (1-2)	545
+122309061	HLA-G	0.918147	heterozygosis: yes (1-2)	546
+1024311301	HLA-G	0.918458	heterozygosis: unknown	547
+212716041	HLA-G	0.918827	heterozygosis: unknown	548
+819800030	HLA-G	0.918883	heterozygosis: yes (1-2)	549
+427046021	HLA-G	0.919004	heterozygosis: yes (1-2)	550
+305100171	HLA-G	0.919325	heterozygosis: unknown	551
+591920071	HLA-G	0.919340	heterozygosis: unknown	552
+377900041	HLA-G	0.919539	heterozygosis: unknown	553
+649927031	HLA-G	0.919576	heterozygosis: unknown	554
+210800039	HLA-G	0.919724	heterozygosis: unknown	555
+1034803101	HLA-G	0.919820	heterozygosis: unknown	556
+642705082	HLA-G	0.919826	heterozygosis: unknown	557
+432800071	HLA-G	0.919917	heterozygosis: unknown	558
+159210011	HLA-G	0.920286	heterozygosis: unknown	559
+1334717501	HLA-G	0.920456	heterozygosis: yes (1-2)	560
+1168514701	HLA-G	0.920888	heterozygosis: unknown	561
+210800101	HLA-G	0.920924	heterozygosis: yes (1-2)	562
+210800129	HLA-G	0.921027	heterozygosis: unknown	563
+567100315	HLA-G	0.921523	heterozygosis: yes (1-2)	564
+119410052	HLA-G	0.921676	heterozygosis: unknown	565
+509607121	HLA-G	0.921707	heterozygosis: unknown	566
+546000429	HLA-G	0.921831	heterozygosis: unknown	567
+1090670301	HLA-G	0.921931	heterozygosis: unknown	568
+604214091	HLA-G	0.922363	heterozygosis: yes (1-2)	569
+696206071	HLA-G	0.922599	heterozygosis: yes (1-2)	570
+678226042	HLA-G	0.922769	heterozygosis: unknown	571
+1087643301	HLA-G	0.922800	heterozygosis: yes (1-2)	572
+210800138	HLA-G	0.923426	heterozygosis: yes (1-2)	573
+845112062	HLA-G	0.923538	heterozygosis: unknown	574
+507933012	HLA-G	0.923787	heterozygosis: unknown	575
+282916071	HLA-G	0.924223	heterozygosis: yes (1-2)	576
+425100248	HLA-G	0.924477	heterozygosis: unknown	577
+51103051	HLA-G	0.924750	heterozygosis: yes (1-2)	578
+299100051	HLA-G	0.925084	heterozygosis: unknown	579
+1004211301	HLA-G	0.925161	heterozygosis: unknown	580
+634300224	HLA-G	0.925224	heterozygosis: unknown	581
+814903031	HLA-G	0.925351	heterozygosis: yes (1-2)	582
+1150414501	HLA-G	0.925439	heterozygosis: yes (1-2)	583
+1110318701	HLA-G	0.926314	heterozygosis: yes (1-2)	584
+1084649101	HLA-G	0.926543	heterozygosis: unknown	585
+128909102	HLA-G	0.926754	heterozygosis: unknown	586
+1264618401	HLA-G	0.927498	heterozygosis: yes (1-2)	587
+585016092	HLA-G	0.927571	heterozygosis: unknown	588
+339028131	HLA-G	0.927838	heterozygosis: yes (1-2)	589
+210800035	HLA-G	0.927857	heterozygosis: unknown	590
+592911051	HLA-G	0.928216	heterozygosis: unknown	591
+540230101	HLA-G	0.928283	heterozygosis: yes (1-2)	592
+420213011	HLA-G	0.928494	heterozygosis: unknown	593
+1105309301	HLA-G	0.928589	heterozygosis: yes (1-2)	594
+436200080	HLA-G	0.928942	heterozygosis: yes (1-2)	595
+1008216701	HLA-G	0.929131	heterozygosis: unknown	596
+489404031	HLA-G	0.929254	heterozygosis: unknown	597
+1304510501	HLA-G	0.929528	heterozygosis: yes (1-2)	598
+1200535701	HLA-G	0.929672	heterozygosis: unknown	599
+44140022	HLA-G	0.930209	heterozygosis: yes (1-2)	600
+39111041	HLA-G	0.930349	heterozygosis: unknown	601
+357106041	HLA-G	0.930574	heterozygosis: yes (1-2)	602
+210800011	HLA-G	0.930755	heterozygosis: unknown	603
+891400031	HLA-G	0.930956	heterozygosis: unknown	604
+574003082	HLA-G	0.931142	heterozygosis: yes (>2)	605
+407000434	HLA-G	0.931665	heterozygosis: yes (1-2)	606
+644417012	HLA-G	0.931933	heterozygosis: yes (1-2)	607
+210800014	HLA-G	0.933189	heterozygosis: yes (1-2)	608
+1086675791	HLA-G	0.933331	heterozygosis: yes (1-2)	609
+1280605801	HLA-G	0.933342	heterozygosis: unknown	610
+587011051	HLA-G	0.934065	heterozygosis: unknown	611
+210800091	HLA-G	0.934496	heterozygosis: unknown	612
+210800055	HLA-G	0.934510	heterozygosis: unknown	613
+874000021	HLA-G	0.934772	heterozygosis: yes (1-2)	614
+52103052	HLA-G	0.934853	heterozygosis: unknown	615
+1128125001	HLA-G	0.934917	heterozygosis: yes (1-2)	616
+298100021	HLA-G	0.934950	heterozygosis: unknown	617
+1216606101	HLA-G	0.935005	heterozygosis: yes (1-2)	618
+136923081	HLA-G	0.935107	heterozygosis: yes (1-2)	619
+1065307801	HLA-G	0.935215	heterozygosis: yes (1-2)	620
+1178609102	HLA-G	0.935692	heterozygosis: unknown	621
+693209051	HLA-G	0.936150	heterozygosis: yes (1-2)	622
+1120208701	HLA-G	0.936312	heterozygosis: unknown	623
+465300832	HLA-G	0.936514	heterozygosis: unknown	624
+660407051	HLA-G	0.936531	heterozygosis: yes (1-2)	625
+1241322501	HLA-G	0.936646	heterozygosis: unknown	626
+882730051	HLA-G	0.937066	heterozygosis: yes (1-2)	627
+875000031	HLA-G	0.937193	heterozygosis: yes (1-2)	628
+802123041	HLA-G	0.937315	heterozygosis: unknown	629
+422211031	HLA-G	0.937660	heterozygosis: yes (1-2)	630
+887000453	HLA-G	0.937719	heterozygosis: unknown	631
+1272231301	HLA-G	0.937887	heterozygosis: unknown	632
+191735081	HLA-G	0.937972	heterozygosis: yes (>2)	633
+1131137001	HLA-G	0.938300	heterozygosis: yes (1-2)	634
+138106041	HLA-G	0.938709	heterozygosis: unknown	635
+528900061	HLA-G	0.938854	heterozygosis: unknown	636
+210800029	HLA-G	0.938871	heterozygosis: yes (>2)	637
+880808061	HLA-G	0.938934	heterozygosis: unknown	638
+1098222101	HLA-G	0.939573	heterozygosis: unknown	639
+1206552501	HLA-G	0.939573	heterozygosis: yes (1-2)	640
+1196421401	HLA-G	0.939585	heterozygosis: yes (1-2)	641
+18912051	HLA-G	0.939735	heterozygosis: unknown	642
+67903011	HLA-G	0.939812	heterozygosis: yes (1-2)	643
+1231532101	HLA-G	0.939939	heterozygosis: unknown	644
+1104308401	HLA-G	0.940260	heterozygosis: yes (1-2)	645
+210800135	HLA-G	0.940262	heterozygosis: unknown	646
+815407031	HLA-G	0.940358	heterozygosis: unknown	647
+1209209301	HLA-G	0.940581	heterozygosis: yes (1-2)	648
+850206101	HLA-G	0.940854	heterozygosis: yes (1-2)	649
+663921051	HLA-G	0.940857	heterozygosis: yes (1-2)	650
+630000403	HLA-G	0.940941	heterozygosis: yes (1-2)	651
+187914081	HLA-G	0.941158	heterozygosis: unknown	652
+854200282	HLA-G	0.941203	heterozygosis: unknown	653
+441206011	HLA-G	0.941228	heterozygosis: unknown	654
+1027328701	HLA-G	0.941230	heterozygosis: yes (1-2)	655
+1202536101	HLA-G	0.941552	heterozygosis: unknown	656
+153206102	HLA-G	0.941622	heterozygosis: yes (1-2)	657
+1149417901	HLA-G	0.941701	heterozygosis: unknown	658
+210800040	HLA-G	0.942045	heterozygosis: unknown	659
+1197502501	HLA-G	0.942085	heterozygosis: yes (1-2)	660
+101106071	HLA-G	0.942225	heterozygosis: unknown	661
+127923021	HLA-G	0.942453	heterozygosis: yes (1-2)	662
+495919111	HLA-G	0.942461	heterozygosis: unknown	663
+270103041	HLA-G	0.943204	heterozygosis: unknown	664
+45513012	HLA-G	0.943447	heterozygosis: unknown	665
+210800048	HLA-G	0.943551	heterozygosis: unknown	666
+1146418701	HLA-G	0.943706	heterozygosis: yes (>2)	667
+526900011	HLA-G	0.943923	heterozygosis: yes (1-2)	668
+328202011	HLA-G	0.944220	heterozygosis: unknown	669
+1277601601	HLA-G	0.944658	heterozygosis: unknown	670
+1252327301	HLA-G	0.945023	heterozygosis: unknown	671
+1328603701	HLA-G	0.945683	heterozygosis: unknown	672
+479725051	HLA-G	0.945989	heterozygosis: unknown	673
+446303051	HLA-G	0.946069	heterozygosis: unknown	674
+556827101	HLA-G	0.946373	heterozygosis: unknown	675
+154224081	HLA-G	0.946677	heterozygosis: yes (1-2)	676
+1102304001	HLA-G	0.947047	heterozygosis: unknown	677
+676719081	HLA-G	0.947094	heterozygosis: yes (1-2)	678
+573100301	HLA-G	0.947718	heterozygosis: unknown	679
+318933021	HLA-G	0.947814	heterozygosis: unknown	680
+863900061	HLA-G	0.948017	heterozygosis: unknown	681
+1143306101	HLA-G	0.948206	heterozygosis: unknown	682
+117731031	HLA-G	0.948259	heterozygosis: yes (1-2)	683
+469217021	HLA-G	0.948507	heterozygosis: yes (>2)	684
+1020330101	HLA-G	0.949264	heterozygosis: unknown	685
+210800041	HLA-G	0.949374	heterozygosis: yes (>2)	686
+210800031	HLA-G	0.950907	heterozygosis: yes (1-2)	687
+228901052	HLA-G	0.951015	heterozygosis: unknown	688
+48130071	HLA-G	0.951105	heterozygosis: yes (1-2)	689
+1001207701	HLA-G	0.951585	heterozygosis: yes (>2)	690
+1286518101	HLA-G	0.951643	heterozygosis: unknown	691
+1011616902	HLA-G	0.951752	heterozygosis: yes (1-2)	692
+1312401501	HLA-G	0.951954	heterozygosis: unknown	693
+1330617501	HLA-G	0.952005	heterozygosis: unknown	694
+1114222501	HLA-G	0.952762	heterozygosis: yes (1-2)	695
+1183605501	HLA-G	0.953009	heterozygosis: unknown	696
+1305612401	HLA-G	0.953452	heterozygosis: yes (1-2)	697
+658402011	HLA-G	0.954101	heterozygosis: yes (1-2)	698
+210800049	HLA-G	0.954171	heterozygosis: yes (1-2)	699
+612206051	HLA-G	0.954414	heterozygosis: unknown	700
+25312101	HLA-G	0.954505	heterozygosis: unknown	701
+464151061	HLA-G	0.954566	heterozygosis: yes (1-2)	702
+1057014701	HLA-G	0.955626	heterozygosis: yes (1-2)	703
+58908011	HLA-G	0.955833	heterozygosis: unknown	704
+1302824301	HLA-G	0.955925	heterozygosis: yes (1-2)	705
+1297013901	HLA-G	0.956196	heterozygosis: yes (1-2)	706
+396725011	HLA-G	0.956675	heterozygosis: yes (1-2)	707
+1239325901	HLA-G	0.957099	heterozygosis: yes (1-2)	708
+1130125901	HLA-G	0.957244	heterozygosis: unknown	709
+148213091	HLA-G	0.957458	heterozygosis: yes (1-2)	710
+54409051	HLA-G	0.957790	heterozygosis: yes (1-2)	711
+1292014101	HLA-G	0.957841	heterozygosis: yes (1-2)	712
+1298019101	HLA-G	0.958726	heterozygosis: yes (1-2)	713
+1303610901	HLA-G	0.958822	heterozygosis: unknown	714
+237218082	HLA-G	0.959166	heterozygosis: yes (>2)	715
+210800050	HLA-G	0.959232	heterozygosis: yes (1-2)	716
+1080414201	HLA-G	0.959333	heterozygosis: unknown	717
+1233501301	HLA-G	0.959423	heterozygosis: unknown	718
+622523092	HLA-G	0.959446	heterozygosis: unknown	719
+1265619701	HLA-G	0.959742	heterozygosis: unknown	720
+1300308501	HLA-G	0.960054	heterozygosis: unknown	721
+1255325901	HLA-G	0.960353	heterozygosis: yes (1-2)	722
+502903022	HLA-G	0.960386	heterozygosis: yes (1-2)	723
+273106111	HLA-G	0.960388	heterozygosis: yes (1-2)	724
+564832012	HLA-G	0.960627	heterozygosis: yes (1-2)	725
+167919062	HLA-G	0.961191	heterozygosis: unknown	726
+1028328901	HLA-G	0.961518	heterozygosis: yes (1-2)	727
+426111081	HLA-G	0.961577	heterozygosis: yes (1-2)	728
+240601021	HLA-G	0.961627	heterozygosis: yes (1-2)	729
+210800075	HLA-G	0.962457	heterozygosis: yes (1-2)	730
+1181107101	HLA-G	0.962532	heterozygosis: yes (1-2)	731
+367814101	HLA-G	0.962671	heterozygosis: unknown	732
+334615011	HLA-G	0.963167	heterozygosis: yes (1-2)	733
+185706052	HLA-G	0.963223	heterozygosis: yes (1-2)	734
+830203042	HLA-G	0.963727	heterozygosis: unknown	735
+110306031	HLA-G	0.964105	heterozygosis: yes (1-2)	736
+1288305901	HLA-G	0.964344	heterozygosis: yes (1-2)	737
+517622031	HLA-G	0.964803	heterozygosis: yes (1-2)	738
+853216071	HLA-G	0.964819	heterozygosis: yes (1-2)	739
+1253306101	HLA-G	0.965732	heterozygosis: unknown	740
+189711051	HLA-G	0.965972	heterozygosis: unknown	741
+1141109101	HLA-G	0.965974	heterozygosis: yes (1-2)	742
+231904021	HLA-G	0.965998	heterozygosis: unknown	743
+1341317021	HLA-G	0.966015	heterozygosis: unknown	744
+206701082	HLA-G	0.966212	heterozygosis: yes (1-2)	745
+265812072	HLA-G	0.966233	heterozygosis: yes (1-2)	746
+288920032	HLA-G	0.968468	heterozygosis: yes (1-2)	747
+1148415501	HLA-G	0.968955	heterozygosis: yes (>2)	748
+1046324501	HLA-G	0.968992	heterozygosis: unknown	749
+210807000	HLA-G	0.969817	heterozygosis: unknown	750
+1045318901	HLA-G	0.969937	heterozygosis: yes (1-2)	751
+236414032	HLA-G	0.969956	heterozygosis: unknown	752
+670208081	HLA-G	0.970031	heterozygosis: unknown	753
+352105011	HLA-G	0.971587	heterozygosis: yes (1-2)	754
+324708111	HLA-G	0.972462	heterozygosis: unknown	755
+1262524101	HLA-G	0.972759	heterozygosis: unknown	756
+640417051	HLA-G	0.972959	heterozygosis: yes (1-2)	757
+1066300601	HLA-G	0.972993	heterozygosis: yes (1-2)	758
+210800087	HLA-G	0.973231	heterozygosis: yes (1-2)	759
+1220801701	HLA-G	0.973239	heterozygosis: unknown	760
+372100051	HLA-G	0.973958	heterozygosis: yes (1-2)	761
+371100011	HLA-G	0.974070	heterozygosis: yes (1-2)	762
+306300031	HLA-G	0.974447	heterozygosis: unknown	763
+1073306701	HLA-G	0.974512	heterozygosis: yes (1-2)	764
+1248403701	HLA-G	0.974833	heterozygosis: unknown	765
+210800130	HLA-G	0.974974	heterozygosis: unknown	766
+613206052	HLA-G	0.975269	heterozygosis: unknown	767
+608506011	HLA-G	0.976956	heterozygosis: unknown	768
+360106052	HLA-G	0.976984	heterozygosis: unknown	769
+275108081	HLA-G	0.977035	heterozygosis: yes (1-2)	770
+555824102	HLA-G	0.977766	heterozygosis: unknown	771
+433800072	HLA-G	0.978793	heterozygosis: yes (1-2)	772
+226505041	HLA-G	0.979000	heterozygosis: yes (>2)	773
+210800085	HLA-G	0.979809	heterozygosis: yes (1-2)	774
+1214602101	HLA-G	0.979827	heterozygosis: unknown	775
+13813041	HLA-G	0.979964	heterozygosis: yes (1-2)	776
+178718051	HLA-G	0.980366	heterozygosis: yes (1-2)	777
+385823082	HLA-G	0.980795	heterozygosis: unknown	778
+1176601101	HLA-G	0.980822	heterozygosis: yes (1-2)	779
+530900091	HLA-G	0.981276	heterozygosis: yes (1-2)	780
+210800013	HLA-G	0.981446	heterozygosis: yes (1-2)	781
+219208092	HLA-G	0.982121	heterozygosis: unknown	782
+210800081	HLA-G	0.982265	heterozygosis: unknown	783
+569122051	HLA-G	0.982339	heterozygosis: unknown	784
+639417062	HLA-G	0.982597	heterozygosis: yes (1-2)	785
+1009228901	HLA-G	0.982939	heterozygosis: yes (1-2)	786
+55911051	HLA-G	0.983401	heterozygosis: unknown	787
+1125533701	HLA-G	0.983421	heterozygosis: yes (1-2)	788
+843112071	HLA-G	0.983600	heterozygosis: unknown	789
+1078415001	HLA-G	0.983645	heterozygosis: unknown	790
+1251233701	HLA-G	0.983732	heterozygosis: unknown	791
+872400021	HLA-G	0.983841	heterozygosis: yes (1-2)	792
+1199548101	HLA-G	0.984077	heterozygosis: unknown	793
+175020072	HLA-G	0.984176	heterozygosis: yes (1-2)	794
+241601031	HLA-G	0.984262	heterozygosis: yes (1-2)	795
+291903092	HLA-G	0.984469	heterozygosis: unknown	796
+210800086	HLA-G	0.985157	heterozygosis: unknown	797
+277101021	HLA-G	0.985627	heterozygosis: unknown	798
+813016061	HLA-G	0.985636	heterozygosis: yes (1-2)	799
+374100071	HLA-G	0.986720	heterozygosis: yes (1-2)	800
+896105021	HLA-G	0.986744	heterozygosis: yes (1-2)	801
+1074415201	HLA-G	0.987168	heterozygosis: unknown	802
+848331071	HLA-G	0.987189	heterozygosis: unknown	803
+395200244	HLA-G	0.988120	heterozygosis: yes (1-2)	804
+109303083	HLA-G	0.988158	heterozygosis: unknown	805
+1195412401	HLA-G	0.988298	heterozygosis: unknown	806
+1245314301	HLA-G	0.988544	heterozygosis: unknown	807
+544000385	HLA-G	0.989480	heterozygosis: yes (1-2)	808
+673715061	HLA-G	0.989589	heterozygosis: yes (1-2)	809
+8227031	HLA-G	0.989716	heterozygosis: unknown	810
+60933051	HLA-G	0.990290	heterozygosis: yes (1-2)	811
+816400231	HLA-G	0.990641	heterozygosis: yes (1-2)	812
+482732051	HLA-G	0.991043	heterozygosis: yes (1-2)	813
+84428022	HLA-G	0.991207	heterozygosis: unknown	814
+1213208101	HLA-G	0.992382	heterozygosis: unknown	815
+545000422	HLA-G	0.992395	heterozygosis: yes (1-2)	816
+302100071	HLA-G	0.992584	heterozygosis: yes (>2)	817
+1198546501	HLA-G	0.992701	heterozygosis: yes (1-2)	818
+132936052	HLA-G	0.992958	heterozygosis: yes (1-2)	819
+685903011	HLA-G	0.993052	heterozygosis: unknown	820
+576000031	HLA-G	0.993065	heterozygosis: unknown	821
+312300171	HLA-G	0.993525	heterozygosis: yes (1-2)	822
+468402011	HLA-G	0.994323	heterozygosis: unknown	823
+210800082	HLA-G	0.994696	heterozygosis: unknown	824
+565126021	HLA-G	0.995188	heterozygosis: unknown	825
+1243300102	HLA-G	0.995669	heterozygosis: yes (1-2)	826
+610503102	HLA-G	0.995916	heterozygosis: unknown	827
+210800084	HLA-G	0.995973	heterozygosis: unknown	828
+1179619501	HLA-G	0.996267	heterozygosis: yes (1-2)	829
+232503031	HLA-G	0.996531	heterozygosis: unknown	830
+363116101	HLA-G	0.996738	heterozygosis: unknown	831
+316300122	HLA-G	0.997343	heterozygosis: unknown	832
+841108042	HLA-G	0.997901	heterozygosis: unknown	833
+210800105	HLA-G	0.998169	heterozygosis: unknown	834
+1246402801	HLA-G	0.998676	heterozygosis: unknown	835
+1081411201	HLA-G	0.998897	heterozygosis: yes (1-2)	836
+1309534301	HLA-G	1.000237	heterozygosis: yes (1-2)	837
+394400011	HLA-G	1.000407	heterozygosis: unknown	838
+269102031	HLA-G	1.000747	heterozygosis: unknown	839
+1315510301	HLA-G	1.001326	heterozygosis: unknown	840
+897109041	HLA-G	1.001721	heterozygosis: yes (1-2)	841
+1175511701	HLA-G	1.002414	heterozygosis: yes (1-2)	842
+391400051	HLA-G	1.002444	heterozygosis: unknown	843
+1284314601	HLA-G	1.002586	heterozygosis: unknown	844
+114306102	HLA-G	1.003490	heterozygosis: yes (1-2)	845
+636902031	HLA-G	1.003588	heterozygosis: yes (1-2)	846
+373100091	HLA-G	1.004634	heterozygosis: unknown	847
+224309081	HLA-G	1.004742	heterozygosis: yes (1-2)	848
+201320081	HLA-G	1.004793	heterozygosis: yes (1-2)	849
+17912032	HLA-G	1.004822	heterozygosis: unknown	850
+406000435	HLA-G	1.004829	heterozygosis: yes (1-2)	851
+359106051	HLA-G	1.004916	heterozygosis: yes (1-2)	852
+156202031	HLA-G	1.005023	heterozygosis: yes (1-2)	853
+335916011	HLA-G	1.005106	heterozygosis: yes (1-2)	854
+210800057	HLA-G	1.005175	heterozygosis: yes (1-2)	855
+19309051	HLA-G	1.005287	heterozygosis: unknown	856
+825605071	HLA-G	1.005711	heterozygosis: yes (>2)	857
+593918082	HLA-G	1.005798	heterozygosis: yes (1-2)	858
+541230102	HLA-G	1.006407	heterozygosis: unknown	859
+876806031	HLA-G	1.006452	heterozygosis: unknown	860
+500933081	HLA-G	1.006952	heterozygosis: unknown	861
+1191526001	HLA-G	1.007011	heterozygosis: yes (1-2)	862
+839007051	HLA-G	1.007031	heterozygosis: unknown	863
+1212203001	HLA-G	1.007058	heterozygosis: yes (>2)	864
+857103081	HLA-G	1.007262	heterozygosis: yes (1-2)	865
+661407041	HLA-G	1.007359	heterozygosis: yes (1-2)	866
+387832102	HLA-G	1.007477	heterozygosis: unknown	867
+621523032	HLA-G	1.007604	heterozygosis: unknown	868
+210800106	HLA-G	1.008358	heterozygosis: yes (1-2)	869
+1306837101	HLA-G	1.008369	heterozygosis: unknown	870
+295309041	HLA-G	1.008532	heterozygosis: unknown	871
+893226021	HLA-G	1.008690	heterozygosis: yes (1-2)	872
+210800133	HLA-G	1.008954	heterozygosis: unknown	873
+242605081	HLA-G	1.009391	heterozygosis: yes (1-2)	874
+520701041	HLA-G	1.009994	heterozygosis: yes (1-2)	875
+100102082	HLA-G	1.010407	heterozygosis: unknown	876
+49103041	HLA-G	1.010596	heterozygosis: yes (1-2)	877
+81418052	HLA-G	1.010977	heterozygosis: unknown	878
+210800089	HLA-G	1.011546	heterozygosis: yes (1-2)	879
+614202101	HLA-G	1.011702	heterozygosis: yes (1-2)	880
+1229509801	HLA-G	1.012301	heterozygosis: yes (1-2)	881
+629000523	HLA-G	1.012342	heterozygosis: unknown	882
+536212062	HLA-G	1.012421	heterozygosis: unknown	883
+1171507301	HLA-G	1.012632	heterozygosis: unknown	884
+1186600201	HLA-G	1.013221	heterozygosis: unknown	885
+1207301001	HLA-G	1.013622	heterozygosis: yes (1-2)	886
+87428053	HLA-G	1.014005	heterozygosis: unknown	887
+632000410	HLA-G	1.014045	heterozygosis: yes (1-2)	888
+844112061	HLA-G	1.014235	heterozygosis: yes (1-2)	889
+353105031	HLA-G	1.014784	heterozygosis: unknown	890
+1039801301	HLA-G	1.015625	heterozygosis: yes (1-2)	891
+209320091	HLA-G	1.016024	heterozygosis: yes (1-2)	892
+23312012	HLA-G	1.016058	heterozygosis: unknown	893
+57914021	HLA-G	1.016421	heterozygosis: yes (1-2)	894
+1299323301	HLA-G	1.016593	heterozygosis: yes (1-2)	895
+11808031	HLA-G	1.017798	heterozygosis: yes (1-2)	896
+1063331501	HLA-G	1.017864	heterozygosis: yes (1-2)	897
+1169524101	HLA-G	1.017967	heterozygosis: yes (1-2)	898
+512510011	HLA-G	1.018438	heterozygosis: unknown	899
+162910071	HLA-G	1.018829	heterozygosis: unknown	900
+210800023	HLA-G	1.019750	heterozygosis: unknown	901
+1326613901	HLA-G	1.019960	heterozygosis: unknown	902
+56911052	HLA-G	1.020108	heterozygosis: unknown	903
+595913111	HLA-G	1.020669	heterozygosis: unknown	904
+1156206501	HLA-G	1.020913	heterozygosis: unknown	905
+118410051	HLA-G	1.020954	heterozygosis: unknown	906
+473700138	HLA-G	1.022491	heterozygosis: yes (1-2)	907
+384010051	HLA-G	1.023284	heterozygosis: yes (1-2)	908
+1332703401	HLA-G	1.023660	heterozygosis: unknown	909
+325710071	HLA-G	1.024272	heterozygosis: unknown	910
+210800025	HLA-G	1.025339	heterozygosis: unknown	911
+279902091	HLA-G	1.025803	heterozygosis: unknown	912
+210800032	HLA-G	1.025828	heterozygosis: yes (1-2)	913
+884000530	HLA-G	1.025852	heterozygosis: yes (>2)	914
+234435042	HLA-G	1.026302	heterozygosis: yes (1-2)	915
+679226032	HLA-G	1.027244	heterozygosis: yes (1-2)	916
+1050333901	HLA-G	1.028199	heterozygosis: yes (1-2)	917
+163910072	HLA-G	1.028523	heterozygosis: unknown	918
+210800134	HLA-G	1.029107	heterozygosis: unknown	919
+1314207601	HLA-G	1.029385	heterozygosis: unknown	920
+1258529501	HLA-G	1.029877	heterozygosis: unknown	921
+180806071	HLA-G	1.030020	heterozygosis: unknown	922
+1089637701	HLA-G	1.030084	heterozygosis: yes (1-2)	923
+550800017	HLA-G	1.030187	heterozygosis: unknown	924
+65414101	HLA-G	1.030759	heterozygosis: yes (1-2)	925
+501910081	HLA-G	1.032190	heterozygosis: unknown	926
+1337513301	HLA-G	1.032198	heterozygosis: unknown	927
+61929041	HLA-G	1.032408	heterozygosis: yes (1-2)	928
+898106061	HLA-G	1.032825	heterozygosis: yes (1-2)	929
+314300111	HLA-G	1.034020	heterozygosis: yes (1-2)	930
+210800047	HLA-G	1.034328	heterozygosis: yes (1-2)	931
+496917101	HLA-G	1.034648	heterozygosis: yes (1-2)	932
+873115091	HLA-G	1.034962	heterozygosis: unknown	933
+293900060	HLA-G	1.035321	heterozygosis: unknown	934
+370100041	HLA-G	1.036095	heterozygosis: unknown	935
+322703021	HLA-G	1.036663	heterozygosis: unknown	936
+411611051	HLA-G	1.036666	heterozygosis: unknown	937
+320712091	HLA-G	1.036777	heterozygosis: yes (1-2)	938
+123313091	HLA-G	1.037522	heterozygosis: unknown	939
+1041302101	HLA-G	1.038193	heterozygosis: yes (>2)	940
+1340826701	HLA-G	1.038483	heterozygosis: yes (1-2)	941
+378900081	HLA-G	1.038586	heterozygosis: unknown	942
+22309072	HLA-G	1.039215	heterozygosis: unknown	943
+1019621702	HLA-G	1.039260	heterozygosis: unknown	944
+158718101	HLA-G	1.040864	heterozygosis: yes (1-2)	945
+390400091	HLA-G	1.041300	heterozygosis: unknown	946
+210800020	HLA-G	1.041504	heterozygosis: yes (1-2)	947
+817922021	HLA-G	1.041586	heterozygosis: unknown	948
+337005011	HLA-G	1.041653	heterozygosis: unknown	949
+1324616101	HLA-G	1.042122	heterozygosis: yes (1-2)	950
+139111041	HLA-G	1.043416	heterozygosis: unknown	951
+233435041	HLA-G	1.043472	heterozygosis: unknown	952
+125318061	HLA-G	1.043811	heterozygosis: yes (1-2)	953
+581020052	HLA-G	1.044653	heterozygosis: unknown	954
+1342817101	HLA-G	1.044923	heterozygosis: unknown	955
+263805061	HLA-G	1.045378	heterozygosis: unknown	956
+361100250	HLA-G	1.046003	heterozygosis: unknown	957
+210800058	HLA-G	1.046463	heterozygosis: yes (>2)	958
+285626052	HLA-G	1.046525	heterozygosis: unknown	959
+296309042	HLA-G	1.046731	heterozygosis: yes (1-2)	960
+1343317022	HLA-G	1.047102	heterozygosis: unknown	961
+210800019	HLA-G	1.047356	heterozygosis: unknown	962
+801213101	HLA-G	1.047464	heterozygosis: yes (1-2)	963
+388409011	HLA-G	1.048133	heterozygosis: yes (1-2)	964
+504900367	HLA-G	1.048491	heterozygosis: yes (1-2)	965
+210809000	HLA-G	1.048976	heterozygosis: unknown	966
+213720091	HLA-G	1.049122	heterozygosis: yes (1-2)	967
+326712081	HLA-G	1.049228	heterozygosis: unknown	968
+1174511301	HLA-G	1.050403	heterozygosis: unknown	969
+210800092	HLA-G	1.050441	heterozygosis: yes (1-2)	970
+134901092	HLA-G	1.051012	heterozygosis: yes (1-2)	971
+511515011	HLA-G	1.051610	heterozygosis: yes (1-2)	972
+32833091	HLA-G	1.051781	heterozygosis: unknown	973
+210808000	HLA-G	1.051931	heterozygosis: yes (1-2)	974
+827607111	HLA-G	1.052295	heterozygosis: unknown	975
+1126220301	HLA-G	1.052750	heterozygosis: unknown	976
+150228101	HLA-G	1.053145	heterozygosis: unknown	977
+1151210901	HLA-G	1.053172	heterozygosis: unknown	978
+83425022	HLA-G	1.054677	heterozygosis: yes (1-2)	979
+1180101501	HLA-G	1.055087	heterozygosis: yes (1-2)	980
+560809022	HLA-G	1.055218	heterozygosis: unknown	981
+340304011	HLA-G	1.056819	heterozygosis: unknown	982
+491905071	HLA-G	1.057368	heterozygosis: unknown	983
+623523111	HLA-G	1.057925	heterozygosis: unknown	984
+330201041	HLA-G	1.059161	heterozygosis: yes (1-2)	985
+1123524701	HLA-G	1.059390	heterozygosis: unknown	986
+831205021	HLA-G	1.060239	heterozygosis: unknown	987
+169640071	HLA-G	1.061201	heterozygosis: unknown	988
+85428051	HLA-G	1.063700	heterozygosis: unknown	989
+561815021	HLA-G	1.064040	heterozygosis: yes (1-2)	990
+472700136	HLA-G	1.064383	heterozygosis: unknown	991
+40126061	HLA-G	1.065837	heterozygosis: unknown	992
+1075415202	HLA-G	1.066011	heterozygosis: yes (1-2)	993
+147213061	HLA-G	1.067065	heterozygosis: unknown	994
+1094410202	HLA-G	1.067985	heterozygosis: unknown	995
+1219602701	HLA-G	1.069416	heterozygosis: yes (1-2)	996
+1107311001	HLA-G	1.073498	heterozygosis: unknown	997
+210800022	HLA-G	1.074593	heterozygosis: yes (1-2)	998
+227708102	HLA-G	1.074795	heterozygosis: unknown	999
+115700198	HLA-G	1.074828	heterozygosis: unknown	1000
+210800110	HLA-G	1.074919	heterozygosis: yes (1-2)	1001
+1282622601	HLA-G	1.076947	heterozygosis: yes (>2)	1002
+554824101	HLA-G	1.079106	heterozygosis: unknown	1003
+210800056	HLA-G	1.079521	heterozygosis: unknown	1004
+1295009501	HLA-G	1.080019	heterozygosis: yes (1-2)	1005
+1322616701	HLA-G	1.080146	heterozygosis: unknown	1006
+1242300101	HLA-G	1.080940	heterozygosis: unknown	1007
+1247403701	HLA-G	1.081545	heterozygosis: yes (1-2)	1008
+662000476	HLA-G	1.083051	heterozygosis: yes (>2)	1009
+869541071	HLA-G	1.083057	heterozygosis: unknown	1010
+1112517801	HLA-G	1.083182	heterozygosis: unknown	1011
+680000556	HLA-G	1.084302	heterozygosis: yes (1-2)	1012
+88220081	HLA-G	1.084609	heterozygosis: yes (1-2)	1013
+1301619901	HLA-G	1.084835	heterozygosis: unknown	1014
+412617011	HLA-G	1.084907	heterozygosis: yes (1-2)	1015
+563000569	HLA-G	1.085369	heterozygosis: yes (1-2)	1016
+284626051	HLA-G	1.085409	heterozygosis: yes (1-2)	1017
+210800072	HLA-G	1.086861	heterozygosis: yes (1-2)	1018
+210800054	HLA-G	1.090115	heterozygosis: unknown	1019
+1319604602	HLA-G	1.090169	heterozygosis: unknown	1020
+300100061	HLA-G	1.090664	heterozygosis: unknown	1021
+566106091	HLA-G	1.091831	heterozygosis: yes (1-2)	1022
+24312081	HLA-G	1.092338	heterozygosis: unknown	1023
+197226051	HLA-G	1.093439	heterozygosis: yes (1-2)	1024
+1217612301	HLA-G	1.093560	heterozygosis: yes (1-2)	1025
+86428052	HLA-G	1.093862	heterozygosis: yes (1-2)	1026
+1236209301	HLA-G	1.095109	heterozygosis: yes (1-2)	1027
+124313101	HLA-G	1.095535	heterozygosis: unknown	1028
+179800101	HLA-G	1.097831	heterozygosis: yes (1-2)	1029
+1184611101	HLA-G	1.099970	heterozygosis: unknown	1030
+238218081	HLA-G	1.100241	heterozygosis: yes (1-2)	1031
+343021102	HLA-G	1.102271	heterozygosis: yes (1-2)	1032
+210800079	HLA-G	1.102723	heterozygosis: unknown	1033
+532802041	HLA-G	1.104602	heterozygosis: yes (>2)	1034
+1096407801	HLA-G	1.105076	heterozygosis: yes (1-2)	1035
+37041012	HLA-G	1.107838	heterozygosis: yes (1-2)	1036
+606224012	HLA-G	1.107986	heterozygosis: yes (1-2)	1037
+1158102101	HLA-G	1.108468	heterozygosis: unknown	1038
+364131061	HLA-G	1.109533	heterozygosis: unknown	1039
+1228816501	HLA-G	1.109978	heterozygosis: yes (1-2)	1040
+59603011	HLA-G	1.110005	heterozygosis: yes (1-2)	1041
+1064331901	HLA-G	1.110130	heterozygosis: yes (1-2)	1042
+1270318701	HLA-G	1.111966	heterozygosis: unknown	1043
+415601031	HLA-G	1.111990	heterozygosis: unknown	1044
+290907011	HLA-G	1.112048	heterozygosis: unknown	1045
+327601041	HLA-G	1.112095	heterozygosis: unknown	1046
+690901071	HLA-G	1.113099	heterozygosis: unknown	1047
+89220082	HLA-G	1.114819	heterozygosis: yes (1-2)	1048
+47518082	HLA-G	1.114939	heterozygosis: unknown	1049
+862900051	HLA-G	1.115784	heterozygosis: unknown	1050
+210800060	HLA-G	1.116125	heterozygosis: yes (1-2)	1051
+609503101	HLA-G	1.116792	heterozygosis: yes (>2)	1052
+1051007301	HLA-G	1.117895	heterozygosis: unknown	1053
+414601022	HLA-G	1.118978	heterozygosis: yes (1-2)	1054
+292903042	HLA-G	1.120066	heterozygosis: yes (1-2)	1055
+276110121	HLA-G	1.125670	heterozygosis: yes (1-2)	1056
+1010616901	HLA-G	1.126710	heterozygosis: yes (1-2)	1057
+221409101	HLA-G	1.126964	heterozygosis: yes (1-2)	1058
+1232510901	HLA-G	1.127521	heterozygosis: unknown	1059
+838001021	HLA-G	1.128302	heterozygosis: unknown	1060
+317300161	HLA-G	1.129508	heterozygosis: yes (1-2)	1061
+1338519701	HLA-G	1.131074	heterozygosis: unknown	1062
+557844101	HLA-G	1.131088	heterozygosis: yes (1-2)	1063
+1085674901	HLA-G	1.131227	heterozygosis: unknown	1064
+210800077	HLA-G	1.132539	heterozygosis: yes (1-2)	1065
+627513061	HLA-G	1.132585	heterozygosis: yes (1-2)	1066
+210800073	HLA-G	1.132722	heterozygosis: yes (1-2)	1067
+1136309301	HLA-G	1.133157	heterozygosis: yes (1-2)	1068
+653000468	HLA-G	1.133645	heterozygosis: yes (1-2)	1069
+490903011	HLA-G	1.136073	heterozygosis: unknown	1070
+487428061	HLA-G	1.136209	heterozygosis: yes (1-2)	1071
+626528021	HLA-G	1.137715	heterozygosis: unknown	1072
+637323091	HLA-G	1.138042	heterozygosis: yes (1-2)	1073
+365123011	HLA-G	1.138585	heterozygosis: yes (1-2)	1074
+130900253	HLA-G	1.138662	heterozygosis: yes (1-2)	1075
+403611041	HLA-G	1.139328	heterozygosis: unknown	1076
+1285201401	HLA-G	1.139812	heterozygosis: unknown	1077
+307300032	HLA-G	1.142931	heterozygosis: yes (1-2)	1078
+235414031	HLA-G	1.145809	heterozygosis: unknown	1079
+1344203301	HLA-G	1.146914	heterozygosis: yes (1-2)	1080
+1244303302	HLA-G	1.147397	heterozygosis: yes (1-2)	1081
+207701083	HLA-G	1.150538	heterozygosis: unknown	1082
+885000534	HLA-G	1.150859	heterozygosis: unknown	1083
+1067305201	HLA-G	1.151110	heterozygosis: unknown	1084
+294309021	HLA-G	1.153631	heterozygosis: unknown	1085
+1275529101	HLA-G	1.154131	heterozygosis: unknown	1086
+210800114	HLA-G	1.154524	heterozygosis: unknown	1087
+672208061	HLA-G	1.155046	heterozygosis: unknown	1088
+866604021	HLA-G	1.156020	heterozygosis: yes (1-2)	1089
+493911021	HLA-G	1.156128	heterozygosis: unknown	1090
+46518081	HLA-G	1.160979	heterozygosis: yes (1-2)	1091
+1016611301	HLA-G	1.161987	heterozygosis: unknown	1092
+886000538	HLA-G	1.162966	heterozygosis: yes (>2)	1093
+120416021	HLA-G	1.166469	heterozygosis: unknown	1094
+847939062	HLA-G	1.166896	heterozygosis: unknown	1095
+210800103	HLA-G	1.167490	heterozygosis: unknown	1096
+116724051	HLA-G	1.170822	heterozygosis: yes (1-2)	1097
+344305051	HLA-G	1.171237	heterozygosis: unknown	1098
+1153202102	HLA-G	1.176665	heterozygosis: yes (1-2)	1099
+380013012	HLA-G	1.176801	heterozygosis: unknown	1100
+341309071	HLA-G	1.179464	heterozygosis: yes (1-2)	1101
+1278601602	HLA-G	1.180373	heterozygosis: unknown	1102
+210800036	HLA-G	1.183948	heterozygosis: yes (1-2)	1103
+244604061	HLA-G	1.186398	heterozygosis: unknown	1104
+516622071	HLA-G	1.189187	heterozygosis: unknown	1105
+553815101	HLA-G	1.190180	heterozygosis: yes (1-2)	1106
+1188124701	HLA-G	1.197625	heterozygosis: yes (1-2)	1107
+409000527	HLA-G	1.204132	heterozygosis: yes (1-2)	1108
+1038800301	HLA-G	1.204159	heterozygosis: yes (1-2)	1109
+210800071	HLA-G	1.207160	heterozygosis: yes (1-2)	1110
+829211061	HLA-G	1.209074	heterozygosis: unknown	1111
+210800015	HLA-G	1.212732	heterozygosis: unknown	1112
+210800017	HLA-G	1.214242	heterozygosis: yes (1-2)	1113
+548000496	HLA-G	1.214504	heterozygosis: yes (1-2)	1114
+210800070	HLA-G	1.216226	heterozygosis: unknown	1115
+1069305601	HLA-G	1.229228	heterozygosis: yes (1-2)	1116
+1235616502	HLA-G	1.232832	heterozygosis: yes (1-2)	1117
+1271304902	HLA-G	1.239971	heterozygosis: yes (1-2)	1118
+852220051	HLA-G	1.251128	heterozygosis: unknown	1119
+210800116	HLA-G	1.252855	heterozygosis: yes (1-2)	1120
+133918061	HLA-G	1.261502	heterozygosis: yes (1-2)	1121
+225204032	HLA-G	1.273229	heterozygosis: unknown	1122
+1068305301	HLA-G	1.278563	heterozygosis: yes (1-2)	1123
+336908021	HLA-G	1.284294	heterozygosis: unknown	1124
+161230101	HLA-G	1.287704	heterozygosis: unknown	1125
+1201535702	HLA-G	1.288343	heterozygosis: yes (1-2)	1126
+192723061	HLA-G	1.291079	heterozygosis: unknown	1127
+315300121	HLA-G	1.293018	heterozygosis: yes (1-2)	1128
+126322071	HLA-G	1.295259	heterozygosis: yes (1-2)	1129
+1140104501	HLA-G	1.311722	heterozygosis: yes (1-2)	1130
+354102051	HLA-G	1.325430	heterozygosis: unknown	1131
+108303082	HLA-G	1.326897	heterozygosis: yes (1-2)	1132
+103116022	HLA-G	1.329707	heterozygosis: yes (1-2)	1133
+1323600501	HLA-G	1.478869	heterozygosis: yes (1-2)	1134

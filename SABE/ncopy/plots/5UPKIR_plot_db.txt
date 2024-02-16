@@ -1,0 +1,1135 @@
+Sample	Gene	Ratio	Heterozygosis	Order
+210800083	5UPKIR	0.564259	heterozygosis: unknown	1
+1016611301	5UPKIR	0.568881	heterozygosis: unknown	2
+446303051	5UPKIR	0.600057	heterozygosis: unknown	3
+589000356	5UPKIR	0.629015	heterozygosis: unknown	4
+428046012	5UPKIR	0.633218	heterozygosis: unknown	5
+111306051	5UPKIR	0.661940	heterozygosis: unknown	6
+16907052	5UPKIR	0.665098	heterozygosis: yes (1-2)	7
+474730041	5UPKIR	0.669711	heterozygosis: unknown	8
+1233501301	5UPKIR	0.670948	heterozygosis: unknown	9
+319416011	5UPKIR	0.672296	heterozygosis: unknown	10
+280905041	5UPKIR	0.672724	heterozygosis: unknown	11
+1060302901	5UPKIR	0.680149	heterozygosis: unknown	12
+210800012	5UPKIR	0.686686	heterozygosis: unknown	13
+423320091	5UPKIR	0.689357	heterozygosis: yes (1-2)	14
+261805051	5UPKIR	0.689692	heterozygosis: yes (1-2)	15
+599208021	5UPKIR	0.690796	heterozygosis: unknown	16
+527900101	5UPKIR	0.692110	heterozygosis: unknown	17
+1012617701	5UPKIR	0.698447	heterozygosis: unknown	18
+651923072	5UPKIR	0.704670	heterozygosis: unknown	19
+1295009501	5UPKIR	0.710236	heterozygosis: unknown	20
+1150414501	5UPKIR	0.712733	heterozygosis: unknown	21
+548000496	5UPKIR	0.714517	heterozygosis: unknown	22
+1059310901	5UPKIR	0.715324	heterozygosis: unknown	23
+1310570901	5UPKIR	0.717140	heterozygosis: unknown	24
+177023091	5UPKIR	0.720779	heterozygosis: unknown	25
+570122061	5UPKIR	0.725563	heterozygosis: unknown	26
+289911091	5UPKIR	0.728136	heterozygosis: unknown	27
+321701011	5UPKIR	0.729567	heterozygosis: unknown	28
+1090670301	5UPKIR	0.733193	heterozygosis: unknown	29
+1017620101	5UPKIR	0.733576	heterozygosis: unknown	30
+43140021	5UPKIR	0.734561	heterozygosis: unknown	31
+843112071	5UPKIR	0.734738	heterozygosis: unknown	32
+1052007701	5UPKIR	0.734864	heterozygosis: unknown	33
+42140012	5UPKIR	0.735944	heterozygosis: yes (1-2)	34
+1099223302	5UPKIR	0.739421	heterozygosis: unknown	35
+1132140901	5UPKIR	0.739591	heterozygosis: unknown	36
+515000447	5UPKIR	0.742789	heterozygosis: unknown	37
+840007041	5UPKIR	0.744424	heterozygosis: unknown	38
+680000556	5UPKIR	0.747039	heterozygosis: unknown	39
+340304011	5UPKIR	0.749362	heterozygosis: yes (1-2)	40
+210800108	5UPKIR	0.750025	heterozygosis: unknown	41
+615800019	5UPKIR	0.752540	heterozygosis: yes (1-2)	42
+1190114802	5UPKIR	0.754050	heterozygosis: unknown	43
+1058009901	5UPKIR	0.754529	heterozygosis: unknown	44
+1072310801	5UPKIR	0.755341	heterozygosis: yes (1-2)	45
+820000506	5UPKIR	0.756899	heterozygosis: unknown	46
+1097223901	5UPKIR	0.758067	heterozygosis: unknown	47
+305100171	5UPKIR	0.759199	heterozygosis: unknown	48
+1047326101	5UPKIR	0.759274	heterozygosis: unknown	49
+215712101	5UPKIR	0.759518	heterozygosis: unknown	50
+488428071	5UPKIR	0.760734	heterozygosis: unknown	51
+1166506501	5UPKIR	0.761057	heterozygosis: yes (1-2)	52
+1245314301	5UPKIR	0.762123	heterozygosis: unknown	53
+374100071	5UPKIR	0.763741	heterozygosis: unknown	54
+849106091	5UPKIR	0.763872	heterozygosis: unknown	55
+210800057	5UPKIR	0.765584	heterozygosis: unknown	56
+210800066	5UPKIR	0.770339	heterozygosis: unknown	57
+369814111	5UPKIR	0.771521	heterozygosis: unknown	58
+210800016	5UPKIR	0.771710	heterozygosis: unknown	59
+345801011	5UPKIR	0.772517	heterozygosis: unknown	60
+210800018	5UPKIR	0.776268	heterozygosis: unknown	61
+659404021	5UPKIR	0.778046	heterozygosis: unknown	62
+191735081	5UPKIR	0.778862	heterozygosis: unknown	63
+643417011	5UPKIR	0.780161	heterozygosis: unknown	64
+210800076	5UPKIR	0.783391	heterozygosis: unknown	65
+393400101	5UPKIR	0.783870	heterozygosis: yes (1-2)	66
+603211092	5UPKIR	0.785623	heterozygosis: unknown	67
+547000448	5UPKIR	0.787459	heterozygosis: unknown	68
+375100081	5UPKIR	0.788345	heterozygosis: unknown	69
+864914071	5UPKIR	0.791999	heterozygosis: unknown	70
+350817072	5UPKIR	0.792371	heterozygosis: unknown	71
+1014604901	5UPKIR	0.793696	heterozygosis: unknown	72
+1048328901	5UPKIR	0.793823	heterozygosis: unknown	73
+1169524101	5UPKIR	0.794953	heterozygosis: yes (1-2)	74
+242605081	5UPKIR	0.795109	heterozygosis: unknown	75
+610503102	5UPKIR	0.795868	heterozygosis: unknown	76
+647405102	5UPKIR	0.795929	heterozygosis: unknown	77
+1187601202	5UPKIR	0.796048	heterozygosis: yes (1-2)	78
+1199548101	5UPKIR	0.796379	heterozygosis: unknown	79
+309300061	5UPKIR	0.798183	heterozygosis: unknown	80
+235414031	5UPKIR	0.799887	heterozygosis: unknown	81
+1026319101	5UPKIR	0.800157	heterozygosis: unknown	82
+210800027	5UPKIR	0.803644	heterozygosis: unknown	83
+1244303302	5UPKIR	0.805052	heterozygosis: yes (1-2)	84
+1216606101	5UPKIR	0.805104	heterozygosis: unknown	85
+198305011	5UPKIR	0.806110	heterozygosis: yes (1-2)	86
+826605072	5UPKIR	0.806986	heterozygosis: unknown	87
+560809022	5UPKIR	0.808604	heterozygosis: yes (1-2)	88
+540230101	5UPKIR	0.808843	heterozygosis: yes (1-2)	89
+209320091	5UPKIR	0.809472	heterozygosis: yes (1-2)	90
+500933081	5UPKIR	0.813238	heterozygosis: unknown	91
+210800061	5UPKIR	0.813553	heterozygosis: unknown	92
+203323011	5UPKIR	0.815245	heterozygosis: unknown	93
+1336507301	5UPKIR	0.815789	heterozygosis: yes (1-2)	94
+494918051	5UPKIR	0.816250	heterozygosis: unknown	95
+216211041	5UPKIR	0.816256	heterozygosis: unknown	96
+364131061	5UPKIR	0.816883	heterozygosis: yes (1-2)	97
+210800033	5UPKIR	0.817098	heterozygosis: unknown	98
+1093410201	5UPKIR	0.817177	heterozygosis: unknown	99
+879809041	5UPKIR	0.817834	heterozygosis: unknown	100
+1138100101	5UPKIR	0.818648	heterozygosis: unknown	101
+318933021	5UPKIR	0.819274	heterozygosis: unknown	102
+677226041	5UPKIR	0.819901	heterozygosis: unknown	103
+1299323301	5UPKIR	0.820074	heterozygosis: yes (1-2)	104
+620523031	5UPKIR	0.822131	heterozygosis: unknown	105
+432800071	5UPKIR	0.822156	heterozygosis: unknown	106
+1018621701	5UPKIR	0.825188	heterozygosis: unknown	107
+159210011	5UPKIR	0.825450	heterozygosis: unknown	108
+874000021	5UPKIR	0.826278	heterozygosis: unknown	109
+1227828901	5UPKIR	0.827868	heterozygosis: unknown	110
+151228102	5UPKIR	0.828175	heterozygosis: unknown	111
+210800015	5UPKIR	0.829365	heterozygosis: unknown	112
+884000530	5UPKIR	0.830796	heterozygosis: unknown	113
+53409011	5UPKIR	0.830910	heterozygosis: unknown	114
+119410052	5UPKIR	0.831544	heterozygosis: unknown	115
+693209051	5UPKIR	0.833235	heterozygosis: unknown	116
+143709042	5UPKIR	0.833829	heterozygosis: unknown	117
+521601061	5UPKIR	0.834096	heterozygosis: yes (1-2)	118
+486425051	5UPKIR	0.834167	heterozygosis: unknown	119
+106301032	5UPKIR	0.835007	heterozygosis: yes (1-2)	120
+210800111	5UPKIR	0.836559	heterozygosis: unknown	121
+404808011	5UPKIR	0.836951	heterozygosis: unknown	122
+1095415601	5UPKIR	0.836973	heterozygosis: unknown	123
+1223818501	5UPKIR	0.837416	heterozygosis: unknown	124
+803123042	5UPKIR	0.838082	heterozygosis: unknown	125
+382019052	5UPKIR	0.839058	heterozygosis: unknown	126
+413620032	5UPKIR	0.839152	heterozygosis: unknown	127
+1134304501	5UPKIR	0.840396	heterozygosis: unknown	128
+837001011	5UPKIR	0.840403	heterozygosis: unknown	129
+243607091	5UPKIR	0.840585	heterozygosis: unknown	130
+1204538102	5UPKIR	0.840663	heterozygosis: unknown	131
+656901101	5UPKIR	0.840774	heterozygosis: unknown	132
+533802051	5UPKIR	0.841528	heterozygosis: yes (1-2)	133
+339028131	5UPKIR	0.842254	heterozygosis: unknown	134
+162910071	5UPKIR	0.842506	heterozygosis: unknown	135
+645401031	5UPKIR	0.842612	heterozygosis: unknown	136
+149213051	5UPKIR	0.842840	heterozygosis: unknown	137
+358106042	5UPKIR	0.842850	heterozygosis: unknown	138
+416215041	5UPKIR	0.843217	heterozygosis: unknown	139
+441206011	5UPKIR	0.843656	heterozygosis: unknown	140
+210800089	5UPKIR	0.844392	heterozygosis: unknown	141
+1230536501	5UPKIR	0.846086	heterozygosis: unknown	142
+210800125	5UPKIR	0.846294	heterozygosis: unknown	143
+1321617901	5UPKIR	0.846833	heterozygosis: unknown	144
+869541071	5UPKIR	0.847211	heterozygosis: unknown	145
+391400051	5UPKIR	0.847688	heterozygosis: yes (1-2)	146
+609503101	5UPKIR	0.848807	heterozygosis: unknown	147
+210800038	5UPKIR	0.849569	heterozygosis: unknown	148
+260803041	5UPKIR	0.850573	heterozygosis: unknown	149
+1298019101	5UPKIR	0.851345	heterozygosis: unknown	150
+666442081	5UPKIR	0.851679	heterozygosis: unknown	151
+196216032	5UPKIR	0.852113	heterozygosis: unknown	152
+583016011	5UPKIR	0.852790	heterozygosis: yes (1-2)	153
+1104308401	5UPKIR	0.852813	heterozygosis: unknown	154
+210800115	5UPKIR	0.853170	heterozygosis: unknown	155
+1183605501	5UPKIR	0.853190	heterozygosis: unknown	156
+658402011	5UPKIR	0.853350	heterozygosis: unknown	157
+33838042	5UPKIR	0.853760	heterozygosis: yes (1-2)	158
+587011051	5UPKIR	0.854847	heterozygosis: unknown	159
+146509051	5UPKIR	0.854866	heterozygosis: unknown	160
+697206072	5UPKIR	0.855333	heterozygosis: unknown	161
+293900060	5UPKIR	0.855533	heterozygosis: unknown	162
+306300031	5UPKIR	0.855866	heterozygosis: yes (1-2)	163
+830203042	5UPKIR	0.856257	heterozygosis: unknown	164
+470201041	5UPKIR	0.856622	heterozygosis: unknown	165
+1042404301	5UPKIR	0.857475	heterozygosis: unknown	166
+872400021	5UPKIR	0.857526	heterozygosis: unknown	167
+1264618401	5UPKIR	0.857618	heterozygosis: unknown	168
+338015051	5UPKIR	0.857749	heterozygosis: unknown	169
+408000441	5UPKIR	0.858442	heterozygosis: unknown	170
+298100021	5UPKIR	0.858780	heterozygosis: unknown	171
+495919111	5UPKIR	0.859351	heterozygosis: unknown	172
+385823082	5UPKIR	0.859734	heterozygosis: yes (1-2)	173
+828604051	5UPKIR	0.860336	heterozygosis: unknown	174
+1194402801	5UPKIR	0.861332	heterozygosis: unknown	175
+853216071	5UPKIR	0.862400	heterozygosis: unknown	176
+818918011	5UPKIR	0.862585	heterozygosis: unknown	177
+104116082	5UPKIR	0.862662	heterozygosis: unknown	178
+1144306901	5UPKIR	0.863318	heterozygosis: unknown	179
+831205021	5UPKIR	0.864171	heterozygosis: unknown	180
+210800017	5UPKIR	0.865302	heterozygosis: unknown	181
+188711071	5UPKIR	0.865835	heterozygosis: unknown	182
+1226835501	5UPKIR	0.866011	heterozygosis: unknown	183
+360106052	5UPKIR	0.866821	heterozygosis: unknown	184
+140706102	5UPKIR	0.866900	heterozygosis: unknown	185
+492910021	5UPKIR	0.867473	heterozygosis: unknown	186
+507933012	5UPKIR	0.867494	heterozygosis: unknown	187
+210800036	5UPKIR	0.867593	heterozygosis: unknown	188
+208320012	5UPKIR	0.868550	heterozygosis: unknown	189
+1210206401	5UPKIR	0.869478	heterozygosis: unknown	190
+522715031	5UPKIR	0.870930	heterozygosis: unknown	191
+27319021	5UPKIR	0.871072	heterozygosis: unknown	192
+811225081	5UPKIR	0.871690	heterozygosis: unknown	193
+210800043	5UPKIR	0.871720	heterozygosis: yes (1-2)	194
+675000350	5UPKIR	0.872543	heterozygosis: unknown	195
+210808000	5UPKIR	0.872823	heterozygosis: unknown	196
+1147414901	5UPKIR	0.873048	heterozygosis: unknown	197
+21309053	5UPKIR	0.873440	heterozygosis: yes (1-2)	198
+210800032	5UPKIR	0.873785	heterozygosis: unknown	199
+226505041	5UPKIR	0.873912	heterozygosis: unknown	200
+854200282	5UPKIR	0.874519	heterozygosis: unknown	201
+1282622601	5UPKIR	0.875426	heterozygosis: unknown	202
+491905071	5UPKIR	0.876702	heterozygosis: unknown	203
+611508041	5UPKIR	0.877634	heterozygosis: unknown	204
+1091616501	5UPKIR	0.877639	heterozygosis: unknown	205
+1249232701	5UPKIR	0.878032	heterozygosis: unknown	206
+528900061	5UPKIR	0.878676	heterozygosis: unknown	207
+829211061	5UPKIR	0.879069	heterozygosis: unknown	208
+1269611501	5UPKIR	0.879212	heterozygosis: yes (1-2)	209
+621523032	5UPKIR	0.881421	heterozygosis: unknown	210
+210800073	5UPKIR	0.881486	heterozygosis: unknown	211
+1250226501	5UPKIR	0.881836	heterozygosis: unknown	212
+565126021	5UPKIR	0.882215	heterozygosis: unknown	213
+1139102501	5UPKIR	0.882334	heterozygosis: unknown	214
+619507061	5UPKIR	0.884066	heterozygosis: yes (1-2)	215
+210800139	5UPKIR	0.884144	heterozygosis: unknown	216
+1262524101	5UPKIR	0.884793	heterozygosis: unknown	217
+1224835901	5UPKIR	0.884885	heterozygosis: unknown	218
+1037800501	5UPKIR	0.884977	heterozygosis: unknown	219
+210800037	5UPKIR	0.885562	heterozygosis: unknown	220
+1189134901	5UPKIR	0.885579	heterozygosis: unknown	221
+325710071	5UPKIR	0.886115	heterozygosis: unknown	222
+1073306701	5UPKIR	0.886347	heterozygosis: unknown	223
+210800058	5UPKIR	0.886680	heterozygosis: unknown	224
+865000557	5UPKIR	0.887507	heterozygosis: unknown	225
+1170503901	5UPKIR	0.887824	heterozygosis: unknown	226
+1274204501	5UPKIR	0.888297	heterozygosis: unknown	227
+464151061	5UPKIR	0.888334	heterozygosis: unknown	228
+409000527	5UPKIR	0.888482	heterozygosis: unknown	229
+3173319102	5UPKIR	0.888536	heterozygosis: unknown	230
+240601021	5UPKIR	0.888905	heterozygosis: unknown	231
+204327071	5UPKIR	0.889553	heterozygosis: unknown	232
+1258529501	5UPKIR	0.889897	heterozygosis: unknown	233
+210800091	5UPKIR	0.890691	heterozygosis: unknown	234
+1011616902	5UPKIR	0.891014	heterozygosis: unknown	235
+153206102	5UPKIR	0.891150	heterozygosis: unknown	236
+1211205401	5UPKIR	0.891465	heterozygosis: unknown	237
+397725012	5UPKIR	0.892205	heterozygosis: unknown	238
+624500287	5UPKIR	0.892237	heterozygosis: yes (1-2)	239
+210800062	5UPKIR	0.892962	heterozygosis: unknown	240
+1231532101	5UPKIR	0.893226	heterozygosis: yes (1-2)	241
+850206101	5UPKIR	0.893585	heterozygosis: unknown	242
+824810122	5UPKIR	0.893668	heterozygosis: unknown	243
+210800028	5UPKIR	0.894630	heterozygosis: yes (1-2)	244
+664934021	5UPKIR	0.894690	heterozygosis: unknown	245
+845112062	5UPKIR	0.894716	heterozygosis: unknown	246
+438800029	5UPKIR	0.894989	heterozygosis: yes (1-2)	247
+210800011	5UPKIR	0.895052	heterozygosis: unknown	248
+424320092	5UPKIR	0.895205	heterozygosis: yes (1-2)	249
+520701041	5UPKIR	0.895604	heterozygosis: unknown	250
+61929041	5UPKIR	0.895778	heterozygosis: unknown	251
+844112061	5UPKIR	0.895889	heterozygosis: unknown	252
+437202011	5UPKIR	0.896102	heterozygosis: unknown	253
+1319604602	5UPKIR	0.896906	heterozygosis: unknown	254
+210800122	5UPKIR	0.898261	heterozygosis: unknown	255
+1283622602	5UPKIR	0.898510	heterozygosis: yes (1-2)	256
+1202536101	5UPKIR	0.898817	heterozygosis: yes (1-2)	257
+1162610301	5UPKIR	0.898964	heterozygosis: unknown	258
+233435041	5UPKIR	0.899220	heterozygosis: unknown	259
+625528081	5UPKIR	0.900008	heterozygosis: unknown	260
+210800085	5UPKIR	0.900008	heterozygosis: unknown	261
+210800117	5UPKIR	0.900048	heterozygosis: unknown	262
+234435042	5UPKIR	0.901547	heterozygosis: unknown	263
+1003210301	5UPKIR	0.901875	heterozygosis: unknown	264
+394400011	5UPKIR	0.903474	heterozygosis: unknown	265
+1172507501	5UPKIR	0.903500	heterozygosis: unknown	266
+679226032	5UPKIR	0.903502	heterozygosis: unknown	267
+117731031	5UPKIR	0.903521	heterozygosis: unknown	268
+425100248	5UPKIR	0.904058	heterozygosis: unknown	269
+164919041	5UPKIR	0.904901	heterozygosis: unknown	270
+1304510501	5UPKIR	0.904908	heterozygosis: unknown	271
+274105051	5UPKIR	0.905298	heterozygosis: unknown	272
+622523092	5UPKIR	0.905558	heterozygosis: unknown	273
+562815032	5UPKIR	0.905812	heterozygosis: yes (1-2)	274
+1205554501	5UPKIR	0.905857	heterozygosis: unknown	275
+155224111	5UPKIR	0.905913	heterozygosis: unknown	276
+574003082	5UPKIR	0.906356	heterozygosis: unknown	277
+466000377	5UPKIR	0.906383	heterozygosis: unknown	278
+855227091	5UPKIR	0.906671	heterozygosis: unknown	279
+210800120	5UPKIR	0.906765	heterozygosis: unknown	280
+136923081	5UPKIR	0.907008	heterozygosis: unknown	281
+210800100	5UPKIR	0.907206	heterozygosis: unknown	282
+1281608201	5UPKIR	0.907391	heterozygosis: unknown	283
+848331071	5UPKIR	0.908011	heterozygosis: unknown	284
+612206051	5UPKIR	0.908182	heterozygosis: unknown	285
+52103052	5UPKIR	0.908729	heterozygosis: unknown	286
+633312061	5UPKIR	0.909413	heterozygosis: unknown	287
+34930051	5UPKIR	0.909879	heterozygosis: unknown	288
+331201042	5UPKIR	0.910027	heterozygosis: unknown	289
+1128125001	5UPKIR	0.910559	heterozygosis: unknown	290
+166919061	5UPKIR	0.910602	heterozygosis: unknown	291
+815407031	5UPKIR	0.911181	heterozygosis: unknown	292
+1215630501	5UPKIR	0.911591	heterozygosis: unknown	293
+1342817101	5UPKIR	0.911660	heterozygosis: unknown	294
+1160534602	5UPKIR	0.911879	heterozygosis: unknown	295
+591920071	5UPKIR	0.912119	heterozygosis: unknown	296
+576000031	5UPKIR	0.913087	heterozygosis: unknown	297
+228901052	5UPKIR	0.913213	heterozygosis: unknown	298
+1212203001	5UPKIR	0.914338	heterozygosis: unknown	299
+518624081	5UPKIR	0.914452	heterozygosis: unknown	300
+236414032	5UPKIR	0.914834	heterozygosis: unknown	301
+201320081	5UPKIR	0.915109	heterozygosis: unknown	302
+63929012	5UPKIR	0.915171	heterozygosis: unknown	303
+160230011	5UPKIR	0.916959	heterozygosis: unknown	304
+445303031	5UPKIR	0.917144	heterozygosis: unknown	305
+1020330101	5UPKIR	0.917564	heterozygosis: unknown	306
+503914062	5UPKIR	0.917603	heterozygosis: unknown	307
+210800074	5UPKIR	0.918193	heterozygosis: unknown	308
+1084649101	5UPKIR	0.919305	heterozygosis: unknown	309
+465300832	5UPKIR	0.919881	heterozygosis: unknown	310
+1286518101	5UPKIR	0.920347	heterozygosis: unknown	311
+399725052	5UPKIR	0.920741	heterozygosis: unknown	312
+832901032	5UPKIR	0.921557	heterozygosis: unknown	313
+210800063	5UPKIR	0.921813	heterozygosis: yes (1-2)	314
+302100071	5UPKIR	0.922089	heterozygosis: unknown	315
+131909101	5UPKIR	0.922115	heterozygosis: unknown	316
+64404101	5UPKIR	0.922161	heterozygosis: unknown	317
+1053009701	5UPKIR	0.922352	heterozygosis: unknown	318
+1238224501	5UPKIR	0.922572	heterozygosis: unknown	319
+68922043	5UPKIR	0.922747	heterozygosis: unknown	320
+508308101	5UPKIR	0.923460	heterozygosis: unknown	321
+299100051	5UPKIR	0.923562	heterozygosis: unknown	322
+262805052	5UPKIR	0.924075	heterozygosis: unknown	323
+168921021	5UPKIR	0.924214	heterozygosis: unknown	324
+1116208702	5UPKIR	0.924217	heterozygosis: unknown	325
+1206552501	5UPKIR	0.924532	heterozygosis: unknown	326
+210800021	5UPKIR	0.924633	heterozygosis: yes (1-2)	327
+571000358	5UPKIR	0.924958	heterozygosis: unknown	328
+1218625501	5UPKIR	0.925099	heterozygosis: unknown	329
+268101011	5UPKIR	0.925595	heterozygosis: unknown	330
+1145306902	5UPKIR	0.925742	heterozygosis: unknown	331
+109303083	5UPKIR	0.925958	heterozygosis: unknown	332
+417218092	5UPKIR	0.926794	heterozygosis: unknown	333
+122309061	5UPKIR	0.927571	heterozygosis: unknown	334
+1009228901	5UPKIR	0.927812	heterozygosis: unknown	335
+1002209901	5UPKIR	0.928053	heterozygosis: unknown	336
+1074415201	5UPKIR	0.928908	heterozygosis: yes (1-2)	337
+381016011	5UPKIR	0.929315	heterozygosis: unknown	338
+210800119	5UPKIR	0.929762	heterozygosis: unknown	339
+1055016301	5UPKIR	0.930103	heterozygosis: yes (1-2)	340
+434800024	5UPKIR	0.931061	heterozygosis: unknown	341
+377900041	5UPKIR	0.931520	heterozygosis: unknown	342
+1164621101	5UPKIR	0.931678	heterozygosis: unknown	343
+584016071	5UPKIR	0.931831	heterozygosis: unknown	344
+1267601501	5UPKIR	0.931875	heterozygosis: unknown	345
+210800126	5UPKIR	0.931924	heterozygosis: yes (1-2)	346
+1266700901	5UPKIR	0.932488	heterozygosis: unknown	347
+1191526001	5UPKIR	0.932697	heterozygosis: unknown	348
+1036806701	5UPKIR	0.932894	heterozygosis: unknown	349
+210800140	5UPKIR	0.933543	heterozygosis: unknown	350
+608506011	5UPKIR	0.933879	heterozygosis: unknown	351
+827607111	5UPKIR	0.934381	heterozygosis: unknown	352
+597200217	5UPKIR	0.934432	heterozygosis: unknown	353
+150228101	5UPKIR	0.934540	heterozygosis: unknown	354
+278900185	5UPKIR	0.934795	heterozygosis: unknown	355
+530900091	5UPKIR	0.934852	heterozygosis: unknown	356
+856103091	5UPKIR	0.935502	heterozygosis: unknown	357
+8227031	5UPKIR	0.935570	heterozygosis: unknown	358
+253900058	5UPKIR	0.935675	heterozygosis: unknown	359
+1041302101	5UPKIR	0.936432	heterozygosis: unknown	360
+1209209301	5UPKIR	0.936774	heterozygosis: unknown	361
+100102082	5UPKIR	0.937036	heterozygosis: unknown	362
+1339531301	5UPKIR	0.937072	heterozygosis: unknown	363
+245309062	5UPKIR	0.937103	heterozygosis: unknown	364
+538224061	5UPKIR	0.937158	heterozygosis: unknown	365
+1087643301	5UPKIR	0.937270	heterozygosis: unknown	366
+83425022	5UPKIR	0.937427	heterozygosis: unknown	367
+18912051	5UPKIR	0.938132	heterozygosis: unknown	368
+193200178	5UPKIR	0.938552	heterozygosis: unknown	369
+300100061	5UPKIR	0.938961	heterozygosis: unknown	370
+653000468	5UPKIR	0.939451	heterozygosis: unknown	371
+1178609102	5UPKIR	0.939523	heterozygosis: unknown	372
+552809062	5UPKIR	0.939683	heterozygosis: yes (1-2)	373
+251226081	5UPKIR	0.939799	heterozygosis: unknown	374
+1119561901	5UPKIR	0.939935	heterozygosis: unknown	375
+248200128	5UPKIR	0.940078	heterozygosis: unknown	376
+210800142	5UPKIR	0.940915	heterozygosis: unknown	377
+501910081	5UPKIR	0.941260	heterozygosis: unknown	378
+888000458	5UPKIR	0.942046	heterozygosis: unknown	379
+1261523701	5UPKIR	0.942169	heterozygosis: unknown	380
+210800138	5UPKIR	0.942170	heterozygosis: unknown	381
+210800088	5UPKIR	0.942231	heterozygosis: unknown	382
+543236031	5UPKIR	0.942352	heterozygosis: yes (1-2)	383
+683407031	5UPKIR	0.942876	heterozygosis: unknown	384
+194211031	5UPKIR	0.943596	heterozygosis: unknown	385
+210800053	5UPKIR	0.943623	heterozygosis: yes (1-2)	386
+529900111	5UPKIR	0.944521	heterozygosis: unknown	387
+842112081	5UPKIR	0.945610	heterozygosis: yes (1-2)	388
+186905062	5UPKIR	0.945611	heterozygosis: unknown	389
+447303052	5UPKIR	0.946220	heterozygosis: unknown	390
+210800118	5UPKIR	0.946449	heterozygosis: unknown	391
+682409091	5UPKIR	0.946472	heterozygosis: unknown	392
+359106051	5UPKIR	0.947438	heterozygosis: unknown	393
+353105031	5UPKIR	0.947522	heterozygosis: unknown	394
+1167510101	5UPKIR	0.948191	heterozygosis: unknown	395
+1329603702	5UPKIR	0.948444	heterozygosis: unknown	396
+210800128	5UPKIR	0.949012	heterozygosis: unknown	397
+839007051	5UPKIR	0.949527	heterozygosis: unknown	398
+342309061	5UPKIR	0.949647	heterozygosis: unknown	399
+649927031	5UPKIR	0.949804	heterozygosis: unknown	400
+272106071	5UPKIR	0.950428	heterozygosis: unknown	401
+308300051	5UPKIR	0.950471	heterozygosis: unknown	402
+1335501701	5UPKIR	0.950565	heterozygosis: unknown	403
+806105102	5UPKIR	0.951212	heterozygosis: unknown	404
+420213011	5UPKIR	0.951955	heterozygosis: unknown	405
+284626051	5UPKIR	0.952503	heterozygosis: unknown	406
+674703041	5UPKIR	0.952532	heterozygosis: unknown	407
+513111021	5UPKIR	0.953128	heterozygosis: unknown	408
+1265619701	5UPKIR	0.953647	heterozygosis: unknown	409
+310300011	5UPKIR	0.953866	heterozygosis: unknown	410
+264812071	5UPKIR	0.953888	heterozygosis: unknown	411
+644417012	5UPKIR	0.954160	heterozygosis: unknown	412
+688929011	5UPKIR	0.954251	heterozygosis: unknown	413
+1135327301	5UPKIR	0.954872	heterozygosis: unknown	414
+17912032	5UPKIR	0.955137	heterozygosis: unknown	415
+210800044	5UPKIR	0.955456	heterozygosis: unknown	416
+490903011	5UPKIR	0.956032	heterozygosis: unknown	417
+22309072	5UPKIR	0.956137	heterozygosis: unknown	418
+62929011	5UPKIR	0.956287	heterozygosis: unknown	419
+1032827101	5UPKIR	0.956439	heterozygosis: unknown	420
+1222818901	5UPKIR	0.956683	heterozygosis: unknown	421
+568112011	5UPKIR	0.956730	heterozygosis: yes (1-2)	422
+217211042	5UPKIR	0.956955	heterozygosis: unknown	423
+405811051	5UPKIR	0.957267	heterozygosis: unknown	424
+128909102	5UPKIR	0.957330	heterozygosis: unknown	425
+665921081	5UPKIR	0.958229	heterozygosis: unknown	426
+1243300102	5UPKIR	0.958517	heterozygosis: unknown	427
+1196421401	5UPKIR	0.958637	heterozygosis: yes (1-2)	428
+891400031	5UPKIR	0.959086	heterozygosis: unknown	429
+142707081	5UPKIR	0.959646	heterozygosis: unknown	430
+82425021	5UPKIR	0.960211	heterozygosis: unknown	431
+41130012	5UPKIR	0.960587	heterozygosis: yes (1-2)	432
+436200080	5UPKIR	0.960998	heterozygosis: unknown	433
+277101021	5UPKIR	0.961474	heterozygosis: unknown	434
+210800054	5UPKIR	0.961532	heterozygosis: unknown	435
+47518082	5UPKIR	0.962020	heterozygosis: yes (1-2)	436
+24312081	5UPKIR	0.962261	heterozygosis: unknown	437
+50103042	5UPKIR	0.962793	heterozygosis: unknown	438
+422211031	5UPKIR	0.962900	heterozygosis: unknown	439
+1284314601	5UPKIR	0.962987	heterozygosis: yes (1-2)	440
+685903011	5UPKIR	0.963387	heterozygosis: unknown	441
+1279606101	5UPKIR	0.963495	heterozygosis: unknown	442
+870400071	5UPKIR	0.963603	heterozygosis: unknown	443
+585016092	5UPKIR	0.963632	heterozygosis: unknown	444
+534200027	5UPKIR	0.964079	heterozygosis: unknown	445
+184817091	5UPKIR	0.964494	heterozygosis: unknown	446
+851230081	5UPKIR	0.964873	heterozygosis: unknown	447
+290907011	5UPKIR	0.965306	heterozygosis: unknown	448
+123313091	5UPKIR	0.965457	heterozygosis: unknown	449
+1028328901	5UPKIR	0.966206	heterozygosis: unknown	450
+69929081	5UPKIR	0.966856	heterozygosis: yes (1-2)	451
+1213208101	5UPKIR	0.967016	heterozygosis: unknown	452
+36041011	5UPKIR	0.967250	heterozygosis: yes (1-2)	453
+214709101	5UPKIR	0.967571	heterozygosis: unknown	454
+13813041	5UPKIR	0.968174	heterozygosis: unknown	455
+105301031	5UPKIR	0.968953	heterozygosis: unknown	456
+517622031	5UPKIR	0.969531	heterozygosis: unknown	457
+1064331901	5UPKIR	0.969554	heterozygosis: unknown	458
+489404031	5UPKIR	0.969972	heterozygosis: unknown	459
+380013012	5UPKIR	0.970228	heterozygosis: unknown	460
+580000088	5UPKIR	0.970256	heterozygosis: unknown	461
+623523111	5UPKIR	0.970380	heterozygosis: unknown	462
+1316014101	5UPKIR	0.970516	heterozygosis: unknown	463
+101106071	5UPKIR	0.971379	heterozygosis: unknown	464
+239601011	5UPKIR	0.971759	heterozygosis: yes (1-2)	465
+523704101	5UPKIR	0.971794	heterozygosis: unknown	466
+250214101	5UPKIR	0.971971	heterozygosis: unknown	467
+1311000301	5UPKIR	0.972501	heterozygosis: unknown	468
+213720091	5UPKIR	0.972542	heterozygosis: unknown	469
+221409101	5UPKIR	0.972930	heterozygosis: unknown	470
+285626052	5UPKIR	0.973729	heterozygosis: unknown	471
+524900021	5UPKIR	0.973869	heterozygosis: yes (1-2)	472
+297100011	5UPKIR	0.974316	heterozygosis: unknown	473
+147213061	5UPKIR	0.974381	heterozygosis: unknown	474
+1341317021	5UPKIR	0.975018	heterozygosis: unknown	475
+561815021	5UPKIR	0.976563	heterozygosis: unknown	476
+1107311001	5UPKIR	0.976748	heterozygosis: unknown	477
+541230102	5UPKIR	0.976875	heterozygosis: unknown	478
+1307701101	5UPKIR	0.977094	heterozygosis: unknown	479
+1063331501	5UPKIR	0.977223	heterozygosis: unknown	480
+1113557401	5UPKIR	0.977422	heterozygosis: unknown	481
+1013617501	5UPKIR	0.978076	heterozygosis: unknown	482
+1062301301	5UPKIR	0.978158	heterozygosis: unknown	483
+210800065	5UPKIR	0.978355	heterozygosis: unknown	484
+210800087	5UPKIR	0.979156	heterozygosis: unknown	485
+210800112	5UPKIR	0.979485	heterozygosis: unknown	486
+210800081	5UPKIR	0.979915	heterozygosis: yes (1-2)	487
+348814061	5UPKIR	0.980885	heterozygosis: yes (1-2)	488
+354102051	5UPKIR	0.981092	heterozygosis: yes (1-2)	489
+1214602101	5UPKIR	0.981831	heterozygosis: unknown	490
+210800123	5UPKIR	0.981881	heterozygosis: unknown	491
+183810061	5UPKIR	0.981916	heterozygosis: unknown	492
+805105101	5UPKIR	0.982032	heterozygosis: unknown	493
+167919062	5UPKIR	0.982075	heterozygosis: unknown	494
+1154200401	5UPKIR	0.982459	heterozygosis: unknown	495
+498929061	5UPKIR	0.983327	heterozygosis: unknown	496
+588314051	5UPKIR	0.983701	heterozygosis: unknown	497
+1324616101	5UPKIR	0.983703	heterozygosis: unknown	498
+220211091	5UPKIR	0.983746	heterozygosis: unknown	499
+1118225101	5UPKIR	0.983890	heterozygosis: unknown	500
+696206071	5UPKIR	0.984457	heterozygosis: unknown	501
+1004211301	5UPKIR	0.984588	heterozygosis: unknown	502
+158718101	5UPKIR	0.984919	heterozygosis: unknown	503
+1131137001	5UPKIR	0.985075	heterozygosis: unknown	504
+210800041	5UPKIR	0.985211	heterozygosis: unknown	505
+681000475	5UPKIR	0.985795	heterozygosis: unknown	506
+210800031	5UPKIR	0.985853	heterozygosis: unknown	507
+1086675791	5UPKIR	0.986874	heterozygosis: unknown	508
+210800092	5UPKIR	0.987094	heterozygosis: unknown	509
+238218081	5UPKIR	0.987106	heterozygosis: unknown	510
+1108317201	5UPKIR	0.987155	heterozygosis: unknown	511
+1272231301	5UPKIR	0.987438	heterozygosis: unknown	512
+536212062	5UPKIR	0.987548	heterozygosis: unknown	513
+258801022	5UPKIR	0.987806	heterozygosis: unknown	514
+673715061	5UPKIR	0.987963	heterozygosis: unknown	515
+1185611601	5UPKIR	0.988155	heterozygosis: unknown	516
+1141109101	5UPKIR	0.988356	heterozygosis: unknown	517
+12813033	5UPKIR	0.989271	heterozygosis: unknown	518
+860809022	5UPKIR	0.989602	heterozygosis: unknown	519
+819800030	5UPKIR	0.989715	heterozygosis: yes (1-2)	520
+210800064	5UPKIR	0.989875	heterozygosis: unknown	521
+575300031	5UPKIR	0.990045	heterozygosis: unknown	522
+509607121	5UPKIR	0.990057	heterozygosis: unknown	523
+326712081	5UPKIR	0.990174	heterozygosis: yes (1-2)	524
+15843041	5UPKIR	0.990491	heterozygosis: unknown	525
+80418051	5UPKIR	0.990590	heterozygosis: unknown	526
+594913051	5UPKIR	0.992162	heterozygosis: unknown	527
+1130125901	5UPKIR	0.992175	heterozygosis: unknown	528
+125318061	5UPKIR	0.992681	heterozygosis: yes (1-2)	529
+881813041	5UPKIR	0.992692	heterozygosis: unknown	530
+861812011	5UPKIR	0.993048	heterozygosis: unknown	531
+1077418301	5UPKIR	0.993558	heterozygosis: unknown	532
+1165600901	5UPKIR	0.993954	heterozygosis: unknown	533
+467000378	5UPKIR	0.994119	heterozygosis: unknown	534
+1156206501	5UPKIR	0.994635	heterozygosis: unknown	535
+207701083	5UPKIR	0.994959	heterozygosis: unknown	536
+322703021	5UPKIR	0.995152	heterozygosis: unknown	537
+660407051	5UPKIR	0.995239	heterozygosis: unknown	538
+1105309301	5UPKIR	0.995623	heterozygosis: yes (1-2)	539
+1081411201	5UPKIR	0.995664	heterozygosis: unknown	540
+311300012	5UPKIR	0.996563	heterozygosis: unknown	541
+1175511701	5UPKIR	0.997497	heterozygosis: unknown	542
+383007071	5UPKIR	0.998592	heterozygosis: yes (1-2)	543
+26312102	5UPKIR	0.999112	heterozygosis: unknown	544
+476703051	5UPKIR	0.999164	heterozygosis: unknown	545
+1031824301	5UPKIR	0.999266	heterozygosis: unknown	546
+1252327301	5UPKIR	0.999559	heterozygosis: unknown	547
+506417051	5UPKIR	1.000774	heterozygosis: unknown	548
+141707011	5UPKIR	1.001008	heterozygosis: unknown	549
+195211032	5UPKIR	1.001008	heterozygosis: yes (1-2)	550
+804131031	5UPKIR	1.001097	heterozygosis: unknown	551
+1080414201	5UPKIR	1.001611	heterozygosis: unknown	552
+210800046	5UPKIR	1.002067	heterozygosis: unknown	553
+362105011	5UPKIR	1.002275	heterozygosis: yes (1-2)	554
+468402011	5UPKIR	1.002426	heterozygosis: unknown	555
+1137118901	5UPKIR	1.002509	heterozygosis: unknown	556
+1253306101	5UPKIR	1.002606	heterozygosis: yes (1-2)	557
+415601031	5UPKIR	1.002900	heterozygosis: unknown	558
+174003031	5UPKIR	1.002921	heterozygosis: unknown	559
+1228816501	5UPKIR	1.004225	heterozygosis: unknown	560
+127923021	5UPKIR	1.004519	heterozygosis: yes (1-2)	561
+871400011	5UPKIR	1.005006	heterozygosis: yes (1-2)	562
+1029307901	5UPKIR	1.005649	heterozygosis: unknown	563
+267102051	5UPKIR	1.005690	heterozygosis: unknown	564
+175020072	5UPKIR	1.005714	heterozygosis: unknown	565
+1328603701	5UPKIR	1.005841	heterozygosis: unknown	566
+370100041	5UPKIR	1.006217	heterozygosis: unknown	567
+435800114	5UPKIR	1.006600	heterozygosis: unknown	568
+66417082	5UPKIR	1.007026	heterozygosis: unknown	569
+482732051	5UPKIR	1.007257	heterozygosis: unknown	570
+210800047	5UPKIR	1.007999	heterozygosis: unknown	571
+602211091	5UPKIR	1.008083	heterozygosis: unknown	572
+631000405	5UPKIR	1.008352	heterozygosis: unknown	573
+801213101	5UPKIR	1.008910	heterozygosis: unknown	574
+113306062	5UPKIR	1.010055	heterozygosis: unknown	575
+352105011	5UPKIR	1.010555	heterozygosis: unknown	576
+130900253	5UPKIR	1.011834	heterozygosis: unknown	577
+1075415202	5UPKIR	1.012421	heterozygosis: unknown	578
+190731091	5UPKIR	1.012949	heterozygosis: unknown	579
+646405061	5UPKIR	1.013149	heterozygosis: unknown	580
+641427041	5UPKIR	1.013818	heterozygosis: unknown	581
+1247403701	5UPKIR	1.014477	heterozygosis: unknown	582
+421218041	5UPKIR	1.014626	heterozygosis: unknown	583
+841108042	5UPKIR	1.014676	heterozygosis: unknown	584
+698300155	5UPKIR	1.015147	heterozygosis: unknown	585
+231904021	5UPKIR	1.015446	heterozygosis: unknown	586
+210800072	5UPKIR	1.015677	heterozygosis: unknown	587
+1153202102	5UPKIR	1.016170	heterozygosis: unknown	588
+210800077	5UPKIR	1.016264	heterozygosis: yes (1-2)	589
+1159519001	5UPKIR	1.016612	heterozygosis: unknown	590
+604214091	5UPKIR	1.016682	heterozygosis: unknown	591
+1142112701	5UPKIR	1.017033	heterozygosis: unknown	592
+219208092	5UPKIR	1.017420	heterozygosis: unknown	593
+210800079	5UPKIR	1.017534	heterozygosis: unknown	594
+395200244	5UPKIR	1.017728	heterozygosis: unknown	595
+259801031	5UPKIR	1.017732	heterozygosis: unknown	596
+379007151	5UPKIR	1.017990	heterozygosis: unknown	597
+254911101	5UPKIR	1.018512	heterozygosis: unknown	598
+1054020501	5UPKIR	1.018851	heterozygosis: unknown	599
+590000426	5UPKIR	1.018939	heterozygosis: unknown	600
+1123524701	5UPKIR	1.020318	heterozygosis: unknown	601
+1340826701	5UPKIR	1.020833	heterozygosis: unknown	602
+670208081	5UPKIR	1.020914	heterozygosis: unknown	603
+296309042	5UPKIR	1.021091	heterozygosis: unknown	604
+257801021	5UPKIR	1.021452	heterozygosis: unknown	605
+1197502501	5UPKIR	1.022016	heterozygosis: unknown	606
+601211052	5UPKIR	1.022187	heterozygosis: yes (1-2)	607
+388409011	5UPKIR	1.022839	heterozygosis: unknown	608
+1098222101	5UPKIR	1.023100	heterozygosis: unknown	609
+275108081	5UPKIR	1.023120	heterozygosis: unknown	610
+118410051	5UPKIR	1.023944	heterozygosis: unknown	611
+210800022	5UPKIR	1.023990	heterozygosis: unknown	612
+595913111	5UPKIR	1.024170	heterozygosis: unknown	613
+247327031	5UPKIR	1.025094	heterozygosis: unknown	614
+1297013901	5UPKIR	1.025138	heterozygosis: unknown	615
+210800040	5UPKIR	1.025203	heterozygosis: yes (1-2)	616
+554824101	5UPKIR	1.025831	heterozygosis: unknown	617
+1079410601	5UPKIR	1.026372	heterozygosis: yes (1-2)	618
+661407041	5UPKIR	1.026454	heterozygosis: unknown	619
+1263534501	5UPKIR	1.026566	heterozygosis: yes (1-2)	620
+273106111	5UPKIR	1.026770	heterozygosis: unknown	621
+110306031	5UPKIR	1.026886	heterozygosis: unknown	622
+1001207701	5UPKIR	1.027381	heterozygosis: unknown	623
+169640071	5UPKIR	1.027858	heterozygosis: unknown	624
+1176601101	5UPKIR	1.027950	heterozygosis: yes (1-2)	625
+373100091	5UPKIR	1.028474	heterozygosis: unknown	626
+1043306901	5UPKIR	1.028548	heterozygosis: unknown	627
+210800078	5UPKIR	1.028551	heterozygosis: unknown	628
+512510011	5UPKIR	1.028564	heterozygosis: unknown	629
+363116101	5UPKIR	1.028897	heterozygosis: unknown	630
+557844101	5UPKIR	1.029941	heterozygosis: unknown	631
+1184611101	5UPKIR	1.030500	heterozygosis: unknown	632
+471201042	5UPKIR	1.030604	heterozygosis: unknown	633
+115700198	5UPKIR	1.031566	heterozygosis: unknown	634
+1094410202	5UPKIR	1.031764	heterozygosis: unknown	635
+1038800301	5UPKIR	1.031884	heterozygosis: unknown	636
+525900031	5UPKIR	1.031986	heterozygosis: unknown	637
+57914021	5UPKIR	1.032306	heterozygosis: unknown	638
+810200141	5UPKIR	1.032939	heterozygosis: unknown	639
+139111041	5UPKIR	1.032984	heterozygosis: unknown	640
+800207091	5UPKIR	1.033484	heterozygosis: unknown	641
+269102031	5UPKIR	1.033616	heterozygosis: unknown	642
+172901102	5UPKIR	1.033744	heterozygosis: unknown	643
+291903092	5UPKIR	1.033930	heterozygosis: unknown	644
+411611051	5UPKIR	1.034210	heterozygosis: unknown	645
+1255325901	5UPKIR	1.034496	heterozygosis: yes (1-2)	646
+210800030	5UPKIR	1.034994	heterozygosis: unknown	647
+607502081	5UPKIR	1.035184	heterozygosis: unknown	648
+210800023	5UPKIR	1.036335	heterozygosis: unknown	649
+630000403	5UPKIR	1.036396	heterozygosis: unknown	650
+295309041	5UPKIR	1.036742	heterozygosis: unknown	651
+179800101	5UPKIR	1.036803	heterozygosis: unknown	652
+210800056	5UPKIR	1.037300	heterozygosis: unknown	653
+210800013	5UPKIR	1.037512	heterozygosis: unknown	654
+632000410	5UPKIR	1.037891	heterozygosis: unknown	655
+390400091	5UPKIR	1.038383	heterozygosis: unknown	656
+637323091	5UPKIR	1.039257	heterozygosis: yes (1-2)	657
+270103041	5UPKIR	1.039727	heterozygosis: unknown	658
+1302824301	5UPKIR	1.039796	heterozygosis: unknown	659
+152206101	5UPKIR	1.040402	heterozygosis: unknown	660
+282916071	5UPKIR	1.040567	heterozygosis: unknown	661
+210800137	5UPKIR	1.040574	heterozygosis: unknown	662
+39111041	5UPKIR	1.040622	heterozygosis: unknown	663
+148213091	5UPKIR	1.041103	heterozygosis: unknown	664
+210800071	5UPKIR	1.042181	heterozygosis: unknown	665
+1015611101	5UPKIR	1.042304	heterozygosis: unknown	666
+833922051	5UPKIR	1.042342	heterozygosis: unknown	667
+407000434	5UPKIR	1.042352	heterozygosis: unknown	668
+836930072	5UPKIR	1.042589	heterozygosis: unknown	669
+563000569	5UPKIR	1.042743	heterozygosis: unknown	670
+410817061	5UPKIR	1.043011	heterozygosis: unknown	671
+1125533701	5UPKIR	1.043341	heterozygosis: unknown	672
+1294003701	5UPKIR	1.043425	heterozygosis: unknown	673
+351944071	5UPKIR	1.043541	heterozygosis: unknown	674
+1278601602	5UPKIR	1.043606	heterozygosis: unknown	675
+1195412401	5UPKIR	1.044757	heterozygosis: unknown	676
+1078415001	5UPKIR	1.045149	heterozygosis: unknown	677
+812023062	5UPKIR	1.045261	heterozygosis: unknown	678
+317300161	5UPKIR	1.046265	heterozygosis: unknown	679
+210800060	5UPKIR	1.046516	heterozygosis: unknown	680
+545000422	5UPKIR	1.046843	heterozygosis: unknown	681
+694209052	5UPKIR	1.047581	heterozygosis: unknown	682
+210800075	5UPKIR	1.047708	heterozygosis: unknown	683
+1235616502	5UPKIR	1.049252	heterozygosis: unknown	684
+1133814801	5UPKIR	1.049453	heterozygosis: unknown	685
+858000540	5UPKIR	1.050096	heterozygosis: unknown	686
+1254306102	5UPKIR	1.050447	heterozygosis: unknown	687
+1051007301	5UPKIR	1.050595	heterozygosis: unknown	688
+181806072	5UPKIR	1.050903	heterozygosis: unknown	689
+1177609101	5UPKIR	1.051178	heterozygosis: unknown	690
+19309051	5UPKIR	1.051930	heterozygosis: unknown	691
+808311032	5UPKIR	1.052753	heterozygosis: unknown	692
+1303610901	5UPKIR	1.054350	heterozygosis: unknown	693
+462911072	5UPKIR	1.054547	heterozygosis: yes (1-2)	694
+1089637701	5UPKIR	1.054706	heterozygosis: unknown	695
+636902031	5UPKIR	1.054776	heterozygosis: unknown	696
+210800034	5UPKIR	1.054983	heterozygosis: unknown	697
+1315510301	5UPKIR	1.055068	heterozygosis: unknown	698
+398725051	5UPKIR	1.055822	heterozygosis: unknown	699
+1237235701	5UPKIR	1.056358	heterozygosis: unknown	700
+44140022	5UPKIR	1.058096	heterozygosis: unknown	701
+616501091	5UPKIR	1.058098	heterozygosis: unknown	702
+157610031	5UPKIR	1.058976	heterozygosis: unknown	703
+463137092	5UPKIR	1.059058	heterozygosis: yes (1-2)	704
+582011101	5UPKIR	1.059507	heterozygosis: unknown	705
+628000409	5UPKIR	1.060094	heterozygosis: unknown	706
+896105021	5UPKIR	1.060775	heterozygosis: unknown	707
+556827101	5UPKIR	1.061378	heterozygosis: unknown	708
+303100081	5UPKIR	1.061396	heterozygosis: yes (1-2)	709
+510512061	5UPKIR	1.062446	heterozygosis: unknown	710
+654000467	5UPKIR	1.062462	heterozygosis: unknown	711
+225204032	5UPKIR	1.062673	heterozygosis: unknown	712
+1220801701	5UPKIR	1.063033	heterozygosis: unknown	713
+161230101	5UPKIR	1.063092	heterozygosis: unknown	714
+897109041	5UPKIR	1.063127	heterozygosis: unknown	715
+1301619901	5UPKIR	1.063168	heterozygosis: unknown	716
+1280605801	5UPKIR	1.064386	heterozygosis: unknown	717
+1326613901	5UPKIR	1.064390	heterozygosis: unknown	718
+893226021	5UPKIR	1.064621	heterozygosis: unknown	719
+477714051	5UPKIR	1.065612	heterozygosis: unknown	720
+210800093	5UPKIR	1.065665	heterozygosis: unknown	721
+403611041	5UPKIR	1.067133	heterozygosis: unknown	722
+1246402801	5UPKIR	1.067479	heterozygosis: unknown	723
+1232510901	5UPKIR	1.068192	heterozygosis: unknown	724
+210800035	5UPKIR	1.068480	heterozygosis: unknown	725
+87428053	5UPKIR	1.069110	heterozygosis: unknown	726
+165919051	5UPKIR	1.069409	heterozygosis: unknown	727
+210800045	5UPKIR	1.069560	heterozygosis: unknown	728
+210800136	5UPKIR	1.069561	heterozygosis: unknown	729
+1306837101	5UPKIR	1.069707	heterozygosis: unknown	730
+1168514701	5UPKIR	1.070399	heterozygosis: unknown	731
+433800072	5UPKIR	1.070743	heterozygosis: yes (1-2)	732
+210800101	5UPKIR	1.070782	heterozygosis: unknown	733
+210800084	5UPKIR	1.071054	heterozygosis: unknown	734
+266102011	5UPKIR	1.071849	heterozygosis: unknown	735
+367814101	5UPKIR	1.072005	heterozygosis: unknown	736
+859630011	5UPKIR	1.072637	heterozygosis: unknown	737
+103116022	5UPKIR	1.072734	heterozygosis: unknown	738
+210800024	5UPKIR	1.072813	heterozygosis: unknown	739
+332205021	5UPKIR	1.073075	heterozygosis: unknown	740
+876806031	5UPKIR	1.073575	heterozygosis: unknown	741
+1022306301	5UPKIR	1.073796	heterozygosis: unknown	742
+1110318701	5UPKIR	1.073808	heterozygosis: unknown	743
+883701052	5UPKIR	1.073847	heterozygosis: unknown	744
+327601041	5UPKIR	1.074110	heterozygosis: unknown	745
+814903031	5UPKIR	1.074529	heterozygosis: yes (1-2)	746
+1312401501	5UPKIR	1.074802	heterozygosis: unknown	747
+822823072	5UPKIR	1.074826	heterozygosis: unknown	748
+577000032	5UPKIR	1.075187	heterozygosis: unknown	749
+863900061	5UPKIR	1.075314	heterozygosis: unknown	750
+392400061	5UPKIR	1.075728	heterozygosis: unknown	751
+256801011	5UPKIR	1.076056	heterozygosis: yes (1-2)	752
+60933051	5UPKIR	1.076364	heterozygosis: unknown	753
+202320082	5UPKIR	1.077362	heterozygosis: yes (1-2)	754
+431106051	5UPKIR	1.077802	heterozygosis: unknown	755
+210800019	5UPKIR	1.077848	heterozygosis: unknown	756
+263805061	5UPKIR	1.078943	heterozygosis: unknown	757
+451303101	5UPKIR	1.079038	heterozygosis: unknown	758
+1313411701	5UPKIR	1.079116	heterozygosis: unknown	759
+671208082	5UPKIR	1.079406	heterozygosis: yes (1-2)	760
+449720041	5UPKIR	1.079893	heterozygosis: unknown	761
+1129125002	5UPKIR	1.080288	heterozygosis: unknown	762
+634300224	5UPKIR	1.080686	heterozygosis: unknown	763
+1201535702	5UPKIR	1.080708	heterozygosis: unknown	764
+312300171	5UPKIR	1.081465	heterozygosis: unknown	765
+559809021	5UPKIR	1.081587	heterozygosis: unknown	766
+349819101	5UPKIR	1.081833	heterozygosis: unknown	767
+210800020	5UPKIR	1.082125	heterozygosis: unknown	768
+230727081	5UPKIR	1.082169	heterozygosis: unknown	769
+145709101	5UPKIR	1.082181	heterozygosis: yes (1-2)	770
+222409102	5UPKIR	1.082261	heterozygosis: unknown	771
+88220081	5UPKIR	1.082883	heterozygosis: unknown	772
+1065307801	5UPKIR	1.082914	heterozygosis: unknown	773
+1270318701	5UPKIR	1.083117	heterozygosis: unknown	774
+1103307601	5UPKIR	1.084216	heterozygosis: unknown	775
+210800055	5UPKIR	1.085258	heterozygosis: unknown	776
+329202012	5UPKIR	1.085929	heterozygosis: unknown	777
+1045318901	5UPKIR	1.086112	heterozygosis: yes (1-2)	778
+210800010	5UPKIR	1.086563	heterozygosis: unknown	779
+662000476	5UPKIR	1.087335	heterozygosis: unknown	780
+1343317022	5UPKIR	1.088016	heterozygosis: unknown	781
+1136309301	5UPKIR	1.088110	heterozygosis: unknown	782
+114306102	5UPKIR	1.088513	heterozygosis: yes (1-2)	783
+252900011	5UPKIR	1.089354	heterozygosis: unknown	784
+218208091	5UPKIR	1.089425	heterozygosis: unknown	785
+1163613101	5UPKIR	1.089565	heterozygosis: unknown	786
+229727101	5UPKIR	1.089579	heterozygosis: unknown	787
+210800094	5UPKIR	1.089666	heterozygosis: yes (1-2)	788
+328202011	5UPKIR	1.090428	heterozygosis: unknown	789
+1088603301	5UPKIR	1.090934	heterozygosis: unknown	790
+324708111	5UPKIR	1.091054	heterozygosis: unknown	791
+1174511301	5UPKIR	1.091366	heterozygosis: unknown	792
+1158102101	5UPKIR	1.091430	heterozygosis: unknown	793
+344305051	5UPKIR	1.091703	heterozygosis: unknown	794
+667934102	5UPKIR	1.091767	heterozygosis: unknown	795
+283910031	5UPKIR	1.092510	heterozygosis: unknown	796
+825605071	5UPKIR	1.092663	heterozygosis: unknown	797
+132936052	5UPKIR	1.094050	heterozygosis: unknown	798
+894207061	5UPKIR	1.094311	heterozygosis: unknown	799
+564832012	5UPKIR	1.094835	heterozygosis: yes (1-2)	800
+1217612301	5UPKIR	1.095827	heterozygosis: unknown	801
+366123012	5UPKIR	1.096054	heterozygosis: unknown	802
+406000435	5UPKIR	1.096508	heterozygosis: unknown	803
+210800095	5UPKIR	1.096749	heterozygosis: unknown	804
+1248403701	5UPKIR	1.097622	heterozygosis: unknown	805
+11808031	5UPKIR	1.098810	heterozygosis: unknown	806
+210800135	5UPKIR	1.099406	heterozygosis: unknown	807
+535200028	5UPKIR	1.099492	heterozygosis: unknown	808
+1127231901	5UPKIR	1.100641	heterozygosis: yes (1-2)	809
+875000031	5UPKIR	1.100966	heterozygosis: yes (1-2)	810
+458904031	5UPKIR	1.101992	heterozygosis: unknown	811
+294309021	5UPKIR	1.103367	heterozygosis: unknown	812
+817922021	5UPKIR	1.103728	heterozygosis: unknown	813
+1332703401	5UPKIR	1.103957	heterozygosis: unknown	814
+1207301001	5UPKIR	1.104372	heterozygosis: unknown	815
+378900081	5UPKIR	1.105639	heterozygosis: unknown	816
+551800070	5UPKIR	1.106165	heterozygosis: unknown	817
+1236209301	5UPKIR	1.106641	heterozygosis: unknown	818
+304100101	5UPKIR	1.108245	heterozygosis: unknown	819
+1157101101	5UPKIR	1.108331	heterozygosis: unknown	820
+1040822501	5UPKIR	1.108693	heterozygosis: unknown	821
+1069305601	5UPKIR	1.109060	heterozygosis: yes (1-2)	822
+107301101	5UPKIR	1.109287	heterozygosis: yes (1-2)	823
+187914081	5UPKIR	1.109724	heterozygosis: yes (1-2)	824
+1046324501	5UPKIR	1.110005	heterozygosis: unknown	825
+210800070	5UPKIR	1.110214	heterozygosis: unknown	826
+1061309301	5UPKIR	1.111292	heterozygosis: unknown	827
+197226051	5UPKIR	1.111438	heterozygosis: unknown	828
+663921051	5UPKIR	1.112127	heterozygosis: unknown	829
+265812072	5UPKIR	1.112351	heterozygosis: unknown	830
+511515011	5UPKIR	1.112489	heterozygosis: yes (1-2)	831
+210800127	5UPKIR	1.112569	heterozygosis: unknown	832
+38046011	5UPKIR	1.112606	heterozygosis: unknown	833
+816400231	5UPKIR	1.112615	heterozygosis: unknown	834
+497413041	5UPKIR	1.113065	heterozygosis: unknown	835
+210800133	5UPKIR	1.113201	heterozygosis: unknown	836
+84428022	5UPKIR	1.113658	heterozygosis: unknown	837
+372100051	5UPKIR	1.113953	heterozygosis: unknown	838
+232503031	5UPKIR	1.114578	heterozygosis: unknown	839
+1102304001	5UPKIR	1.114785	heterozygosis: yes (1-2)	840
+676719081	5UPKIR	1.116308	heterozygosis: unknown	841
+182806101	5UPKIR	1.116607	heterozygosis: unknown	842
+502903022	5UPKIR	1.117332	heterozygosis: yes (1-2)	843
+401217031	5UPKIR	1.117462	heterozygosis: unknown	844
+687912091	5UPKIR	1.117520	heterozygosis: unknown	845
+514708022	5UPKIR	1.117939	heterozygosis: unknown	846
+1117525001	5UPKIR	1.118028	heterozygosis: unknown	847
+1219602701	5UPKIR	1.118390	heterozygosis: unknown	848
+341309071	5UPKIR	1.118545	heterozygosis: unknown	849
+1109317202	5UPKIR	1.119205	heterozygosis: unknown	850
+496917101	5UPKIR	1.119310	heterozygosis: unknown	851
+271110101	5UPKIR	1.119323	heterozygosis: unknown	852
+429046101	5UPKIR	1.119420	heterozygosis: yes (1-2)	853
+1151210901	5UPKIR	1.119463	heterozygosis: unknown	854
+1019621702	5UPKIR	1.119672	heterozygosis: unknown	855
+1317223701	5UPKIR	1.120087	heterozygosis: unknown	856
+469217021	5UPKIR	1.120317	heterozygosis: unknown	857
+1039801301	5UPKIR	1.120530	heterozygosis: unknown	858
+210800106	5UPKIR	1.120605	heterozygosis: unknown	859
+1338519701	5UPKIR	1.120740	heterozygosis: unknown	860
+1333214001	5UPKIR	1.121178	heterozygosis: unknown	861
+210800026	5UPKIR	1.121995	heterozygosis: unknown	862
+617502082	5UPKIR	1.122762	heterozygosis: yes (1-2)	863
+376100111	5UPKIR	1.123533	heterozygosis: unknown	864
+1148415501	5UPKIR	1.125315	heterozygosis: unknown	865
+1146418701	5UPKIR	1.125379	heterozygosis: unknown	866
+578323051	5UPKIR	1.125471	heterozygosis: unknown	867
+472700136	5UPKIR	1.125754	heterozygosis: unknown	868
+210800129	5UPKIR	1.126066	heterozygosis: unknown	869
+210800025	5UPKIR	1.126960	heterozygosis: yes (1-2)	870
+1092662101	5UPKIR	1.127303	heterozygosis: unknown	871
+210800048	5UPKIR	1.127415	heterozygosis: unknown	872
+531900151	5UPKIR	1.127532	heterozygosis: unknown	873
+873115091	5UPKIR	1.127811	heterozygosis: unknown	874
+504900367	5UPKIR	1.129525	heterozygosis: unknown	875
+237218082	5UPKIR	1.131102	heterozygosis: unknown	876
+1114222501	5UPKIR	1.132302	heterozygosis: unknown	877
+1198546501	5UPKIR	1.132442	heterozygosis: unknown	878
+546000429	5UPKIR	1.132589	heterozygosis: unknown	879
+212716041	5UPKIR	1.132648	heterozygosis: unknown	880
+1111319301	5UPKIR	1.133366	heterozygosis: unknown	881
+1044307701	5UPKIR	1.133440	heterozygosis: unknown	882
+137701061	5UPKIR	1.133994	heterozygosis: unknown	883
+210800029	5UPKIR	1.134717	heterozygosis: unknown	884
+315300121	5UPKIR	1.135053	heterozygosis: unknown	885
+170918061	5UPKIR	1.136073	heterozygosis: unknown	886
+387832102	5UPKIR	1.136889	heterozygosis: unknown	887
+1106309302	5UPKIR	1.137941	heterozygosis: unknown	888
+487428061	5UPKIR	1.138004	heterozygosis: yes (1-2)	889
+320712091	5UPKIR	1.138242	heterozygosis: unknown	890
+138106041	5UPKIR	1.138807	heterozygosis: unknown	891
+335916011	5UPKIR	1.138835	heterozygosis: unknown	892
+134901092	5UPKIR	1.139577	heterozygosis: yes (1-2)	893
+481732011	5UPKIR	1.140175	heterozygosis: unknown	894
+566106091	5UPKIR	1.140878	heterozygosis: unknown	895
+334615011	5UPKIR	1.142181	heterozygosis: unknown	896
+45513012	5UPKIR	1.142699	heterozygosis: unknown	897
+1239325901	5UPKIR	1.142969	heterozygosis: yes (1-2)	898
+31823101	5UPKIR	1.143142	heterozygosis: unknown	899
+135901091	5UPKIR	1.144413	heterozygosis: unknown	900
+40126061	5UPKIR	1.144980	heterozygosis: unknown	901
+51103051	5UPKIR	1.145565	heterozygosis: yes (1-2)	902
+210800114	5UPKIR	1.145585	heterozygosis: unknown	903
+86428052	5UPKIR	1.146348	heterozygosis: unknown	904
+618502071	5UPKIR	1.148579	heterozygosis: unknown	905
+210800052	5UPKIR	1.148587	heterozygosis: unknown	906
+210809000	5UPKIR	1.150324	heterozygosis: unknown	907
+802123041	5UPKIR	1.150483	heterozygosis: unknown	908
+427046021	5UPKIR	1.150733	heterozygosis: unknown	909
+877819091	5UPKIR	1.151853	heterozygosis: yes (1-2)	910
+1030315301	5UPKIR	1.151917	heterozygosis: yes (1-2)	911
+210800014	5UPKIR	1.152241	heterozygosis: unknown	912
+586000089	5UPKIR	1.152742	heterozygosis: unknown	913
+185706052	5UPKIR	1.153307	heterozygosis: unknown	914
+835930011	5UPKIR	1.153728	heterozygosis: yes (1-2)	915
+210800059	5UPKIR	1.154138	heterozygosis: unknown	916
+307300032	5UPKIR	1.154217	heterozygosis: yes (1-2)	917
+478714091	5UPKIR	1.154891	heterozygosis: yes (1-2)	918
+1188124701	5UPKIR	1.155216	heterozygosis: unknown	919
+396725011	5UPKIR	1.155640	heterozygosis: unknown	920
+37041012	5UPKIR	1.156411	heterozygosis: unknown	921
+133918061	5UPKIR	1.157300	heterozygosis: unknown	922
+357106041	5UPKIR	1.157362	heterozygosis: unknown	923
+1082416301	5UPKIR	1.157832	heterozygosis: unknown	924
+210800067	5UPKIR	1.158328	heterozygosis: unknown	925
+1085674901	5UPKIR	1.158744	heterozygosis: unknown	926
+210800103	5UPKIR	1.159175	heterozygosis: unknown	927
+210322011	5UPKIR	1.160143	heterozygosis: unknown	928
+614202101	5UPKIR	1.160143	heterozygosis: unknown	929
+600211031	5UPKIR	1.160673	heterozygosis: unknown	930
+1083645101	5UPKIR	1.160711	heterozygosis: unknown	931
+1309534301	5UPKIR	1.160782	heterozygosis: unknown	932
+368814102	5UPKIR	1.160819	heterozygosis: unknown	933
+365123011	5UPKIR	1.160985	heterozygosis: unknown	934
+156202031	5UPKIR	1.161142	heterozygosis: unknown	935
+678226042	5UPKIR	1.161587	heterozygosis: unknown	936
+313300141	5UPKIR	1.161858	heterozygosis: unknown	937
+889110131	5UPKIR	1.162105	heterozygosis: unknown	938
+386832101	5UPKIR	1.162893	heterozygosis: unknown	939
+479725051	5UPKIR	1.163175	heterozygosis: unknown	940
+1273214701	5UPKIR	1.164209	heterozygosis: unknown	941
+569122051	5UPKIR	1.165015	heterozygosis: yes (1-2)	942
+210800042	5UPKIR	1.165211	heterozygosis: unknown	943
+65414101	5UPKIR	1.165721	heterozygosis: unknown	944
+1322616701	5UPKIR	1.165959	heterozygosis: unknown	945
+1035816701	5UPKIR	1.166988	heterozygosis: unknown	946
+288920032	5UPKIR	1.167395	heterozygosis: unknown	947
+316300122	5UPKIR	1.168019	heterozygosis: unknown	948
+526900011	5UPKIR	1.168225	heterozygosis: unknown	949
+67903011	5UPKIR	1.168712	heterozygosis: unknown	950
+402000439	5UPKIR	1.170248	heterozygosis: yes (1-2)	951
+1277601601	5UPKIR	1.170398	heterozygosis: unknown	952
+1305612401	5UPKIR	1.170645	heterozygosis: unknown	953
+1251233701	5UPKIR	1.171832	heterozygosis: unknown	954
+1229509801	5UPKIR	1.171981	heterozygosis: unknown	955
+1101303201	5UPKIR	1.172007	heterozygosis: unknown	956
+890110091	5UPKIR	1.172019	heterozygosis: unknown	957
+1096407801	5UPKIR	1.172541	heterozygosis: unknown	958
+1122217501	5UPKIR	1.172668	heterozygosis: unknown	959
+211322012	5UPKIR	1.173161	heterozygosis: unknown	960
+323708051	5UPKIR	1.173296	heterozygosis: yes (1-2)	961
+1115534601	5UPKIR	1.173595	heterozygosis: yes (1-2)	962
+1005214101	5UPKIR	1.174640	heterozygosis: unknown	963
+210800039	5UPKIR	1.175511	heterozygosis: unknown	964
+572122013	5UPKIR	1.175896	heterozygosis: unknown	965
+1186600201	5UPKIR	1.175919	heterozygosis: unknown	966
+227708102	5UPKIR	1.176344	heterozygosis: unknown	967
+886000538	5UPKIR	1.176358	heterozygosis: unknown	968
+10227052	5UPKIR	1.177750	heterozygosis: unknown	969
+1275529101	5UPKIR	1.178611	heterozygosis: unknown	970
+439833011	5UPKIR	1.180929	heterozygosis: unknown	971
+210807000	5UPKIR	1.183535	heterozygosis: unknown	972
+1242300101	5UPKIR	1.183718	heterozygosis: unknown	973
+14833012	5UPKIR	1.185494	heterozygosis: unknown	974
+868610051	5UPKIR	1.185909	heterozygosis: unknown	975
+426111081	5UPKIR	1.187077	heterozygosis: yes (1-2)	976
+1000206901	5UPKIR	1.187081	heterozygosis: unknown	977
+539224062	5UPKIR	1.187345	heterozygosis: unknown	978
+89220082	5UPKIR	1.188066	heterozygosis: unknown	979
+246323051	5UPKIR	1.188445	heterozygosis: unknown	980
+1344203301	5UPKIR	1.189170	heterozygosis: unknown	981
+1300308501	5UPKIR	1.189214	heterozygosis: unknown	982
+54409051	5UPKIR	1.189234	heterozygosis: unknown	983
+1025318501	5UPKIR	1.189813	heterozygosis: unknown	984
+1180101501	5UPKIR	1.190402	heterozygosis: unknown	985
+210800130	5UPKIR	1.190421	heterozygosis: unknown	986
+882730051	5UPKIR	1.190856	heterozygosis: unknown	987
+519200295	5UPKIR	1.191031	heterozygosis: unknown	988
+314300111	5UPKIR	1.191121	heterozygosis: unknown	989
+690901071	5UPKIR	1.191264	heterozygosis: unknown	990
+686907091	5UPKIR	1.191796	heterozygosis: unknown	991
+581020052	5UPKIR	1.192705	heterozygosis: unknown	992
+124313101	5UPKIR	1.192974	heterozygosis: unknown	993
+1285201401	5UPKIR	1.193038	heterozygosis: unknown	994
+192723061	5UPKIR	1.193581	heterozygosis: unknown	995
+1023311101	5UPKIR	1.193584	heterozygosis: unknown	996
+1271304902	5UPKIR	1.196367	heterozygosis: unknown	997
+885000534	5UPKIR	1.196874	heterozygosis: unknown	998
+1143306101	5UPKIR	1.198320	heterozygosis: yes (1-2)	999
+210800104	5UPKIR	1.198740	heterozygosis: unknown	1000
+412617011	5UPKIR	1.202204	heterozygosis: unknown	1001
+567100315	5UPKIR	1.206127	heterozygosis: unknown	1002
+224309081	5UPKIR	1.206262	heterozygosis: unknown	1003
+1292014101	5UPKIR	1.208168	heterozygosis: yes (1-2)	1004
+180806071	5UPKIR	1.209475	heterozygosis: unknown	1005
+48130071	5UPKIR	1.211214	heterozygosis: unknown	1006
+857103081	5UPKIR	1.212807	heterozygosis: unknown	1007
+210800105	5UPKIR	1.212896	heterozygosis: yes (1-2)	1008
+1287202101	5UPKIR	1.213755	heterozygosis: yes (1-2)	1009
+343021102	5UPKIR	1.214035	heterozygosis: yes (1-2)	1010
+1066300601	5UPKIR	1.214674	heterozygosis: unknown	1011
+1007215301	5UPKIR	1.217463	heterozygosis: unknown	1012
+337005011	5UPKIR	1.217557	heterozygosis: unknown	1013
+553815101	5UPKIR	1.218338	heterozygosis: unknown	1014
+384010051	5UPKIR	1.218815	heterozygosis: unknown	1015
+558809011	5UPKIR	1.222178	heterozygosis: unknown	1016
+606224012	5UPKIR	1.223071	heterozygosis: unknown	1017
+49103041	5UPKIR	1.223418	heterozygosis: unknown	1018
+1296010301	5UPKIR	1.226334	heterozygosis: yes (1-2)	1019
+1024311301	5UPKIR	1.226722	heterozygosis: unknown	1020
+126322071	5UPKIR	1.227006	heterozygosis: unknown	1021
+205300083	5UPKIR	1.227626	heterozygosis: unknown	1022
+555824102	5UPKIR	1.227834	heterozygosis: unknown	1023
+1155216701	5UPKIR	1.228185	heterozygosis: unknown	1024
+210800107	5UPKIR	1.228534	heterozygosis: unknown	1025
+276110121	5UPKIR	1.229471	heterozygosis: unknown	1026
+286647051	5UPKIR	1.229562	heterozygosis: unknown	1027
+1241322501	5UPKIR	1.231402	heterozygosis: unknown	1028
+1057014701	5UPKIR	1.232191	heterozygosis: unknown	1029
+475700124	5UPKIR	1.232277	heterozygosis: unknown	1030
+516622071	5UPKIR	1.234199	heterozygosis: unknown	1031
+866604021	5UPKIR	1.235124	heterozygosis: unknown	1032
+330201041	5UPKIR	1.238371	heterozygosis: unknown	1033
+59603011	5UPKIR	1.238522	heterozygosis: unknown	1034
+1330617501	5UPKIR	1.239138	heterozygosis: unknown	1035
+1050333901	5UPKIR	1.241530	heterozygosis: unknown	1036
+695209021	5UPKIR	1.243809	heterozygosis: unknown	1037
+1126220301	5UPKIR	1.245004	heterozygosis: unknown	1038
+1008216701	5UPKIR	1.246592	heterozygosis: unknown	1039
+1181107101	5UPKIR	1.246779	heterozygosis: unknown	1040
+605228011	5UPKIR	1.247996	heterozygosis: unknown	1041
+1288305901	5UPKIR	1.249509	heterozygosis: yes (1-2)	1042
+1200535701	5UPKIR	1.249694	heterozygosis: unknown	1043
+1010616901	5UPKIR	1.252656	heterozygosis: unknown	1044
+210800082	5UPKIR	1.254162	heterozygosis: unknown	1045
+210800109	5UPKIR	1.256005	heterozygosis: unknown	1046
+210800086	5UPKIR	1.257503	heterozygosis: unknown	1047
+1179619501	5UPKIR	1.259798	heterozygosis: unknown	1048
+473700138	5UPKIR	1.260142	heterozygosis: unknown	1049
+573100301	5UPKIR	1.260175	heterozygosis: unknown	1050
+55911051	5UPKIR	1.260199	heterozygosis: unknown	1051
+25312101	5UPKIR	1.260601	heterozygosis: unknown	1052
+206701082	5UPKIR	1.260605	heterozygosis: unknown	1053
+461911071	5UPKIR	1.262365	heterozygosis: unknown	1054
+58908011	5UPKIR	1.262706	heterozygosis: unknown	1055
+28326021	5UPKIR	1.263633	heterozygosis: unknown	1056
+210800116	5UPKIR	1.263657	heterozygosis: unknown	1057
+210800141	5UPKIR	1.264749	heterozygosis: unknown	1058
+1034803101	5UPKIR	1.265934	heterozygosis: unknown	1059
+579020062	5UPKIR	1.266263	heterozygosis: unknown	1060
+483732031	5UPKIR	1.266980	heterozygosis: unknown	1061
+1161560701	5UPKIR	1.267234	heterozygosis: unknown	1062
+1120208701	5UPKIR	1.267711	heterozygosis: unknown	1063
+1027328701	5UPKIR	1.268923	heterozygosis: unknown	1064
+592911051	5UPKIR	1.269180	heterozygosis: unknown	1065
+336908021	5UPKIR	1.270225	heterozygosis: unknown	1066
+210800050	5UPKIR	1.271436	heterozygosis: unknown	1067
+1334717501	5UPKIR	1.271683	heterozygosis: unknown	1068
+210800134	5UPKIR	1.272087	heterozygosis: unknown	1069
+1067305201	5UPKIR	1.272113	heterozygosis: unknown	1070
+1070309701	5UPKIR	1.273681	heterozygosis: unknown	1071
+210800051	5UPKIR	1.273908	heterozygosis: unknown	1072
+1149417901	5UPKIR	1.274047	heterozygosis: unknown	1073
+1140104501	5UPKIR	1.274071	heterozygosis: yes (1-2)	1074
+672208061	5UPKIR	1.276336	heterozygosis: unknown	1075
+852220051	5UPKIR	1.279673	heterozygosis: unknown	1076
+46518081	5UPKIR	1.288105	heterozygosis: unknown	1077
+627513061	5UPKIR	1.291884	heterozygosis: unknown	1078
+550800017	5UPKIR	1.292061	heterozygosis: unknown	1079
+692420091	5UPKIR	1.292837	heterozygosis: unknown	1080
+1314207601	5UPKIR	1.292873	heterozygosis: unknown	1081
+596906101	5UPKIR	1.301239	heterozygosis: unknown	1082
+1068305301	5UPKIR	1.301625	heterozygosis: unknown	1083
+880808061	5UPKIR	1.301646	heterozygosis: unknown	1084
+593918082	5UPKIR	1.302743	heterozygosis: unknown	1085
+1337513301	5UPKIR	1.305332	heterozygosis: yes (1-2)	1086
+108303082	5UPKIR	1.305402	heterozygosis: yes (1-2)	1087
+642705082	5UPKIR	1.305808	heterozygosis: unknown	1088
+414601022	5UPKIR	1.307827	heterozygosis: unknown	1089
+640417051	5UPKIR	1.308537	heterozygosis: unknown	1090
+32833091	5UPKIR	1.310192	heterozygosis: yes (1-2)	1091
+1323600501	5UPKIR	1.313852	heterozygosis: unknown	1092
+189711051	5UPKIR	1.318124	heterozygosis: unknown	1093
+292903042	5UPKIR	1.321421	heterozygosis: unknown	1094
+1171507301	5UPKIR	1.323298	heterozygosis: unknown	1095
+1076406101	5UPKIR	1.324080	heterozygosis: unknown	1096
+898106061	5UPKIR	1.324764	heterozygosis: unknown	1097
+121418032	5UPKIR	1.325644	heterozygosis: yes (1-2)	1098
+493911021	5UPKIR	1.326005	heterozygosis: unknown	1099
+813016061	5UPKIR	1.326132	heterozygosis: unknown	1100
+56911052	5UPKIR	1.334237	heterozygosis: yes (1-2)	1101
+241601031	5UPKIR	1.335657	heterozygosis: unknown	1102
+838001021	5UPKIR	1.335730	heterozygosis: unknown	1103
+1071310701	5UPKIR	1.346085	heterozygosis: unknown	1104
+639417062	5UPKIR	1.350107	heterozygosis: unknown	1105
+635323081	5UPKIR	1.351187	heterozygosis: unknown	1106
+613206052	5UPKIR	1.354373	heterozygosis: unknown	1107
+154224081	5UPKIR	1.356691	heterozygosis: unknown	1108
+85428051	5UPKIR	1.366863	heterozygosis: unknown	1109
+81418052	5UPKIR	1.370695	heterozygosis: unknown	1110
+862900051	5UPKIR	1.371081	heterozygosis: unknown	1111
+102116021	5UPKIR	1.371538	heterozygosis: unknown	1112
+629000523	5UPKIR	1.372630	heterozygosis: yes (1-2)	1113
+355101021	5UPKIR	1.373329	heterozygosis: unknown	1114
+178718051	5UPKIR	1.378767	heterozygosis: unknown	1115
+847939062	5UPKIR	1.380098	heterozygosis: unknown	1116
+1112517801	5UPKIR	1.392715	heterozygosis: unknown	1117
+116724051	5UPKIR	1.401321	heterozygosis: unknown	1118
+371100011	5UPKIR	1.407672	heterozygosis: unknown	1119
+823810121	5UPKIR	1.409042	heterozygosis: unknown	1120
+210800049	5UPKIR	1.413097	heterozygosis: unknown	1121
+361100250	5UPKIR	1.416448	heterozygosis: unknown	1122
+244604061	5UPKIR	1.422700	heterozygosis: unknown	1123
+626528021	5UPKIR	1.425502	heterozygosis: unknown	1124
+1257013101	5UPKIR	1.431594	heterozygosis: unknown	1125
+23312012	5UPKIR	1.440391	heterozygosis: unknown	1126
+120416021	5UPKIR	1.450397	heterozygosis: unknown	1127
+532802041	5UPKIR	1.461014	heterozygosis: unknown	1128
+1208202601	5UPKIR	1.477227	heterozygosis: unknown	1129
+163910072	5UPKIR	1.478935	heterozygosis: yes (1-2)	1130
+279902091	5UPKIR	1.495746	heterozygosis: unknown	1131
+544000385	5UPKIR	1.501462	heterozygosis: unknown	1132
+210800110	5UPKIR	1.515451	heterozygosis: unknown	1133
+887000453	5UPKIR	1.612678	heterozygosis: yes (1-2)	1134

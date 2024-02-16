@@ -1,0 +1,1135 @@
+Sample	Gene	Ratio	Heterozygosis	Order
+280905041	LILRB1	0.289281	heterozygosis: unknown	1
+210800083	LILRB1	0.303364	heterozygosis: unknown	2
+438800029	LILRB1	0.336243	heterozygosis: unknown	3
+836930072	LILRB1	0.336820	heterozygosis: unknown	4
+16907052	LILRB1	0.337684	heterozygosis: unknown	5
+177023091	LILRB1	0.346381	heterozygosis: unknown	6
+210800012	LILRB1	0.349134	heterozygosis: unknown	7
+428046012	LILRB1	0.349577	heterozygosis: yes (>2)	8
+215712101	LILRB1	0.354998	heterozygosis: yes (1-2)	9
+210800117	LILRB1	0.356219	heterozygosis: unknown	10
+381016011	LILRB1	0.360276	heterozygosis: yes (>2)	11
+416215041	LILRB1	0.360980	heterozygosis: yes (1-2)	12
+1243300102	LILRB1	0.361310	heterozygosis: yes (1-2)	13
+258801022	LILRB1	0.362073	heterozygosis: unknown	14
+210800125	LILRB1	0.363122	heterozygosis: unknown	15
+210800094	LILRB1	0.364234	heterozygosis: yes (1-2)	16
+210800119	LILRB1	0.365934	heterozygosis: unknown	17
+1013617501	LILRB1	0.366047	heterozygosis: unknown	18
+210800010	LILRB1	0.366648	heterozygosis: yes (>2)	19
+10227052	LILRB1	0.368295	heterozygosis: unknown	20
+1238224501	LILRB1	0.369192	heterozygosis: unknown	21
+865000557	LILRB1	0.370573	heterozygosis: unknown	22
+510512061	LILRB1	0.371015	heterozygosis: unknown	23
+1014604901	LILRB1	0.371433	heterozygosis: yes (1-2)	24
+1190114802	LILRB1	0.372230	heterozygosis: yes (1-2)	25
+143709042	LILRB1	0.372277	heterozygosis: unknown	26
+547000448	LILRB1	0.372587	heterozygosis: yes (1-2)	27
+1105309301	LILRB1	0.373101	heterozygosis: unknown	28
+1178609102	LILRB1	0.374319	heterozygosis: unknown	29
+1204538102	LILRB1	0.374511	heterozygosis: yes (>2)	30
+210800044	LILRB1	0.374641	heterozygosis: yes (1-2)	31
+1101303201	LILRB1	0.375065	heterozygosis: yes (1-2)	32
+670208081	LILRB1	0.375503	heterozygosis: unknown	33
+693209051	LILRB1	0.376073	heterozygosis: yes (>2)	34
+528900061	LILRB1	0.376493	heterozygosis: unknown	35
+896105021	LILRB1	0.377574	heterozygosis: yes (1-2)	36
+473700138	LILRB1	0.377940	heterozygosis: yes (1-2)	37
+305100171	LILRB1	0.379193	heterozygosis: unknown	38
+845112062	LILRB1	0.379260	heterozygosis: unknown	39
+153206102	LILRB1	0.379918	heterozygosis: unknown	40
+488428071	LILRB1	0.380445	heterozygosis: yes (1-2)	41
+1339531301	LILRB1	0.382203	heterozygosis: yes (1-2)	42
+327601041	LILRB1	0.383109	heterozygosis: unknown	43
+889110131	LILRB1	0.384183	heterozygosis: yes (1-2)	44
+647405102	LILRB1	0.384914	heterozygosis: yes (1-2)	45
+271110101	LILRB1	0.385180	heterozygosis: yes (1-2)	46
+210800033	LILRB1	0.385213	heterozygosis: unknown	47
+683407031	LILRB1	0.386098	heterozygosis: yes (1-2)	48
+1223818501	LILRB1	0.386098	heterozygosis: unknown	49
+40126061	LILRB1	0.386102	heterozygosis: unknown	50
+413620032	LILRB1	0.386391	heterozygosis: unknown	51
+1026319101	LILRB1	0.387345	heterozygosis: unknown	52
+1058009901	LILRB1	0.387418	heterozygosis: unknown	53
+175020072	LILRB1	0.387994	heterozygosis: unknown	54
+826605072	LILRB1	0.388182	heterozygosis: yes (>2)	55
+1161560701	LILRB1	0.389047	heterozygosis: yes (>2)	56
+666442081	LILRB1	0.389433	heterozygosis: yes (1-2)	57
+1142112701	LILRB1	0.389675	heterozygosis: yes (>2)	58
+863900061	LILRB1	0.390818	heterozygosis: yes (>2)	59
+166919061	LILRB1	0.390901	heterozygosis: yes (1-2)	60
+332205021	LILRB1	0.391282	heterozygosis: yes (>2)	61
+53409011	LILRB1	0.391399	heterozygosis: unknown	62
+445303031	LILRB1	0.391644	heterozygosis: yes (1-2)	63
+665921081	LILRB1	0.391716	heterozygosis: yes (>2)	64
+188711071	LILRB1	0.392843	heterozygosis: unknown	65
+1261523701	LILRB1	0.393459	heterozygosis: yes (1-2)	66
+881813041	LILRB1	0.393485	heterozygosis: yes (1-2)	67
+1302824301	LILRB1	0.393846	heterozygosis: unknown	68
+820000506	LILRB1	0.394184	heterozygosis: unknown	69
+565126021	LILRB1	0.394541	heterozygosis: unknown	70
+1127231901	LILRB1	0.394834	heterozygosis: unknown	71
+695209021	LILRB1	0.395021	heterozygosis: yes (1-2)	72
+575300031	LILRB1	0.395073	heterozygosis: yes (>2)	73
+1053009701	LILRB1	0.395232	heterozygosis: yes (>2)	74
+1264618401	LILRB1	0.395999	heterozygosis: yes (1-2)	75
+105301031	LILRB1	0.396037	heterozygosis: yes (1-2)	76
+600211031	LILRB1	0.396252	heterozygosis: yes (>2)	77
+437202011	LILRB1	0.396256	heterozygosis: unknown	78
+238218081	LILRB1	0.398566	heterozygosis: yes (1-2)	79
+1088603301	LILRB1	0.398654	heterozygosis: yes (1-2)	80
+503914062	LILRB1	0.398675	heterozygosis: yes (1-2)	81
+229727101	LILRB1	0.398809	heterozygosis: unknown	82
+1244303302	LILRB1	0.399578	heterozygosis: unknown	83
+1139102501	LILRB1	0.400216	heterozygosis: yes (1-2)	84
+569122051	LILRB1	0.400359	heterozygosis: yes (>2)	85
+1168514701	LILRB1	0.400454	heterozygosis: unknown	86
+803123042	LILRB1	0.401268	heterozygosis: unknown	87
+210800064	LILRB1	0.401429	heterozygosis: yes (1-2)	88
+1258529501	LILRB1	0.401473	heterozygosis: unknown	89
+339028131	LILRB1	0.401475	heterozygosis: unknown	90
+813016061	LILRB1	0.401727	heterozygosis: unknown	91
+210800043	LILRB1	0.402257	heterozygosis: yes (1-2)	92
+210800136	LILRB1	0.402404	heterozygosis: unknown	93
+446303051	LILRB1	0.402979	heterozygosis: unknown	94
+625528081	LILRB1	0.403100	heterozygosis: yes (1-2)	95
+210800052	LILRB1	0.403390	heterozygosis: unknown	96
+574003082	LILRB1	0.403545	heterozygosis: unknown	97
+436200080	LILRB1	0.403942	heterozygosis: yes (>2)	98
+671208082	LILRB1	0.404052	heterozygosis: yes (>2)	99
+1092662101	LILRB1	0.404184	heterozygosis: unknown	100
+210800026	LILRB1	0.404400	heterozygosis: yes (1-2)	101
+210800091	LILRB1	0.405008	heterozygosis: unknown	102
+619507061	LILRB1	0.406079	heterozygosis: yes (1-2)	103
+497413041	LILRB1	0.406240	heterozygosis: yes (>2)	104
+283910031	LILRB1	0.406586	heterozygosis: unknown	105
+417218092	LILRB1	0.406669	heterozygosis: unknown	106
+560809022	LILRB1	0.407450	heterozygosis: unknown	107
+687912091	LILRB1	0.407599	heterozygosis: unknown	108
+1187601202	LILRB1	0.408730	heterozygosis: unknown	109
+206701082	LILRB1	0.409163	heterozygosis: yes (1-2)	110
+195211032	LILRB1	0.409458	heterozygosis: unknown	111
+210800035	LILRB1	0.409871	heterozygosis: yes (1-2)	112
+376100111	LILRB1	0.410249	heterozygosis: unknown	113
+524900021	LILRB1	0.410803	heterozygosis: unknown	114
+563000569	LILRB1	0.410993	heterozygosis: unknown	115
+1098222101	LILRB1	0.411301	heterozygosis: unknown	116
+43140021	LILRB1	0.411718	heterozygosis: yes (>2)	117
+304100101	LILRB1	0.411798	heterozygosis: unknown	118
+137701061	LILRB1	0.412457	heterozygosis: unknown	119
+636902031	LILRB1	0.412499	heterozygosis: unknown	120
+1307701101	LILRB1	0.412670	heterozygosis: unknown	121
+226505041	LILRB1	0.412782	heterozygosis: unknown	122
+216211041	LILRB1	0.413297	heterozygosis: unknown	123
+1060302901	LILRB1	0.414311	heterozygosis: unknown	124
+289911091	LILRB1	0.414818	heterozygosis: unknown	125
+871400011	LILRB1	0.414948	heterozygosis: yes (>2)	126
+210800062	LILRB1	0.415235	heterozygosis: yes (1-2)	127
+196216032	LILRB1	0.415402	heterozygosis: unknown	128
+868610051	LILRB1	0.415421	heterozygosis: unknown	129
+210800140	LILRB1	0.415618	heterozygosis: unknown	130
+545000422	LILRB1	0.415748	heterozygosis: unknown	131
+214709101	LILRB1	0.415854	heterozygosis: yes (1-2)	132
+1057014701	LILRB1	0.415914	heterozygosis: unknown	133
+321701011	LILRB1	0.415980	heterozygosis: yes (1-2)	134
+210800061	LILRB1	0.416674	heterozygosis: yes (1-2)	135
+62929011	LILRB1	0.416723	heterozygosis: yes (1-2)	136
+559809021	LILRB1	0.416855	heterozygosis: yes (>2)	137
+585016092	LILRB1	0.416865	heterozygosis: unknown	138
+844112061	LILRB1	0.417504	heterozygosis: unknown	139
+501910081	LILRB1	0.417608	heterozygosis: yes (1-2)	140
+423320091	LILRB1	0.417678	heterozygosis: yes (1-2)	141
+33838042	LILRB1	0.417726	heterozygosis: unknown	142
+360106052	LILRB1	0.417775	heterozygosis: unknown	143
+615800019	LILRB1	0.418136	heterozygosis: unknown	144
+462911072	LILRB1	0.418467	heterozygosis: unknown	145
+1077418301	LILRB1	0.418872	heterozygosis: yes (1-2)	146
+252900011	LILRB1	0.418942	heterozygosis: unknown	147
+806105102	LILRB1	0.419118	heterozygosis: unknown	148
+1062301301	LILRB1	0.419255	heterozygosis: yes (1-2)	149
+172901102	LILRB1	0.419296	heterozygosis: yes (1-2)	150
+1132140901	LILRB1	0.419325	heterozygosis: unknown	151
+1237235701	LILRB1	0.419450	heterozygosis: yes (1-2)	152
+888000458	LILRB1	0.419463	heterozygosis: unknown	153
+323708051	LILRB1	0.419776	heterozygosis: unknown	154
+210800115	LILRB1	0.419875	heterozygosis: yes (>2)	155
+104116082	LILRB1	0.420061	heterozygosis: yes (1-2)	156
+1199548101	LILRB1	0.420194	heterozygosis: unknown	157
+831205021	LILRB1	0.420273	heterozygosis: unknown	158
+369814111	LILRB1	0.420536	heterozygosis: unknown	159
+210800046	LILRB1	0.420656	heterozygosis: unknown	160
+119410052	LILRB1	0.420884	heterozygosis: yes (1-2)	161
+1207301001	LILRB1	0.420997	heterozygosis: yes (>2)	162
+849106091	LILRB1	0.421047	heterozygosis: yes (1-2)	163
+1143306101	LILRB1	0.421196	heterozygosis: unknown	164
+1052007701	LILRB1	0.421281	heterozygosis: unknown	165
+14833012	LILRB1	0.421382	heterozygosis: unknown	166
+1211205401	LILRB1	0.421849	heterozygosis: unknown	167
+210800018	LILRB1	0.422478	heterozygosis: yes (>2)	168
+1338519701	LILRB1	0.422786	heterozygosis: unknown	169
+210800092	LILRB1	0.422829	heterozygosis: yes (1-2)	170
+530900091	LILRB1	0.422980	heterozygosis: yes (1-2)	171
+26312102	LILRB1	0.423000	heterozygosis: yes (>2)	172
+168921021	LILRB1	0.423046	heterozygosis: unknown	173
+410817061	LILRB1	0.423115	heterozygosis: yes (1-2)	174
+135901091	LILRB1	0.423580	heterozygosis: yes (1-2)	175
+1079410601	LILRB1	0.423877	heterozygosis: yes (1-2)	176
+18912051	LILRB1	0.423893	heterozygosis: unknown	177
+1061309301	LILRB1	0.423897	heterozygosis: unknown	178
+822823072	LILRB1	0.424570	heterozygosis: unknown	179
+328202011	LILRB1	0.425113	heterozygosis: unknown	180
+599208021	LILRB1	0.425197	heterozygosis: unknown	181
+80418051	LILRB1	0.425270	heterozygosis: unknown	182
+3173319102	LILRB1	0.425272	heterozygosis: unknown	183
+1189134901	LILRB1	0.425285	heterozygosis: unknown	184
+210800016	LILRB1	0.425386	heterozygosis: yes (1-2)	185
+564832012	LILRB1	0.425517	heterozygosis: unknown	186
+579020062	LILRB1	0.425664	heterozygosis: yes (>2)	187
+828604051	LILRB1	0.425730	heterozygosis: unknown	188
+804131031	LILRB1	0.426311	heterozygosis: unknown	189
+1304510501	LILRB1	0.426369	heterozygosis: unknown	190
+210800086	LILRB1	0.426440	heterozygosis: yes (1-2)	191
+1091616501	LILRB1	0.426724	heterozygosis: unknown	192
+110306031	LILRB1	0.426853	heterozygosis: yes (1-2)	193
+316300122	LILRB1	0.427053	heterozygosis: unknown	194
+309300061	LILRB1	0.427209	heterozygosis: yes (1-2)	195
+210800100	LILRB1	0.427502	heterozygosis: yes (1-2)	196
+12813033	LILRB1	0.427526	heterozygosis: unknown	197
+612206051	LILRB1	0.427655	heterozygosis: unknown	198
+523704101	LILRB1	0.428129	heterozygosis: unknown	199
+837001011	LILRB1	0.428194	heterozygosis: unknown	200
+521601061	LILRB1	0.428249	heterozygosis: unknown	201
+386832101	LILRB1	0.428338	heterozygosis: unknown	202
+486425051	LILRB1	0.428712	heterozygosis: unknown	203
+41130012	LILRB1	0.429324	heterozygosis: unknown	204
+654000467	LILRB1	0.429326	heterozygosis: unknown	205
+210800038	LILRB1	0.429475	heterozygosis: yes (1-2)	206
+879809041	LILRB1	0.429493	heterozygosis: unknown	207
+308300051	LILRB1	0.430063	heterozygosis: unknown	208
+210800058	LILRB1	0.430209	heterozygosis: unknown	209
+1266700901	LILRB1	0.430367	heterozygosis: yes (1-2)	210
+1273214701	LILRB1	0.430446	heterozygosis: yes (1-2)	211
+1073306701	LILRB1	0.430511	heterozygosis: unknown	212
+1257013101	LILRB1	0.430779	heterozygosis: yes (1-2)	213
+1298019101	LILRB1	0.430860	heterozygosis: yes (>2)	214
+1109317202	LILRB1	0.431059	heterozygosis: unknown	215
+508308101	LILRB1	0.431235	heterozygosis: unknown	216
+42140012	LILRB1	0.431511	heterozygosis: unknown	217
+1031824301	LILRB1	0.431589	heterozygosis: unknown	218
+626528021	LILRB1	0.431643	heterozygosis: unknown	219
+1170503901	LILRB1	0.431684	heterozygosis: unknown	220
+265812072	LILRB1	0.431696	heterozygosis: unknown	221
+519200295	LILRB1	0.431900	heterozygosis: yes (1-2)	222
+1001207701	LILRB1	0.431973	heterozygosis: yes (1-2)	223
+463137092	LILRB1	0.432161	heterozygosis: yes (1-2)	224
+1165600901	LILRB1	0.432295	heterozygosis: unknown	225
+307300032	LILRB1	0.432683	heterozygosis: unknown	226
+210800076	LILRB1	0.432951	heterozygosis: yes (1-2)	227
+210800072	LILRB1	0.433091	heterozygosis: unknown	228
+1224835901	LILRB1	0.433408	heterozygosis: unknown	229
+477714051	LILRB1	0.433656	heterozygosis: yes (1-2)	230
+1332703401	LILRB1	0.433836	heterozygosis: unknown	231
+841108042	LILRB1	0.433867	heterozygosis: yes (1-2)	232
+659404021	LILRB1	0.433874	heterozygosis: unknown	233
+259801031	LILRB1	0.433916	heterozygosis: unknown	234
+210800049	LILRB1	0.433979	heterozygosis: unknown	235
+611508041	LILRB1	0.434075	heterozygosis: unknown	236
+469217021	LILRB1	0.434246	heterozygosis: unknown	237
+131909101	LILRB1	0.434256	heterozygosis: unknown	238
+169640071	LILRB1	0.434288	heterozygosis: unknown	239
+338015051	LILRB1	0.434315	heterozygosis: unknown	240
+355101021	LILRB1	0.434385	heterozygosis: yes (1-2)	241
+362105011	LILRB1	0.434394	heterozygosis: yes (>2)	242
+1130125901	LILRB1	0.434711	heterozygosis: yes (1-2)	243
+1043306901	LILRB1	0.434813	heterozygosis: unknown	244
+1003210301	LILRB1	0.435098	heterozygosis: yes (1-2)	245
+210800118	LILRB1	0.435228	heterozygosis: yes (1-2)	246
+539224062	LILRB1	0.435402	heterozygosis: unknown	247
+324708111	LILRB1	0.435519	heterozygosis: yes (>2)	248
+220211091	LILRB1	0.435698	heterozygosis: unknown	249
+34930051	LILRB1	0.435990	heterozygosis: yes (1-2)	250
+319416011	LILRB1	0.436070	heterozygosis: unknown	251
+877819091	LILRB1	0.436150	heterozygosis: unknown	252
+517622031	LILRB1	0.436168	heterozygosis: yes (1-2)	253
+230727081	LILRB1	0.436382	heterozygosis: yes (1-2)	254
+1085674901	LILRB1	0.436493	heterozygosis: unknown	255
+326712081	LILRB1	0.436606	heterozygosis: yes (1-2)	256
+210800078	LILRB1	0.436654	heterozygosis: yes (1-2)	257
+106301032	LILRB1	0.436716	heterozygosis: yes (1-2)	258
+1090670301	LILRB1	0.436770	heterozygosis: unknown	259
+13813041	LILRB1	0.437043	heterozygosis: yes (1-2)	260
+364131061	LILRB1	0.437382	heterozygosis: yes (1-2)	261
+82425021	LILRB1	0.437439	heterozygosis: yes (>2)	262
+435800114	LILRB1	0.438058	heterozygosis: unknown	263
+373100091	LILRB1	0.438441	heterozygosis: unknown	264
+1212203001	LILRB1	0.438624	heterozygosis: yes (1-2)	265
+411611051	LILRB1	0.438765	heterozygosis: unknown	266
+1164621101	LILRB1	0.438865	heterozygosis: unknown	267
+1022306301	LILRB1	0.439041	heterozygosis: yes (1-2)	268
+1340826701	LILRB1	0.439181	heterozygosis: unknown	269
+467000378	LILRB1	0.439237	heterozygosis: yes (1-2)	270
+141707011	LILRB1	0.439364	heterozygosis: unknown	271
+210800137	LILRB1	0.439719	heterozygosis: unknown	272
+1059310901	LILRB1	0.439820	heterozygosis: unknown	273
+303100081	LILRB1	0.439895	heterozygosis: unknown	274
+83425022	LILRB1	0.439963	heterozygosis: yes (>2)	275
+1239325901	LILRB1	0.440051	heterozygosis: unknown	276
+552809062	LILRB1	0.440116	heterozygosis: unknown	277
+210800141	LILRB1	0.440121	heterozygosis: yes (1-2)	278
+843112071	LILRB1	0.440132	heterozygosis: yes (>2)	279
+590000426	LILRB1	0.440303	heterozygosis: yes (>2)	280
+607502081	LILRB1	0.440962	heterozygosis: yes (1-2)	281
+536212062	LILRB1	0.441063	heterozygosis: unknown	282
+1294003701	LILRB1	0.441208	heterozygosis: yes (1-2)	283
+1072310801	LILRB1	0.441348	heterozygosis: yes (1-2)	284
+673715061	LILRB1	0.441887	heterozygosis: yes (1-2)	285
+1159519001	LILRB1	0.442125	heterozygosis: unknown	286
+257801021	LILRB1	0.442140	heterozygosis: yes (1-2)	287
+694209052	LILRB1	0.442167	heterozygosis: unknown	288
+148213091	LILRB1	0.442538	heterozygosis: unknown	289
+358106042	LILRB1	0.442622	heterozygosis: yes (1-2)	290
+566106091	LILRB1	0.442667	heterozygosis: yes (1-2)	291
+1255325901	LILRB1	0.442736	heterozygosis: unknown	292
+227708102	LILRB1	0.442802	heterozygosis: unknown	293
+506417051	LILRB1	0.442900	heterozygosis: unknown	294
+1279606101	LILRB1	0.443040	heterozygosis: unknown	295
+853216071	LILRB1	0.443502	heterozygosis: yes (1-2)	296
+680000556	LILRB1	0.443567	heterozygosis: yes (>2)	297
+203323011	LILRB1	0.443786	heterozygosis: yes (1-2)	298
+329202012	LILRB1	0.444029	heterozygosis: unknown	299
+874000021	LILRB1	0.444174	heterozygosis: unknown	300
+1284314601	LILRB1	0.444206	heterozygosis: unknown	301
+1202536101	LILRB1	0.444237	heterozygosis: yes (>2)	302
+507933012	LILRB1	0.444309	heterozygosis: yes (1-2)	303
+1330617501	LILRB1	0.444339	heterozygosis: yes (1-2)	304
+210800014	LILRB1	0.444487	heterozygosis: yes (1-2)	305
+1194402801	LILRB1	0.444553	heterozygosis: yes (1-2)	306
+640417051	LILRB1	0.444661	heterozygosis: unknown	307
+210800108	LILRB1	0.444774	heterozygosis: yes (1-2)	308
+243607091	LILRB1	0.444826	heterozygosis: unknown	309
+540230101	LILRB1	0.445099	heterozygosis: yes (1-2)	310
+210800047	LILRB1	0.445220	heterozygosis: yes (1-2)	311
+1205554501	LILRB1	0.445526	heterozygosis: yes (1-2)	312
+36041011	LILRB1	0.445652	heterozygosis: yes (1-2)	313
+284626051	LILRB1	0.445718	heterozygosis: yes (>2)	314
+1300308501	LILRB1	0.445937	heterozygosis: yes (1-2)	315
+210809000	LILRB1	0.445997	heterozygosis: unknown	316
+1015611101	LILRB1	0.446047	heterozygosis: yes (1-2)	317
+211322012	LILRB1	0.446144	heterozygosis: yes (>2)	318
+266102011	LILRB1	0.446423	heterozygosis: yes (1-2)	319
+210800034	LILRB1	0.446746	heterozygosis: yes (>2)	320
+811225081	LILRB1	0.446787	heterozygosis: unknown	321
+474730041	LILRB1	0.446854	heterozygosis: unknown	322
+838001021	LILRB1	0.447149	heterozygosis: yes (1-2)	323
+1035816701	LILRB1	0.447407	heterozygosis: unknown	324
+697206072	LILRB1	0.447495	heterozygosis: unknown	325
+1209209301	LILRB1	0.447515	heterozygosis: unknown	326
+1197502501	LILRB1	0.447644	heterozygosis: yes (1-2)	327
+696206071	LILRB1	0.447660	heterozygosis: unknown	328
+814903031	LILRB1	0.447679	heterozygosis: unknown	329
+643417011	LILRB1	0.447690	heterozygosis: unknown	330
+568112011	LILRB1	0.448078	heterozygosis: unknown	331
+145709101	LILRB1	0.448086	heterozygosis: unknown	332
+278900185	LILRB1	0.448102	heterozygosis: unknown	333
+516622071	LILRB1	0.448104	heterozygosis: yes (1-2)	334
+624500287	LILRB1	0.448409	heterozygosis: unknown	335
+1297013901	LILRB1	0.448687	heterozygosis: yes (1-2)	336
+210800139	LILRB1	0.448712	heterozygosis: yes (>2)	337
+1306837101	LILRB1	0.448896	heterozygosis: yes (>2)	338
+210800055	LILRB1	0.449082	heterozygosis: unknown	339
+38046011	LILRB1	0.449832	heterozygosis: unknown	340
+210800138	LILRB1	0.449835	heterozygosis: yes (1-2)	341
+232503031	LILRB1	0.449942	heterozygosis: unknown	342
+51103051	LILRB1	0.450047	heterozygosis: unknown	343
+374100071	LILRB1	0.450466	heterozygosis: yes (1-2)	344
+194211031	LILRB1	0.450538	heterozygosis: yes (1-2)	345
+645401031	LILRB1	0.450599	heterozygosis: unknown	346
+300100061	LILRB1	0.450680	heterozygosis: yes (1-2)	347
+451303101	LILRB1	0.450784	heterozygosis: yes (1-2)	348
+64404101	LILRB1	0.451093	heterozygosis: unknown	349
+1141109101	LILRB1	0.451110	heterozygosis: yes (1-2)	350
+890110091	LILRB1	0.451371	heterozygosis: unknown	351
+1137118901	LILRB1	0.451426	heterozygosis: unknown	352
+159210011	LILRB1	0.451691	heterozygosis: unknown	353
+205300083	LILRB1	0.451742	heterozygosis: yes (1-2)	354
+218208091	LILRB1	0.451838	heterozygosis: unknown	355
+492910021	LILRB1	0.451935	heterozygosis: yes (1-2)	356
+633312061	LILRB1	0.452015	heterozygosis: yes (>2)	357
+1154200401	LILRB1	0.452022	heterozygosis: unknown	358
+891400031	LILRB1	0.452093	heterozygosis: unknown	359
+570122061	LILRB1	0.452174	heterozygosis: unknown	360
+577000032	LILRB1	0.452223	heterozygosis: unknown	361
+212716041	LILRB1	0.452299	heterozygosis: unknown	362
+210800089	LILRB1	0.452584	heterozygosis: unknown	363
+210800105	LILRB1	0.452610	heterozygosis: yes (1-2)	364
+406000435	LILRB1	0.452784	heterozygosis: unknown	365
+397725012	LILRB1	0.452927	heterozygosis: yes (1-2)	366
+262805052	LILRB1	0.453080	heterozygosis: unknown	367
+525900031	LILRB1	0.453138	heterozygosis: unknown	368
+288920032	LILRB1	0.453172	heterozygosis: unknown	369
+210800037	LILRB1	0.453287	heterozygosis: yes (1-2)	370
+620523031	LILRB1	0.453598	heterozygosis: yes (>2)	371
+630000403	LILRB1	0.453604	heterozygosis: unknown	372
+1166506501	LILRB1	0.453820	heterozygosis: yes (1-2)	373
+1162610301	LILRB1	0.453908	heterozygosis: unknown	374
+1084649101	LILRB1	0.454165	heterozygosis: yes (1-2)	375
+481732011	LILRB1	0.454194	heterozygosis: unknown	376
+366123012	LILRB1	0.454219	heterozygosis: yes (1-2)	377
+571000358	LILRB1	0.454387	heterozygosis: unknown	378
+531900151	LILRB1	0.454409	heterozygosis: yes (1-2)	379
+427046021	LILRB1	0.454416	heterozygosis: unknown	380
+1041302101	LILRB1	0.454625	heterozygosis: yes (>2)	381
+372100051	LILRB1	0.454744	heterozygosis: unknown	382
+556827101	LILRB1	0.454873	heterozygosis: yes (1-2)	383
+682409091	LILRB1	0.455763	heterozygosis: unknown	384
+210800104	LILRB1	0.455827	heterozygosis: unknown	385
+210800031	LILRB1	0.455840	heterozygosis: yes (1-2)	386
+87428053	LILRB1	0.456104	heterozygosis: yes (1-2)	387
+1163613101	LILRB1	0.456390	heterozygosis: yes (>2)	388
+1036806701	LILRB1	0.456430	heterozygosis: yes (1-2)	389
+1055016301	LILRB1	0.456609	heterozygosis: unknown	390
+587011051	LILRB1	0.456653	heterozygosis: yes (1-2)	391
+1296010301	LILRB1	0.456680	heterozygosis: yes (1-2)	392
+350817072	LILRB1	0.456986	heterozygosis: yes (1-2)	393
+618502071	LILRB1	0.457102	heterozygosis: unknown	394
+267102051	LILRB1	0.457158	heterozygosis: yes (>2)	395
+210800021	LILRB1	0.457640	heterozygosis: unknown	396
+317300161	LILRB1	0.457840	heterozygosis: unknown	397
+390400091	LILRB1	0.457929	heterozygosis: yes (1-2)	398
+276110121	LILRB1	0.458008	heterozygosis: yes (1-2)	399
+1034803101	LILRB1	0.458039	heterozygosis: yes (1-2)	400
+842112081	LILRB1	0.458059	heterozygosis: yes (1-2)	401
+1148415501	LILRB1	0.458161	heterozygosis: yes (1-2)	402
+835930011	LILRB1	0.458357	heterozygosis: unknown	403
+21309053	LILRB1	0.458579	heterozygosis: unknown	404
+1181107101	LILRB1	0.458814	heterozygosis: unknown	405
+1175511701	LILRB1	0.458856	heterozygosis: unknown	406
+134901092	LILRB1	0.458863	heterozygosis: yes (1-2)	407
+1075415202	LILRB1	0.459022	heterozygosis: yes (1-2)	408
+152206101	LILRB1	0.459120	heterozygosis: unknown	409
+392400061	LILRB1	0.459236	heterozygosis: yes (1-2)	410
+580000088	LILRB1	0.459305	heterozygosis: unknown	411
+351944071	LILRB1	0.459413	heterozygosis: unknown	412
+498929061	LILRB1	0.459517	heterozygosis: yes (1-2)	413
+591920071	LILRB1	0.459682	heterozygosis: unknown	414
+573100301	LILRB1	0.459802	heterozygosis: unknown	415
+202320082	LILRB1	0.460138	heterozygosis: yes (1-2)	416
+210800095	LILRB1	0.460244	heterozygosis: yes (1-2)	417
+561815021	LILRB1	0.460265	heterozygosis: unknown	418
+656901101	LILRB1	0.460275	heterozygosis: unknown	419
+576000031	LILRB1	0.460294	heterozygosis: yes (1-2)	420
+1191526001	LILRB1	0.460321	heterozygosis: yes (>2)	421
+1329603702	LILRB1	0.460447	heterozygosis: unknown	422
+247327031	LILRB1	0.460626	heterozygosis: yes (1-2)	423
+63929012	LILRB1	0.460817	heterozygosis: unknown	424
+1086675791	LILRB1	0.461170	heterozygosis: yes (1-2)	425
+151228102	LILRB1	0.461350	heterozygosis: yes (1-2)	426
+886000538	LILRB1	0.461409	heterozygosis: yes (1-2)	427
+589000356	LILRB1	0.461411	heterozygosis: unknown	428
+512510011	LILRB1	0.461648	heterozygosis: unknown	429
+1267601501	LILRB1	0.461716	heterozygosis: unknown	430
+174003031	LILRB1	0.461743	heterozygosis: unknown	431
+191735081	LILRB1	0.461806	heterozygosis: unknown	432
+1117525001	LILRB1	0.462187	heterozygosis: unknown	433
+1008216701	LILRB1	0.462250	heterozygosis: unknown	434
+1281608201	LILRB1	0.462279	heterozygosis: unknown	435
+578323051	LILRB1	0.462300	heterozygosis: unknown	436
+1169524101	LILRB1	0.462463	heterozygosis: yes (1-2)	437
+253900058	LILRB1	0.462532	heterozygosis: unknown	438
+234435042	LILRB1	0.462548	heterozygosis: yes (>2)	439
+408000441	LILRB1	0.462815	heterozygosis: unknown	440
+447303052	LILRB1	0.462997	heterozygosis: unknown	441
+518624081	LILRB1	0.463023	heterozygosis: unknown	442
+852220051	LILRB1	0.463213	heterozygosis: yes (1-2)	443
+15843041	LILRB1	0.463425	heterozygosis: unknown	444
+594913051	LILRB1	0.463598	heterozygosis: yes (>2)	445
+883701052	LILRB1	0.463614	heterozygosis: yes (>2)	446
+558809011	LILRB1	0.463716	heterozygosis: yes (1-2)	447
+541230102	LILRB1	0.463847	heterozygosis: unknown	448
+441206011	LILRB1	0.464014	heterozygosis: yes (1-2)	449
+242605081	LILRB1	0.464196	heterozygosis: unknown	450
+880808061	LILRB1	0.464231	heterozygosis: unknown	451
+1250226501	LILRB1	0.464315	heterozygosis: yes (1-2)	452
+421218041	LILRB1	0.464564	heterozygosis: unknown	453
+635323081	LILRB1	0.464671	heterozygosis: unknown	454
+402000439	LILRB1	0.464810	heterozygosis: yes (1-2)	455
+213720091	LILRB1	0.464928	heterozygosis: yes (1-2)	456
+1314207601	LILRB1	0.465051	heterozygosis: unknown	457
+181806072	LILRB1	0.465257	heterozygosis: unknown	458
+263805061	LILRB1	0.465325	heterozygosis: unknown	459
+1047326101	LILRB1	0.465346	heterozygosis: unknown	460
+1216606101	LILRB1	0.465357	heterozygosis: yes (>2)	461
+210800057	LILRB1	0.465440	heterozygosis: unknown	462
+583016011	LILRB1	0.465579	heterozygosis: unknown	463
+299100051	LILRB1	0.465599	heterozygosis: yes (1-2)	464
+210800048	LILRB1	0.465701	heterozygosis: yes (1-2)	465
+123313091	LILRB1	0.465836	heterozygosis: yes (1-2)	466
+1029307901	LILRB1	0.465890	heterozygosis: yes (1-2)	467
+1076406101	LILRB1	0.466123	heterozygosis: unknown	468
+165919051	LILRB1	0.466401	heterozygosis: yes (>2)	469
+1292014101	LILRB1	0.466451	heterozygosis: unknown	470
+240601021	LILRB1	0.466544	heterozygosis: unknown	471
+54409051	LILRB1	0.466595	heterozygosis: yes (1-2)	472
+466000377	LILRB1	0.466920	heterozygosis: unknown	473
+1220801701	LILRB1	0.466954	heterozygosis: unknown	474
+210800056	LILRB1	0.467149	heterozygosis: unknown	475
+1089637701	LILRB1	0.467685	heterozygosis: yes (1-2)	476
+662000476	LILRB1	0.467742	heterozygosis: unknown	477
+873115091	LILRB1	0.468049	heterozygosis: yes (>2)	478
+847939062	LILRB1	0.468156	heterozygosis: unknown	479
+458904031	LILRB1	0.468168	heterozygosis: yes (>2)	480
+1102304001	LILRB1	0.468217	heterozygosis: unknown	481
+236414032	LILRB1	0.468429	heterozygosis: yes (1-2)	482
+1081411201	LILRB1	0.468441	heterozygosis: unknown	483
+876806031	LILRB1	0.468549	heterozygosis: unknown	484
+818918011	LILRB1	0.468611	heterozygosis: unknown	485
+548000496	LILRB1	0.468693	heterozygosis: yes (1-2)	486
+155224111	LILRB1	0.468801	heterozygosis: unknown	487
+136923081	LILRB1	0.468831	heterozygosis: unknown	488
+1106309302	LILRB1	0.468949	heterozygosis: yes (1-2)	489
+251226081	LILRB1	0.469131	heterozygosis: yes (1-2)	490
+1280605801	LILRB1	0.469187	heterozygosis: yes (1-2)	491
+1122217501	LILRB1	0.469852	heterozygosis: unknown	492
+1263534501	LILRB1	0.469936	heterozygosis: yes (1-2)	493
+52103052	LILRB1	0.469945	heterozygosis: yes (1-2)	494
+646405061	LILRB1	0.470240	heterozygosis: yes (>2)	495
+228901052	LILRB1	0.470369	heterozygosis: yes (1-2)	496
+1315510301	LILRB1	0.470457	heterozygosis: yes (1-2)	497
+272106071	LILRB1	0.470561	heterozygosis: yes (1-2)	498
+504900367	LILRB1	0.470804	heterozygosis: yes (1-2)	499
+674703041	LILRB1	0.470812	heterozygosis: unknown	500
+1044307701	LILRB1	0.471027	heterozygosis: yes (1-2)	501
+115700198	LILRB1	0.471139	heterozygosis: yes (1-2)	502
+208320012	LILRB1	0.471362	heterozygosis: yes (>2)	503
+859630011	LILRB1	0.471406	heterozygosis: unknown	504
+231904021	LILRB1	0.471462	heterozygosis: unknown	505
+681000475	LILRB1	0.471473	heterozygosis: unknown	506
+685903011	LILRB1	0.471522	heterozygosis: unknown	507
+861812011	LILRB1	0.471584	heterozygosis: yes (>2)	508
+210800028	LILRB1	0.471657	heterozygosis: unknown	509
+296309042	LILRB1	0.471838	heterozygosis: yes (1-2)	510
+128909102	LILRB1	0.471931	heterozygosis: unknown	511
+403611041	LILRB1	0.471989	heterozygosis: unknown	512
+1019621702	LILRB1	0.472271	heterozygosis: unknown	513
+210800059	LILRB1	0.472391	heterozygosis: unknown	514
+529900111	LILRB1	0.472522	heterozygosis: unknown	515
+824810122	LILRB1	0.472781	heterozygosis: unknown	516
+1011616902	LILRB1	0.473074	heterozygosis: unknown	517
+1017620101	LILRB1	0.473296	heterozygosis: yes (1-2)	518
+68922043	LILRB1	0.473346	heterozygosis: unknown	519
+1095415601	LILRB1	0.473372	heterozygosis: yes (1-2)	520
+210800120	LILRB1	0.473444	heterozygosis: unknown	521
+187914081	LILRB1	0.473465	heterozygosis: yes (>2)	522
+210800063	LILRB1	0.473486	heterozygosis: yes (>2)	523
+248200128	LILRB1	0.473521	heterozygosis: unknown	524
+318933021	LILRB1	0.473534	heterozygosis: yes (1-2)	525
+1119561901	LILRB1	0.473794	heterozygosis: yes (1-2)	526
+1278601602	LILRB1	0.474340	heterozygosis: unknown	527
+121418032	LILRB1	0.474364	heterozygosis: yes (1-2)	528
+1309534301	LILRB1	0.474427	heterozygosis: yes (1-2)	529
+1232510901	LILRB1	0.474492	heterozygosis: unknown	530
+439833011	LILRB1	0.474681	heterozygosis: unknown	531
+538224061	LILRB1	0.474976	heterozygosis: yes (1-2)	532
+352105011	LILRB1	0.475057	heterozygosis: unknown	533
+1272231301	LILRB1	0.475180	heterozygosis: unknown	534
+210800112	LILRB1	0.475460	heterozygosis: yes (>2)	535
+482732051	LILRB1	0.475836	heterozygosis: yes (1-2)	536
+210807000	LILRB1	0.475875	heterozygosis: yes (1-2)	537
+1226835501	LILRB1	0.476005	heterozygosis: unknown	538
+434800024	LILRB1	0.476044	heterozygosis: unknown	539
+210800025	LILRB1	0.476075	heterozygosis: yes (>2)	540
+1195412401	LILRB1	0.476098	heterozygosis: unknown	541
+260803041	LILRB1	0.476130	heterozygosis: yes (>2)	542
+19309051	LILRB1	0.476560	heterozygosis: yes (1-2)	543
+601211052	LILRB1	0.476746	heterozygosis: yes (1-2)	544
+1160534602	LILRB1	0.476988	heterozygosis: yes (1-2)	545
+207701083	LILRB1	0.477098	heterozygosis: yes (1-2)	546
+210800127	LILRB1	0.477232	heterozygosis: unknown	547
+1157101101	LILRB1	0.477299	heterozygosis: unknown	548
+210800022	LILRB1	0.477374	heterozygosis: unknown	549
+426111081	LILRB1	0.477419	heterozygosis: unknown	550
+149213051	LILRB1	0.477454	heterozygosis: yes (1-2)	551
+1335501701	LILRB1	0.477488	heterozygosis: unknown	552
+420213011	LILRB1	0.477526	heterozygosis: unknown	553
+1333214001	LILRB1	0.477718	heterozygosis: yes (>2)	554
+1042404301	LILRB1	0.477806	heterozygosis: unknown	555
+1183605501	LILRB1	0.477833	heterozygosis: yes (1-2)	556
+1071310701	LILRB1	0.477937	heterozygosis: unknown	557
+1025318501	LILRB1	0.478002	heterozygosis: unknown	558
+1093410201	LILRB1	0.478481	heterozygosis: unknown	559
+244604061	LILRB1	0.478500	heterozygosis: yes (1-2)	560
+616501091	LILRB1	0.478545	heterozygosis: yes (>2)	561
+210800126	LILRB1	0.478786	heterozygosis: unknown	562
+623523111	LILRB1	0.478889	heterozygosis: yes (1-2)	563
+204327071	LILRB1	0.478927	heterozygosis: unknown	564
+1115534601	LILRB1	0.479004	heterozygosis: unknown	565
+1147414901	LILRB1	0.479079	heterozygosis: unknown	566
+851230081	LILRB1	0.479130	heterozygosis: unknown	567
+816400231	LILRB1	0.479492	heterozygosis: yes (>2)	568
+1126220301	LILRB1	0.479506	heterozygosis: unknown	569
+1054020501	LILRB1	0.479557	heterozygosis: unknown	570
+256801011	LILRB1	0.479744	heterozygosis: unknown	571
+210800133	LILRB1	0.479978	heterozygosis: yes (1-2)	572
+1107311001	LILRB1	0.479998	heterozygosis: unknown	573
+1155216701	LILRB1	0.480140	heterozygosis: yes (1-2)	574
+664934021	LILRB1	0.480580	heterozygosis: yes (1-2)	575
+1037800501	LILRB1	0.480877	heterozygosis: unknown	576
+617502082	LILRB1	0.480943	heterozygosis: unknown	577
+1336507301	LILRB1	0.481293	heterozygosis: yes (>2)	578
+1012617701	LILRB1	0.481344	heterozygosis: yes (1-2)	579
+210800111	LILRB1	0.481416	heterozygosis: unknown	580
+833922051	LILRB1	0.481631	heterozygosis: unknown	581
+210800071	LILRB1	0.481702	heterozygosis: yes (>2)	582
+515000447	LILRB1	0.481809	heterozygosis: yes (>2)	583
+210800075	LILRB1	0.481811	heterozygosis: yes (>2)	584
+69929081	LILRB1	0.481830	heterozygosis: yes (1-2)	585
+167919062	LILRB1	0.482048	heterozygosis: yes (1-2)	586
+1136309301	LILRB1	0.482097	heterozygosis: yes (1-2)	587
+1129125002	LILRB1	0.482940	heterozygosis: unknown	588
+1285201401	LILRB1	0.482968	heterozygosis: unknown	589
+312300171	LILRB1	0.482972	heterozygosis: yes (>2)	590
+254911101	LILRB1	0.483026	heterozygosis: unknown	591
+184817091	LILRB1	0.483097	heterozygosis: unknown	592
+383007071	LILRB1	0.483482	heterozygosis: yes (1-2)	593
+1172507501	LILRB1	0.483743	heterozygosis: unknown	594
+1208202601	LILRB1	0.483964	heterozygosis: yes (1-2)	595
+882730051	LILRB1	0.483974	heterozygosis: unknown	596
+210800066	LILRB1	0.484153	heterozygosis: unknown	597
+116724051	LILRB1	0.484431	heterozygosis: unknown	598
+1150414501	LILRB1	0.484487	heterozygosis: unknown	599
+401217031	LILRB1	0.484696	heterozygosis: yes (1-2)	600
+1063331501	LILRB1	0.484721	heterozygosis: yes (1-2)	601
+31823101	LILRB1	0.484725	heterozygosis: yes (1-2)	602
+1135327301	LILRB1	0.484726	heterozygosis: yes (1-2)	603
+394400011	LILRB1	0.484868	heterozygosis: yes (1-2)	604
+342309061	LILRB1	0.484959	heterozygosis: yes (1-2)	605
+1242300101	LILRB1	0.485267	heterozygosis: yes (>2)	606
+198305011	LILRB1	0.485465	heterozygosis: yes (1-2)	607
+832901032	LILRB1	0.485583	heterozygosis: yes (1-2)	608
+27319021	LILRB1	0.485751	heterozygosis: yes (1-2)	609
+509607121	LILRB1	0.485815	heterozygosis: unknown	610
+210800065	LILRB1	0.485937	heterozygosis: yes (1-2)	611
+1046324501	LILRB1	0.486038	heterozygosis: yes (1-2)	612
+676719081	LILRB1	0.486046	heterozygosis: yes (1-2)	613
+1253306101	LILRB1	0.486183	heterozygosis: yes (>2)	614
+294309021	LILRB1	0.486327	heterozygosis: unknown	615
+1027328701	LILRB1	0.486364	heterozygosis: yes (>2)	616
+245309062	LILRB1	0.486395	heterozygosis: unknown	617
+210800134	LILRB1	0.486567	heterozygosis: unknown	618
+1301619901	LILRB1	0.486692	heterozygosis: unknown	619
+898106061	LILRB1	0.486801	heterozygosis: unknown	620
+100102082	LILRB1	0.486889	heterozygosis: unknown	621
+8227031	LILRB1	0.486933	heterozygosis: yes (>2)	622
+1050333901	LILRB1	0.487100	heterozygosis: unknown	623
+533802051	LILRB1	0.487286	heterozygosis: unknown	624
+210800101	LILRB1	0.487815	heterozygosis: unknown	625
+295309041	LILRB1	0.487900	heterozygosis: unknown	626
+1064331901	LILRB1	0.488204	heterozygosis: unknown	627
+302100071	LILRB1	0.488251	heterozygosis: yes (1-2)	628
+1087643301	LILRB1	0.488293	heterozygosis: unknown	629
+325710071	LILRB1	0.488582	heterozygosis: yes (1-2)	630
+1099223302	LILRB1	0.488694	heterozygosis: unknown	631
+677226041	LILRB1	0.488720	heterozygosis: unknown	632
+210800032	LILRB1	0.488779	heterozygosis: unknown	633
+470201041	LILRB1	0.488900	heterozygosis: unknown	634
+225204032	LILRB1	0.488951	heterozygosis: yes (1-2)	635
+572122013	LILRB1	0.489093	heterozygosis: yes (1-2)	636
+162910071	LILRB1	0.489275	heterozygosis: unknown	637
+388409011	LILRB1	0.489357	heterozygosis: unknown	638
+210800128	LILRB1	0.489587	heterozygosis: yes (>2)	639
+142707081	LILRB1	0.489669	heterozygosis: unknown	640
+1287202101	LILRB1	0.489710	heterozygosis: unknown	641
+894207061	LILRB1	0.489725	heterozygosis: unknown	642
+246323051	LILRB1	0.489766	heterozygosis: yes (>2)	643
+298100021	LILRB1	0.489779	heterozygosis: unknown	644
+812023062	LILRB1	0.489989	heterozygosis: unknown	645
+1149417901	LILRB1	0.490089	heterozygosis: unknown	646
+306300031	LILRB1	0.490389	heterozygosis: unknown	647
+621523032	LILRB1	0.490448	heterozygosis: unknown	648
+150228101	LILRB1	0.490490	heterozygosis: yes (1-2)	649
+1113557401	LILRB1	0.490541	heterozygosis: yes (>2)	650
+586000089	LILRB1	0.490589	heterozygosis: unknown	651
+686907091	LILRB1	0.490660	heterozygosis: yes (1-2)	652
+11808031	LILRB1	0.491545	heterozygosis: yes (>2)	653
+584016071	LILRB1	0.491613	heterozygosis: yes (1-2)	654
+297100011	LILRB1	0.491984	heterozygosis: yes (1-2)	655
+489404031	LILRB1	0.491999	heterozygosis: unknown	656
+210800079	LILRB1	0.492083	heterozygosis: unknown	657
+186905062	LILRB1	0.492175	heterozygosis: unknown	658
+210800074	LILRB1	0.492395	heterozygosis: unknown	659
+139111041	LILRB1	0.492466	heterozygosis: unknown	660
+893226021	LILRB1	0.492627	heterozygosis: unknown	661
+1104308401	LILRB1	0.492736	heterozygosis: yes (>2)	662
+514708022	LILRB1	0.492865	heterozygosis: yes (1-2)	663
+1128125001	LILRB1	0.493004	heterozygosis: unknown	664
+239601011	LILRB1	0.493108	heterozygosis: unknown	665
+286647051	LILRB1	0.493114	heterozygosis: unknown	666
+210800093	LILRB1	0.493619	heterozygosis: unknown	667
+293900060	LILRB1	0.493630	heterozygosis: unknown	668
+1133814801	LILRB1	0.493692	heterozygosis: unknown	669
+315300121	LILRB1	0.493810	heterozygosis: yes (1-2)	670
+1313411701	LILRB1	0.493941	heterozygosis: yes (1-2)	671
+432800071	LILRB1	0.494056	heterozygosis: yes (1-2)	672
+336908021	LILRB1	0.494275	heterozygosis: yes (1-2)	673
+22309072	LILRB1	0.494376	heterozygosis: yes (>2)	674
+1248403701	LILRB1	0.494392	heterozygosis: yes (>2)	675
+493911021	LILRB1	0.494393	heterozygosis: yes (1-2)	676
+113306062	LILRB1	0.494473	heterozygosis: unknown	677
+1146418701	LILRB1	0.494692	heterozygosis: yes (1-2)	678
+264812071	LILRB1	0.494826	heterozygosis: unknown	679
+122309061	LILRB1	0.495212	heterozygosis: yes (1-2)	680
+1316014101	LILRB1	0.495309	heterozygosis: unknown	681
+815407031	LILRB1	0.495318	heterozygosis: unknown	682
+210800041	LILRB1	0.495890	heterozygosis: unknown	683
+210800084	LILRB1	0.495991	heterozygosis: yes (>2)	684
+28326021	LILRB1	0.496214	heterozygosis: unknown	685
+1002209901	LILRB1	0.496495	heterozygosis: yes (>2)	686
+1038800301	LILRB1	0.496587	heterozygosis: unknown	687
+382019052	LILRB1	0.496680	heterozygosis: yes (1-2)	688
+1004211301	LILRB1	0.496800	heterozygosis: unknown	689
+465300832	LILRB1	0.496906	heterozygosis: yes (1-2)	690
+1118225101	LILRB1	0.496908	heterozygosis: unknown	691
+415601031	LILRB1	0.496940	heterozygosis: unknown	692
+210800053	LILRB1	0.497051	heterozygosis: unknown	693
+210800040	LILRB1	0.497065	heterozygosis: unknown	694
+802123041	LILRB1	0.497311	heterozygosis: yes (>2)	695
+49103041	LILRB1	0.497564	heterozygosis: yes (1-2)	696
+183810061	LILRB1	0.497640	heterozygosis: unknown	697
+147213061	LILRB1	0.497649	heterozygosis: yes (1-2)	698
+649927031	LILRB1	0.498009	heterozygosis: yes (1-2)	699
+1009228901	LILRB1	0.498112	heterozygosis: yes (1-2)	700
+468402011	LILRB1	0.498168	heterozygosis: unknown	701
+404808011	LILRB1	0.498222	heterozygosis: unknown	702
+637323091	LILRB1	0.498293	heterozygosis: yes (1-2)	703
+513111021	LILRB1	0.498362	heterozygosis: yes (>2)	704
+24312081	LILRB1	0.498668	heterozygosis: unknown	705
+1231532101	LILRB1	0.498714	heterozygosis: unknown	706
+210800085	LILRB1	0.498753	heterozygosis: yes (1-2)	707
+210800109	LILRB1	0.498889	heterozygosis: unknown	708
+126322071	LILRB1	0.498982	heterozygosis: yes (1-2)	709
+219208092	LILRB1	0.499025	heterozygosis: yes (1-2)	710
+1269611501	LILRB1	0.499031	heterozygosis: yes (>2)	711
+592911051	LILRB1	0.499214	heterozygosis: yes (>2)	712
+496917101	LILRB1	0.499261	heterozygosis: yes (1-2)	713
+805105101	LILRB1	0.499350	heterozygosis: unknown	714
+1138100101	LILRB1	0.499610	heterozygosis: unknown	715
+377900041	LILRB1	0.499770	heterozygosis: unknown	716
+314300111	LILRB1	0.499851	heterozygosis: yes (1-2)	717
+210800024	LILRB1	0.499885	heterozygosis: unknown	718
+825605071	LILRB1	0.499895	heterozygosis: yes (1-2)	719
+387832102	LILRB1	0.500153	heterozygosis: unknown	720
+84428022	LILRB1	0.500159	heterozygosis: yes (1-2)	721
+678226042	LILRB1	0.500230	heterozygosis: unknown	722
+160230011	LILRB1	0.500431	heterozygosis: unknown	723
+405811051	LILRB1	0.500668	heterozygosis: unknown	724
+189711051	LILRB1	0.500937	heterozygosis: unknown	725
+210800029	LILRB1	0.501146	heterozygosis: unknown	726
+1020330101	LILRB1	0.501336	heterozygosis: unknown	727
+1048328901	LILRB1	0.501534	heterozygosis: yes (1-2)	728
+1218625501	LILRB1	0.501542	heterozygosis: unknown	729
+1005214101	LILRB1	0.501584	heterozygosis: unknown	730
+39111041	LILRB1	0.501789	heterozygosis: unknown	731
+1125533701	LILRB1	0.501875	heterozygosis: unknown	732
+869541071	LILRB1	0.501944	heterozygosis: unknown	733
+209320091	LILRB1	0.502894	heterozygosis: unknown	734
+127923021	LILRB1	0.503024	heterozygosis: unknown	735
+1140104501	LILRB1	0.503028	heterozygosis: unknown	736
+603211092	LILRB1	0.503593	heterozygosis: yes (>2)	737
+140706102	LILRB1	0.503622	heterozygosis: yes (1-2)	738
+1145306902	LILRB1	0.503677	heterozygosis: yes (1-2)	739
+273106111	LILRB1	0.503819	heterozygosis: yes (>2)	740
+433800072	LILRB1	0.504064	heterozygosis: unknown	741
+250214101	LILRB1	0.504276	heterozygosis: yes (1-2)	742
+855227091	LILRB1	0.504491	heterozygosis: yes (1-2)	743
+631000405	LILRB1	0.504583	heterozygosis: unknown	744
+1233501301	LILRB1	0.504792	heterozygosis: yes (1-2)	745
+1103307601	LILRB1	0.505215	heterozygosis: unknown	746
+553815101	LILRB1	0.505355	heterozygosis: yes (1-2)	747
+641427041	LILRB1	0.505363	heterozygosis: yes (1-2)	748
+627513061	LILRB1	0.505378	heterozygosis: yes (1-2)	749
+344305051	LILRB1	0.505683	heterozygosis: unknown	750
+277101021	LILRB1	0.505827	heterozygosis: unknown	751
+1069305601	LILRB1	0.505841	heterozygosis: unknown	752
+1078415001	LILRB1	0.505865	heterozygosis: unknown	753
+146509051	LILRB1	0.506530	heterozygosis: unknown	754
+111306051	LILRB1	0.506581	heterozygosis: unknown	755
+385823082	LILRB1	0.506712	heterozygosis: yes (1-2)	756
+1303610901	LILRB1	0.506806	heterozygosis: unknown	757
+829211061	LILRB1	0.506824	heterozygosis: yes (1-2)	758
+65414101	LILRB1	0.506976	heterozygosis: yes (1-2)	759
+222409102	LILRB1	0.507228	heterozygosis: unknown	760
+848331071	LILRB1	0.507846	heterozygosis: unknown	761
+210322011	LILRB1	0.507946	heterozygosis: unknown	762
+1018621701	LILRB1	0.508063	heterozygosis: yes (>2)	763
+56911052	LILRB1	0.508085	heterozygosis: unknown	764
+1271304902	LILRB1	0.508095	heterozygosis: yes (1-2)	765
+478714091	LILRB1	0.508170	heterozygosis: yes (>2)	766
+1074415201	LILRB1	0.508200	heterozygosis: yes (1-2)	767
+546000429	LILRB1	0.508256	heterozygosis: unknown	768
+1082416301	LILRB1	0.508283	heterozygosis: yes (1-2)	769
+23312012	LILRB1	0.508292	heterozygosis: unknown	770
+1311000301	LILRB1	0.508635	heterozygosis: yes (>2)	771
+66417082	LILRB1	0.509114	heterozygosis: yes (>2)	772
+500933081	LILRB1	0.509142	heterozygosis: unknown	773
+395200244	LILRB1	0.509267	heterozygosis: yes (1-2)	774
+653000468	LILRB1	0.509304	heterozygosis: unknown	775
+661407041	LILRB1	0.509308	heterozygosis: yes (>2)	776
+491905071	LILRB1	0.509582	heterozygosis: unknown	777
+885000534	LILRB1	0.509684	heterozygosis: unknown	778
+274105051	LILRB1	0.510006	heterozygosis: unknown	779
+210800011	LILRB1	0.510067	heterozygosis: unknown	780
+422211031	LILRB1	0.510291	heterozygosis: yes (1-2)	781
+692420091	LILRB1	0.510305	heterozygosis: unknown	782
+210800013	LILRB1	0.510543	heterozygosis: unknown	783
+380013012	LILRB1	0.510573	heterozygosis: unknown	784
+117731031	LILRB1	0.510718	heterozygosis: yes (1-2)	785
+502903022	LILRB1	0.510973	heterozygosis: unknown	786
+210800107	LILRB1	0.511136	heterozygosis: yes (1-2)	787
+495919111	LILRB1	0.511189	heterozygosis: unknown	788
+210800082	LILRB1	0.511263	heterozygosis: yes (1-2)	789
+830203042	LILRB1	0.511443	heterozygosis: yes (1-2)	790
+1024311301	LILRB1	0.511453	heterozygosis: unknown	791
+164919041	LILRB1	0.511768	heterozygosis: yes (1-2)	792
+839007051	LILRB1	0.512181	heterozygosis: yes (1-2)	793
+562815032	LILRB1	0.512957	heterozygosis: unknown	794
+138106041	LILRB1	0.513172	heterozygosis: unknown	795
+1114222501	LILRB1	0.513292	heterozygosis: yes (1-2)	796
+672208061	LILRB1	0.513632	heterozygosis: unknown	797
+197226051	LILRB1	0.513871	heterozygosis: unknown	798
+210800142	LILRB1	0.513888	heterozygosis: unknown	799
+679226032	LILRB1	0.513890	heterozygosis: yes (1-2)	800
+864914071	LILRB1	0.513899	heterozygosis: unknown	801
+282916071	LILRB1	0.513971	heterozygosis: unknown	802
+431106051	LILRB1	0.514037	heterozygosis: unknown	803
+1040822501	LILRB1	0.514231	heterozygosis: unknown	804
+860809022	LILRB1	0.514462	heterozygosis: yes (>2)	805
+464151061	LILRB1	0.514595	heterozygosis: yes (1-2)	806
+1016611301	LILRB1	0.514818	heterozygosis: unknown	807
+210800122	LILRB1	0.514868	heterozygosis: unknown	808
+412617011	LILRB1	0.515002	heterozygosis: yes (1-2)	809
+124313101	LILRB1	0.515022	heterozygosis: unknown	810
+1344203301	LILRB1	0.515024	heterozygosis: yes (1-2)	811
+1283622602	LILRB1	0.515090	heterozygosis: yes (1-2)	812
+554824101	LILRB1	0.515256	heterozygosis: unknown	813
+1068305301	LILRB1	0.515331	heterozygosis: unknown	814
+875000031	LILRB1	0.515698	heterozygosis: yes (1-2)	815
+210800030	LILRB1	0.515781	heterozygosis: unknown	816
+827607111	LILRB1	0.515827	heterozygosis: yes (1-2)	817
+399725052	LILRB1	0.515929	heterozygosis: unknown	818
+1023311101	LILRB1	0.516140	heterozygosis: unknown	819
+58908011	LILRB1	0.516401	heterozygosis: unknown	820
+1215630501	LILRB1	0.516425	heterozygosis: yes (1-2)	821
+1328603701	LILRB1	0.516507	heterozygosis: unknown	822
+60933051	LILRB1	0.516550	heterozygosis: yes (1-2)	823
+628000409	LILRB1	0.516634	heterozygosis: unknown	824
+535200028	LILRB1	0.516753	heterozygosis: unknown	825
+1185611601	LILRB1	0.516829	heterozygosis: unknown	826
+334615011	LILRB1	0.516899	heterozygosis: yes (1-2)	827
+1265619701	LILRB1	0.516927	heterozygosis: unknown	828
+639417062	LILRB1	0.517136	heterozygosis: unknown	829
+384010051	LILRB1	0.517424	heterozygosis: yes (1-2)	830
+1065307801	LILRB1	0.517499	heterozygosis: unknown	831
+1299323301	LILRB1	0.517509	heterozygosis: unknown	832
+1219602701	LILRB1	0.517756	heterozygosis: yes (1-2)	833
+261805051	LILRB1	0.517862	heterozygosis: unknown	834
+801213101	LILRB1	0.517881	heterozygosis: unknown	835
+1070309701	LILRB1	0.517948	heterozygosis: yes (>2)	836
+1319604602	LILRB1	0.518006	heterozygosis: unknown	837
+46518081	LILRB1	0.518034	heterozygosis: unknown	838
+1326613901	LILRB1	0.518069	heterozygosis: yes (1-2)	839
+1200535701	LILRB1	0.518254	heterozygosis: unknown	840
+872400021	LILRB1	0.518340	heterozygosis: yes (>2)	841
+605228011	LILRB1	0.518540	heterozygosis: yes (1-2)	842
+210800015	LILRB1	0.518619	heterozygosis: yes (1-2)	843
+1116208702	LILRB1	0.518683	heterozygosis: unknown	844
+210800110	LILRB1	0.518816	heterozygosis: unknown	845
+593918082	LILRB1	0.518919	heterozygosis: unknown	846
+1196421401	LILRB1	0.518989	heterozygosis: unknown	847
+210800050	LILRB1	0.519262	heterozygosis: unknown	848
+210800042	LILRB1	0.519397	heterozygosis: yes (1-2)	849
+1275529101	LILRB1	0.519447	heterozygosis: unknown	850
+1045318901	LILRB1	0.519866	heterozygosis: yes (1-2)	851
+479725051	LILRB1	0.519980	heterozygosis: unknown	852
+527900101	LILRB1	0.520042	heterozygosis: yes (>2)	853
+1083645101	LILRB1	0.520390	heterozygosis: yes (>2)	854
+1188124701	LILRB1	0.520410	heterozygosis: yes (1-2)	855
+375100081	LILRB1	0.520500	heterozygosis: unknown	856
+182806101	LILRB1	0.520607	heterozygosis: yes (1-2)	857
+1249232701	LILRB1	0.520715	heterozygosis: unknown	858
+850206101	LILRB1	0.521514	heterozygosis: yes (1-2)	859
+290907011	LILRB1	0.521575	heterozygosis: yes (1-2)	860
+543236031	LILRB1	0.522072	heterozygosis: yes (1-2)	861
+840007041	LILRB1	0.522134	heterozygosis: yes (1-2)	862
+313300141	LILRB1	0.522252	heterozygosis: yes (1-2)	863
+526900011	LILRB1	0.522385	heterozygosis: yes (1-2)	864
+101106071	LILRB1	0.522563	heterozygosis: yes (>2)	865
+398725051	LILRB1	0.522629	heterozygosis: unknown	866
+132936052	LILRB1	0.522828	heterozygosis: yes (>2)	867
+210800135	LILRB1	0.522859	heterozygosis: unknown	868
+88220081	LILRB1	0.522937	heterozygosis: yes (1-2)	869
+1312401501	LILRB1	0.522995	heterozygosis: yes (1-2)	870
+157610031	LILRB1	0.523067	heterozygosis: yes (>2)	871
+1286518101	LILRB1	0.523078	heterozygosis: yes (1-2)	872
+1097223901	LILRB1	0.523203	heterozygosis: unknown	873
+32833091	LILRB1	0.523208	heterozygosis: yes (>2)	874
+582011101	LILRB1	0.523415	heterozygosis: yes (1-2)	875
+642705082	LILRB1	0.523618	heterozygosis: unknown	876
+429046101	LILRB1	0.523918	heterozygosis: unknown	877
+359106051	LILRB1	0.523928	heterozygosis: unknown	878
+613206052	LILRB1	0.523972	heterozygosis: unknown	879
+361100250	LILRB1	0.524474	heterozygosis: yes (>2)	880
+1322616701	LILRB1	0.524532	heterozygosis: unknown	881
+667934102	LILRB1	0.524618	heterozygosis: yes (1-2)	882
+67903011	LILRB1	0.524700	heterozygosis: yes (>2)	883
+1262524101	LILRB1	0.525332	heterozygosis: unknown	884
+235414031	LILRB1	0.525478	heterozygosis: yes (1-2)	885
+581020052	LILRB1	0.525707	heterozygosis: unknown	886
+854200282	LILRB1	0.525857	heterozygosis: unknown	887
+1039801301	LILRB1	0.526165	heterozygosis: unknown	888
+292903042	LILRB1	0.526205	heterozygosis: unknown	889
+475700124	LILRB1	0.526278	heterozygosis: unknown	890
+800207091	LILRB1	0.526346	heterozygosis: unknown	891
+210800017	LILRB1	0.526379	heterozygosis: unknown	892
+1213208101	LILRB1	0.527065	heterozygosis: unknown	893
+1288305901	LILRB1	0.527138	heterozygosis: yes (1-2)	894
+210800051	LILRB1	0.527228	heterozygosis: yes (>2)	895
+858000540	LILRB1	0.527917	heterozygosis: unknown	896
+210800116	LILRB1	0.528366	heterozygosis: unknown	897
+476703051	LILRB1	0.528385	heterozygosis: yes (1-2)	898
+520701041	LILRB1	0.528387	heterozygosis: yes (>2)	899
+311300012	LILRB1	0.529009	heterozygosis: yes (1-2)	900
+658402011	LILRB1	0.529141	heterozygosis: unknown	901
+210800088	LILRB1	0.529281	heterozygosis: yes (1-2)	902
+856103091	LILRB1	0.529627	heterozygosis: yes (>2)	903
+268101011	LILRB1	0.529661	heterozygosis: yes (1-2)	904
+817922021	LILRB1	0.529784	heterozygosis: yes (1-2)	905
+862900051	LILRB1	0.529791	heterozygosis: yes (1-2)	906
+275108081	LILRB1	0.530617	heterozygosis: unknown	907
+1230536501	LILRB1	0.530895	heterozygosis: yes (1-2)	908
+688929011	LILRB1	0.531301	heterozygosis: yes (1-2)	909
+270103041	LILRB1	0.531775	heterozygosis: unknown	910
+210800130	LILRB1	0.531905	heterozygosis: yes (1-2)	911
+588314051	LILRB1	0.532018	heterozygosis: unknown	912
+567100315	LILRB1	0.532285	heterozygosis: unknown	913
+47518082	LILRB1	0.532465	heterozygosis: yes (1-2)	914
+185706052	LILRB1	0.532701	heterozygosis: unknown	915
+178718051	LILRB1	0.533114	heterozygosis: yes (1-2)	916
+1174511301	LILRB1	0.533339	heterozygosis: yes (>2)	917
+698300155	LILRB1	0.533365	heterozygosis: yes (>2)	918
+107301101	LILRB1	0.533499	heterozygosis: yes (1-2)	919
+179800101	LILRB1	0.533662	heterozygosis: unknown	920
+341309071	LILRB1	0.533933	heterozygosis: yes (>2)	921
+210800023	LILRB1	0.534107	heterozygosis: yes (1-2)	922
+1000206901	LILRB1	0.534108	heterozygosis: yes (>2)	923
+1228816501	LILRB1	0.534237	heterozygosis: unknown	924
+534200027	LILRB1	0.534650	heterozygosis: unknown	925
+210800129	LILRB1	0.534703	heterozygosis: yes (1-2)	926
+210800020	LILRB1	0.534933	heterozygosis: unknown	927
+1030315301	LILRB1	0.535043	heterozygosis: unknown	928
+154224081	LILRB1	0.535080	heterozygosis: yes (1-2)	929
+210800067	LILRB1	0.535165	heterozygosis: unknown	930
+285626052	LILRB1	0.535538	heterozygosis: yes (1-2)	931
+1236209301	LILRB1	0.535683	heterozygosis: unknown	932
+233435041	LILRB1	0.536061	heterozygosis: unknown	933
+50103042	LILRB1	0.536063	heterozygosis: yes (1-2)	934
+1210206401	LILRB1	0.536135	heterozygosis: yes (1-2)	935
+555824102	LILRB1	0.536185	heterozygosis: unknown	936
+158718101	LILRB1	0.536323	heterozygosis: yes (>2)	937
+1144306901	LILRB1	0.537032	heterozygosis: unknown	938
+1321617901	LILRB1	0.537247	heterozygosis: yes (1-2)	939
+557844101	LILRB1	0.537402	heterozygosis: unknown	940
+1094410202	LILRB1	0.537403	heterozygosis: yes (>2)	941
+1198546501	LILRB1	0.538023	heterozygosis: yes (1-2)	942
+597200217	LILRB1	0.538365	heterozygosis: unknown	943
+86428052	LILRB1	0.538446	heterozygosis: unknown	944
+114306102	LILRB1	0.538806	heterozygosis: unknown	945
+1134304501	LILRB1	0.538850	heterozygosis: unknown	946
+345801011	LILRB1	0.539080	heterozygosis: unknown	947
+217211042	LILRB1	0.539157	heterozygosis: unknown	948
+118410051	LILRB1	0.539405	heterozygosis: unknown	949
+210800036	LILRB1	0.539430	heterozygosis: unknown	950
+1177609101	LILRB1	0.539476	heterozygosis: yes (1-2)	951
+1254306102	LILRB1	0.539854	heterozygosis: unknown	952
+210800123	LILRB1	0.540254	heterozygosis: unknown	953
+393400101	LILRB1	0.540398	heterozygosis: unknown	954
+337005011	LILRB1	0.540763	heterozygosis: unknown	955
+1227828901	LILRB1	0.541229	heterozygosis: unknown	956
+1028328901	LILRB1	0.541314	heterozygosis: yes (>2)	957
+378900081	LILRB1	0.541466	heterozygosis: yes (1-2)	958
+1229509801	LILRB1	0.542538	heterozygosis: unknown	959
+1179619501	LILRB1	0.542928	heterozygosis: yes (1-2)	960
+675000350	LILRB1	0.542987	heterozygosis: yes (1-2)	961
+660407051	LILRB1	0.543116	heterozygosis: yes (>2)	962
+606224012	LILRB1	0.543278	heterozygosis: unknown	963
+1111319301	LILRB1	0.543752	heterozygosis: unknown	964
+379007151	LILRB1	0.543997	heterozygosis: unknown	965
+1247403701	LILRB1	0.544065	heterozygosis: unknown	966
+487428061	LILRB1	0.544332	heterozygosis: yes (>2)	967
+210800077	LILRB1	0.544339	heterozygosis: yes (1-2)	968
+45513012	LILRB1	0.544479	heterozygosis: yes (1-2)	969
+1310570901	LILRB1	0.544542	heterozygosis: yes (1-2)	970
+551800070	LILRB1	0.544786	heterozygosis: unknown	971
+210800027	LILRB1	0.544922	heterozygosis: yes (1-2)	972
+180806071	LILRB1	0.545244	heterozygosis: unknown	973
+193200178	LILRB1	0.545375	heterozygosis: yes (1-2)	974
+310300011	LILRB1	0.545636	heterozygosis: unknown	975
+210800054	LILRB1	0.545685	heterozygosis: yes (1-2)	976
+449720041	LILRB1	0.545984	heterozygosis: unknown	977
+1007215301	LILRB1	0.545991	heterozygosis: unknown	978
+331201042	LILRB1	0.546142	heterozygosis: unknown	979
+320712091	LILRB1	0.546474	heterozygosis: yes (>2)	980
+622523092	LILRB1	0.546763	heterozygosis: unknown	981
+522715031	LILRB1	0.546966	heterozygosis: yes (>2)	982
+161230101	LILRB1	0.547247	heterozygosis: unknown	983
+210800073	LILRB1	0.547373	heterozygosis: yes (>2)	984
+190731091	LILRB1	0.547484	heterozygosis: yes (1-2)	985
+1343317022	LILRB1	0.547486	heterozygosis: unknown	986
+866604021	LILRB1	0.547497	heterozygosis: yes (1-2)	987
+89220082	LILRB1	0.547720	heterozygosis: yes (1-2)	988
+1342817101	LILRB1	0.548668	heterozygosis: yes (>2)	989
+483732031	LILRB1	0.548809	heterozygosis: yes (1-2)	990
+391400051	LILRB1	0.549731	heterozygosis: yes (1-2)	991
+1176601101	LILRB1	0.549928	heterozygosis: yes (1-2)	992
+125318061	LILRB1	0.550118	heterozygosis: yes (>2)	993
+210800114	LILRB1	0.550406	heterozygosis: yes (1-2)	994
+109303083	LILRB1	0.550539	heterozygosis: yes (>2)	995
+644417012	LILRB1	0.550686	heterozygosis: unknown	996
+322703021	LILRB1	0.550854	heterozygosis: yes (1-2)	997
+81418052	LILRB1	0.551203	heterozygosis: yes (1-2)	998
+1131137001	LILRB1	0.551487	heterozygosis: unknown	999
+870400071	LILRB1	0.551692	heterozygosis: unknown	1000
+651923072	LILRB1	0.552589	heterozygosis: yes (1-2)	1001
+550800017	LILRB1	0.552852	heterozygosis: unknown	1002
+57914021	LILRB1	0.553064	heterozygosis: yes (>2)	1003
+353105031	LILRB1	0.553367	heterozygosis: yes (1-2)	1004
+1032827101	LILRB1	0.553735	heterozygosis: yes (>2)	1005
+269102031	LILRB1	0.553832	heterozygosis: yes (1-2)	1006
+133918061	LILRB1	0.554200	heterozygosis: yes (1-2)	1007
+1295009501	LILRB1	0.554442	heterozygosis: yes (1-2)	1008
+471201042	LILRB1	0.554455	heterozygosis: unknown	1009
+614202101	LILRB1	0.554458	heterozygosis: unknown	1010
+210808000	LILRB1	0.555611	heterozygosis: unknown	1011
+1110318701	LILRB1	0.555731	heterozygosis: yes (1-2)	1012
+201320081	LILRB1	0.556539	heterozygosis: yes (>2)	1013
+610503102	LILRB1	0.557010	heterozygosis: yes (>2)	1014
+1251233701	LILRB1	0.557037	heterozygosis: yes (1-2)	1015
+1080414201	LILRB1	0.557296	heterozygosis: unknown	1016
+897109041	LILRB1	0.557443	heterozygosis: yes (1-2)	1017
+1324616101	LILRB1	0.559677	heterozygosis: unknown	1018
+102116021	LILRB1	0.559685	heterozygosis: yes (>2)	1019
+424320092	LILRB1	0.559719	heterozygosis: yes (>2)	1020
+1245314301	LILRB1	0.560318	heterozygosis: yes (1-2)	1021
+461911071	LILRB1	0.561389	heterozygosis: yes (1-2)	1022
+609503101	LILRB1	0.561407	heterozygosis: unknown	1023
+1305612401	LILRB1	0.561659	heterozygosis: unknown	1024
+1171507301	LILRB1	0.561664	heterozygosis: yes (1-2)	1025
+61929041	LILRB1	0.562420	heterozygosis: yes (1-2)	1026
+1341317021	LILRB1	0.562586	heterozygosis: unknown	1027
+396725011	LILRB1	0.562610	heterozygosis: unknown	1028
+1241322501	LILRB1	0.564094	heterozygosis: yes (>2)	1029
+1151210901	LILRB1	0.564119	heterozygosis: unknown	1030
+690901071	LILRB1	0.564235	heterozygosis: yes (1-2)	1031
+371100011	LILRB1	0.564441	heterozygosis: yes (1-2)	1032
+1010616901	LILRB1	0.565188	heterozygosis: yes (1-2)	1033
+544000385	LILRB1	0.565234	heterozygosis: unknown	1034
+85428051	LILRB1	0.565257	heterozygosis: yes (1-2)	1035
+237218082	LILRB1	0.565599	heterozygosis: yes (1-2)	1036
+1334717501	LILRB1	0.565612	heterozygosis: unknown	1037
+210800106	LILRB1	0.565617	heterozygosis: unknown	1038
+1222818901	LILRB1	0.565887	heterozygosis: yes (1-2)	1039
+1167510101	LILRB1	0.565974	heterozygosis: yes (1-2)	1040
+210800045	LILRB1	0.566024	heterozygosis: yes (1-2)	1041
+663921051	LILRB1	0.567267	heterozygosis: unknown	1042
+1217612301	LILRB1	0.567594	heterozygosis: unknown	1043
+1156206501	LILRB1	0.567798	heterozygosis: yes (1-2)	1044
+1066300601	LILRB1	0.567945	heterozygosis: unknown	1045
+857103081	LILRB1	0.568653	heterozygosis: unknown	1046
+887000453	LILRB1	0.568794	heterozygosis: unknown	1047
+1277601601	LILRB1	0.568982	heterozygosis: unknown	1048
+1051007301	LILRB1	0.569712	heterozygosis: yes (1-2)	1049
+823810121	LILRB1	0.569809	heterozygosis: yes (1-2)	1050
+1235616502	LILRB1	0.570011	heterozygosis: unknown	1051
+210800087	LILRB1	0.570052	heterozygosis: unknown	1052
+224309081	LILRB1	0.570240	heterozygosis: yes (>2)	1053
+44140022	LILRB1	0.570961	heterozygosis: unknown	1054
+819800030	LILRB1	0.572443	heterozygosis: yes (1-2)	1055
+170918061	LILRB1	0.572507	heterozygosis: unknown	1056
+1184611101	LILRB1	0.572817	heterozygosis: yes (1-2)	1057
+365123011	LILRB1	0.572869	heterozygosis: yes (>2)	1058
+602211091	LILRB1	0.573070	heterozygosis: unknown	1059
+37041012	LILRB1	0.573566	heterozygosis: yes (1-2)	1060
+210800081	LILRB1	0.573578	heterozygosis: unknown	1061
+608506011	LILRB1	0.573934	heterozygosis: unknown	1062
+1274204501	LILRB1	0.574120	heterozygosis: unknown	1063
+48130071	LILRB1	0.575354	heterozygosis: yes (1-2)	1064
+604214091	LILRB1	0.575467	heterozygosis: unknown	1065
+221409101	LILRB1	0.575939	heterozygosis: yes (1-2)	1066
+348814061	LILRB1	0.576300	heterozygosis: yes (>2)	1067
+1252327301	LILRB1	0.576791	heterozygosis: yes (1-2)	1068
+472700136	LILRB1	0.578892	heterozygosis: yes (1-2)	1069
+1317223701	LILRB1	0.579535	heterozygosis: unknown	1070
+354102051	LILRB1	0.579594	heterozygosis: yes (1-2)	1071
+425100248	LILRB1	0.580333	heterozygosis: unknown	1072
+1112517801	LILRB1	0.581870	heterozygosis: yes (1-2)	1073
+103116022	LILRB1	0.582231	heterozygosis: unknown	1074
+595913111	LILRB1	0.582575	heterozygosis: unknown	1075
+17912032	LILRB1	0.583649	heterozygosis: unknown	1076
+343021102	LILRB1	0.584723	heterozygosis: unknown	1077
+629000523	LILRB1	0.585737	heterozygosis: yes (1-2)	1078
+1123524701	LILRB1	0.586657	heterozygosis: yes (>2)	1079
+810200141	LILRB1	0.587574	heterozygosis: unknown	1080
+1067305201	LILRB1	0.588036	heterozygosis: unknown	1081
+163910072	LILRB1	0.588565	heterozygosis: yes (1-2)	1082
+1206552501	LILRB1	0.588638	heterozygosis: unknown	1083
+532802041	LILRB1	0.588860	heterozygosis: yes (1-2)	1084
+1158102101	LILRB1	0.588885	heterozygosis: unknown	1085
+357106041	LILRB1	0.590549	heterozygosis: yes (1-2)	1086
+1096407801	LILRB1	0.591816	heterozygosis: unknown	1087
+291903092	LILRB1	0.592259	heterozygosis: unknown	1088
+210800039	LILRB1	0.593067	heterozygosis: yes (1-2)	1089
+210800070	LILRB1	0.594134	heterozygosis: unknown	1090
+368814102	LILRB1	0.594565	heterozygosis: unknown	1091
+494918051	LILRB1	0.594585	heterozygosis: yes (1-2)	1092
+370100041	LILRB1	0.594911	heterozygosis: unknown	1093
+596906101	LILRB1	0.595240	heterozygosis: unknown	1094
+55911051	LILRB1	0.597093	heterozygosis: unknown	1095
+210800019	LILRB1	0.598136	heterozygosis: yes (1-2)	1096
+59603011	LILRB1	0.598448	heterozygosis: unknown	1097
+1214602101	LILRB1	0.598707	heterozygosis: yes (1-2)	1098
+210800060	LILRB1	0.599680	heterozygosis: yes (>2)	1099
+1153202102	LILRB1	0.600967	heterozygosis: yes (>2)	1100
+884000530	LILRB1	0.601069	heterozygosis: unknown	1101
+1180101501	LILRB1	0.601960	heterozygosis: yes (1-2)	1102
+367814101	LILRB1	0.603846	heterozygosis: unknown	1103
+490903011	LILRB1	0.603853	heterozygosis: yes (1-2)	1104
+156202031	LILRB1	0.604697	heterozygosis: yes (1-2)	1105
+349819101	LILRB1	0.606657	heterozygosis: unknown	1106
+279902091	LILRB1	0.607472	heterozygosis: unknown	1107
+808311032	LILRB1	0.608723	heterozygosis: unknown	1108
+330201041	LILRB1	0.610452	heterozygosis: yes (1-2)	1109
+340304011	LILRB1	0.614263	heterozygosis: unknown	1110
+363116101	LILRB1	0.614691	heterozygosis: unknown	1111
+1270318701	LILRB1	0.614994	heterozygosis: yes (1-2)	1112
+335916011	LILRB1	0.617177	heterozygosis: unknown	1113
+241601031	LILRB1	0.618369	heterozygosis: yes (1-2)	1114
+1323600501	LILRB1	0.619226	heterozygosis: yes (1-2)	1115
+210800103	LILRB1	0.620601	heterozygosis: unknown	1116
+407000434	LILRB1	0.629037	heterozygosis: unknown	1117
+1246402801	LILRB1	0.630637	heterozygosis: unknown	1118
+192723061	LILRB1	0.639633	heterozygosis: yes (>2)	1119
+130900253	LILRB1	0.640734	heterozygosis: unknown	1120
+120416021	LILRB1	0.643339	heterozygosis: unknown	1121
+409000527	LILRB1	0.643795	heterozygosis: unknown	1122
+511515011	LILRB1	0.644110	heterozygosis: unknown	1123
+1120208701	LILRB1	0.645941	heterozygosis: yes (1-2)	1124
+25312101	LILRB1	0.648891	heterozygosis: unknown	1125
+414601022	LILRB1	0.650675	heterozygosis: yes (1-2)	1126
+1282622601	LILRB1	0.655909	heterozygosis: yes (1-2)	1127
+1108317201	LILRB1	0.656233	heterozygosis: unknown	1128
+634300224	LILRB1	0.664559	heterozygosis: yes (>2)	1129
+108303082	LILRB1	0.666212	heterozygosis: yes (1-2)	1130
+632000410	LILRB1	0.667859	heterozygosis: unknown	1131
+1186600201	LILRB1	0.672267	heterozygosis: unknown	1132
+1337513301	LILRB1	0.672740	heterozygosis: yes (>2)	1133
+1201535702	LILRB1	0.685887	heterozygosis: unknown	1134

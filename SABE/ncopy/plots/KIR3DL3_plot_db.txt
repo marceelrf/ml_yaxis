@@ -1,0 +1,1135 @@
+Sample	Gene	Ratio	Heterozygosis	Order
+1000206901	KIR3DL3	1.000000	heterozygosis: unknown	1
+100102082	KIR3DL3	1.000000	heterozygosis: yes (>2)	2
+1001207701	KIR3DL3	1.000000	heterozygosis: unknown	3
+1002209901	KIR3DL3	1.000000	heterozygosis: yes (>2)	4
+1003210301	KIR3DL3	1.000000	heterozygosis: yes (1-2)	5
+1004211301	KIR3DL3	1.000000	heterozygosis: yes (>2)	6
+1005214101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	7
+1007215301	KIR3DL3	1.000000	heterozygosis: yes (1-2)	8
+1008216701	KIR3DL3	1.000000	heterozygosis: unknown	9
+1009228901	KIR3DL3	1.000000	heterozygosis: unknown	10
+1010616901	KIR3DL3	1.000000	heterozygosis: unknown	11
+101106071	KIR3DL3	1.000000	heterozygosis: unknown	12
+1011616902	KIR3DL3	1.000000	heterozygosis: unknown	13
+1012617701	KIR3DL3	1.000000	heterozygosis: unknown	14
+1013617501	KIR3DL3	1.000000	heterozygosis: yes (>2)	15
+1014604901	KIR3DL3	1.000000	heterozygosis: unknown	16
+1015611101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	17
+1016611301	KIR3DL3	1.000000	heterozygosis: yes (1-2)	18
+1017620101	KIR3DL3	1.000000	heterozygosis: yes (>2)	19
+1018621701	KIR3DL3	1.000000	heterozygosis: yes (1-2)	20
+1019621702	KIR3DL3	1.000000	heterozygosis: yes (>2)	21
+1020330101	KIR3DL3	1.000000	heterozygosis: unknown	22
+102116021	KIR3DL3	1.000000	heterozygosis: unknown	23
+1022306301	KIR3DL3	1.000000	heterozygosis: yes (1-2)	24
+10227052	KIR3DL3	1.000000	heterozygosis: yes (1-2)	25
+1023311101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	26
+1024311301	KIR3DL3	1.000000	heterozygosis: unknown	27
+1025318501	KIR3DL3	1.000000	heterozygosis: unknown	28
+1026319101	KIR3DL3	1.000000	heterozygosis: unknown	29
+1027328701	KIR3DL3	1.000000	heterozygosis: yes (1-2)	30
+1028328901	KIR3DL3	1.000000	heterozygosis: unknown	31
+1029307901	KIR3DL3	1.000000	heterozygosis: yes (1-2)	32
+1030315301	KIR3DL3	1.000000	heterozygosis: yes (1-2)	33
+103116022	KIR3DL3	1.000000	heterozygosis: unknown	34
+1031824301	KIR3DL3	1.000000	heterozygosis: unknown	35
+1032827101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	36
+1034803101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	37
+1035816701	KIR3DL3	1.000000	heterozygosis: yes (1-2)	38
+1036806701	KIR3DL3	1.000000	heterozygosis: unknown	39
+1037800501	KIR3DL3	1.000000	heterozygosis: yes (>2)	40
+1038800301	KIR3DL3	1.000000	heterozygosis: unknown	41
+1039801301	KIR3DL3	1.000000	heterozygosis: yes (>2)	42
+1040822501	KIR3DL3	1.000000	heterozygosis: unknown	43
+104116082	KIR3DL3	1.000000	heterozygosis: yes (1-2)	44
+1041302101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	45
+1042404301	KIR3DL3	1.000000	heterozygosis: yes (1-2)	46
+1043306901	KIR3DL3	1.000000	heterozygosis: unknown	47
+1044307701	KIR3DL3	1.000000	heterozygosis: yes (1-2)	48
+1045318901	KIR3DL3	1.000000	heterozygosis: yes (>2)	49
+1046324501	KIR3DL3	1.000000	heterozygosis: yes (>2)	50
+1047326101	KIR3DL3	1.000000	heterozygosis: unknown	51
+1048328901	KIR3DL3	1.000000	heterozygosis: unknown	52
+1050333901	KIR3DL3	1.000000	heterozygosis: yes (1-2)	53
+1051007301	KIR3DL3	1.000000	heterozygosis: yes (>2)	54
+1052007701	KIR3DL3	1.000000	heterozygosis: unknown	55
+1053009701	KIR3DL3	1.000000	heterozygosis: yes (>2)	56
+105301031	KIR3DL3	1.000000	heterozygosis: yes (1-2)	57
+1054020501	KIR3DL3	1.000000	heterozygosis: yes (>2)	58
+1055016301	KIR3DL3	1.000000	heterozygosis: unknown	59
+1057014701	KIR3DL3	1.000000	heterozygosis: unknown	60
+1058009901	KIR3DL3	1.000000	heterozygosis: unknown	61
+1059310901	KIR3DL3	1.000000	heterozygosis: unknown	62
+1060302901	KIR3DL3	1.000000	heterozygosis: unknown	63
+1061309301	KIR3DL3	1.000000	heterozygosis: yes (1-2)	64
+1062301301	KIR3DL3	1.000000	heterozygosis: yes (>2)	65
+106301032	KIR3DL3	1.000000	heterozygosis: yes (1-2)	66
+1063331501	KIR3DL3	1.000000	heterozygosis: yes (1-2)	67
+1064331901	KIR3DL3	1.000000	heterozygosis: yes (1-2)	68
+1065307801	KIR3DL3	1.000000	heterozygosis: yes (1-2)	69
+1066300601	KIR3DL3	1.000000	heterozygosis: yes (>2)	70
+1067305201	KIR3DL3	1.000000	heterozygosis: unknown	71
+1068305301	KIR3DL3	1.000000	heterozygosis: yes (1-2)	72
+1069305601	KIR3DL3	1.000000	heterozygosis: yes (1-2)	73
+1070309701	KIR3DL3	1.000000	heterozygosis: yes (1-2)	74
+1071310701	KIR3DL3	1.000000	heterozygosis: unknown	75
+1072310801	KIR3DL3	1.000000	heterozygosis: yes (1-2)	76
+107301101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	77
+1073306701	KIR3DL3	1.000000	heterozygosis: unknown	78
+1074415201	KIR3DL3	1.000000	heterozygosis: unknown	79
+1075415202	KIR3DL3	1.000000	heterozygosis: yes (>2)	80
+1076406101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	81
+1077418301	KIR3DL3	1.000000	heterozygosis: yes (1-2)	82
+1078415001	KIR3DL3	1.000000	heterozygosis: yes (1-2)	83
+1079410601	KIR3DL3	1.000000	heterozygosis: yes (1-2)	84
+1080414201	KIR3DL3	1.000000	heterozygosis: unknown	85
+1081411201	KIR3DL3	1.000000	heterozygosis: yes (1-2)	86
+1082416301	KIR3DL3	1.000000	heterozygosis: yes (>2)	87
+108303082	KIR3DL3	1.000000	heterozygosis: yes (>2)	88
+1083645101	KIR3DL3	1.000000	heterozygosis: unknown	89
+1084649101	KIR3DL3	1.000000	heterozygosis: yes (>2)	90
+1085674901	KIR3DL3	1.000000	heterozygosis: yes (1-2)	91
+1086675791	KIR3DL3	1.000000	heterozygosis: unknown	92
+1087643301	KIR3DL3	1.000000	heterozygosis: unknown	93
+1088603301	KIR3DL3	1.000000	heterozygosis: unknown	94
+1089637701	KIR3DL3	1.000000	heterozygosis: unknown	95
+1090670301	KIR3DL3	1.000000	heterozygosis: unknown	96
+1091616501	KIR3DL3	1.000000	heterozygosis: yes (>2)	97
+1092662101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	98
+109303083	KIR3DL3	1.000000	heterozygosis: yes (>2)	99
+1093410201	KIR3DL3	1.000000	heterozygosis: yes (1-2)	100
+1094410202	KIR3DL3	1.000000	heterozygosis: unknown	101
+1095415601	KIR3DL3	1.000000	heterozygosis: yes (1-2)	102
+1096407801	KIR3DL3	1.000000	heterozygosis: yes (1-2)	103
+1097223901	KIR3DL3	1.000000	heterozygosis: yes (1-2)	104
+1098222101	KIR3DL3	1.000000	heterozygosis: unknown	105
+1099223302	KIR3DL3	1.000000	heterozygosis: yes (>2)	106
+1101303201	KIR3DL3	1.000000	heterozygosis: unknown	107
+1102304001	KIR3DL3	1.000000	heterozygosis: unknown	108
+110306031	KIR3DL3	1.000000	heterozygosis: yes (>2)	109
+1103307601	KIR3DL3	1.000000	heterozygosis: yes (>2)	110
+1104308401	KIR3DL3	1.000000	heterozygosis: unknown	111
+1105309301	KIR3DL3	1.000000	heterozygosis: yes (1-2)	112
+1106309302	KIR3DL3	1.000000	heterozygosis: yes (1-2)	113
+1107311001	KIR3DL3	1.000000	heterozygosis: yes (1-2)	114
+1108317201	KIR3DL3	1.000000	heterozygosis: yes (>2)	115
+1109317202	KIR3DL3	1.000000	heterozygosis: yes (1-2)	116
+1110318701	KIR3DL3	1.000000	heterozygosis: yes (1-2)	117
+1111319301	KIR3DL3	1.000000	heterozygosis: yes (1-2)	118
+1112517801	KIR3DL3	1.000000	heterozygosis: unknown	119
+111306051	KIR3DL3	1.000000	heterozygosis: yes (1-2)	120
+1113557401	KIR3DL3	1.000000	heterozygosis: yes (>2)	121
+1114222501	KIR3DL3	1.000000	heterozygosis: yes (>2)	122
+1115534601	KIR3DL3	1.000000	heterozygosis: yes (1-2)	123
+1116208702	KIR3DL3	1.000000	heterozygosis: unknown	124
+1117525001	KIR3DL3	1.000000	heterozygosis: unknown	125
+1118225101	KIR3DL3	1.000000	heterozygosis: yes (>2)	126
+1119561901	KIR3DL3	1.000000	heterozygosis: unknown	127
+1120208701	KIR3DL3	1.000000	heterozygosis: yes (>2)	128
+1122217501	KIR3DL3	1.000000	heterozygosis: unknown	129
+1123524701	KIR3DL3	1.000000	heterozygosis: yes (>2)	130
+1125533701	KIR3DL3	1.000000	heterozygosis: unknown	131
+1126220301	KIR3DL3	1.000000	heterozygosis: unknown	132
+1127231901	KIR3DL3	1.000000	heterozygosis: yes (>2)	133
+1128125001	KIR3DL3	1.000000	heterozygosis: yes (1-2)	134
+1129125002	KIR3DL3	1.000000	heterozygosis: yes (1-2)	135
+1130125901	KIR3DL3	1.000000	heterozygosis: yes (1-2)	136
+1131137001	KIR3DL3	1.000000	heterozygosis: yes (1-2)	137
+1132140901	KIR3DL3	1.000000	heterozygosis: yes (1-2)	138
+113306062	KIR3DL3	1.000000	heterozygosis: unknown	139
+1133814801	KIR3DL3	1.000000	heterozygosis: yes (>2)	140
+1134304501	KIR3DL3	1.000000	heterozygosis: yes (1-2)	141
+1135327301	KIR3DL3	1.000000	heterozygosis: yes (>2)	142
+1136309301	KIR3DL3	1.000000	heterozygosis: unknown	143
+1137118901	KIR3DL3	1.000000	heterozygosis: yes (1-2)	144
+1138100101	KIR3DL3	1.000000	heterozygosis: yes (>2)	145
+1139102501	KIR3DL3	1.000000	heterozygosis: yes (1-2)	146
+1140104501	KIR3DL3	1.000000	heterozygosis: yes (1-2)	147
+1141109101	KIR3DL3	1.000000	heterozygosis: yes (>2)	148
+1142112701	KIR3DL3	1.000000	heterozygosis: yes (1-2)	149
+114306102	KIR3DL3	1.000000	heterozygosis: yes (>2)	150
+1143306101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	151
+1144306901	KIR3DL3	1.000000	heterozygosis: yes (>2)	152
+1145306902	KIR3DL3	1.000000	heterozygosis: yes (1-2)	153
+1146418701	KIR3DL3	1.000000	heterozygosis: yes (>2)	154
+1147414901	KIR3DL3	1.000000	heterozygosis: yes (>2)	155
+1148415501	KIR3DL3	1.000000	heterozygosis: unknown	156
+1149417901	KIR3DL3	1.000000	heterozygosis: unknown	157
+1150414501	KIR3DL3	1.000000	heterozygosis: unknown	158
+1151210901	KIR3DL3	1.000000	heterozygosis: unknown	159
+1153202102	KIR3DL3	1.000000	heterozygosis: yes (1-2)	160
+1154200401	KIR3DL3	1.000000	heterozygosis: yes (1-2)	161
+1155216701	KIR3DL3	1.000000	heterozygosis: yes (1-2)	162
+1156206501	KIR3DL3	1.000000	heterozygosis: unknown	163
+115700198	KIR3DL3	1.000000	heterozygosis: unknown	164
+1157101101	KIR3DL3	1.000000	heterozygosis: unknown	165
+1158102101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	166
+1159519001	KIR3DL3	1.000000	heterozygosis: unknown	167
+1160534602	KIR3DL3	1.000000	heterozygosis: yes (>2)	168
+1161560701	KIR3DL3	1.000000	heterozygosis: yes (1-2)	169
+1162610301	KIR3DL3	1.000000	heterozygosis: unknown	170
+1163613101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	171
+1164621101	KIR3DL3	1.000000	heterozygosis: unknown	172
+1165600901	KIR3DL3	1.000000	heterozygosis: yes (>2)	173
+1166506501	KIR3DL3	1.000000	heterozygosis: yes (1-2)	174
+116724051	KIR3DL3	1.000000	heterozygosis: yes (>2)	175
+1167510101	KIR3DL3	1.000000	heterozygosis: yes (>2)	176
+1168514701	KIR3DL3	1.000000	heterozygosis: yes (1-2)	177
+1169524101	KIR3DL3	1.000000	heterozygosis: yes (>2)	178
+1170503901	KIR3DL3	1.000000	heterozygosis: yes (1-2)	179
+1171507301	KIR3DL3	1.000000	heterozygosis: yes (>2)	180
+1172507501	KIR3DL3	1.000000	heterozygosis: yes (1-2)	181
+1174511301	KIR3DL3	1.000000	heterozygosis: yes (1-2)	182
+1175511701	KIR3DL3	1.000000	heterozygosis: yes (1-2)	183
+1176601101	KIR3DL3	1.000000	heterozygosis: unknown	184
+117731031	KIR3DL3	1.000000	heterozygosis: yes (>2)	185
+1177609101	KIR3DL3	1.000000	heterozygosis: unknown	186
+1178609102	KIR3DL3	1.000000	heterozygosis: yes (1-2)	187
+1179619501	KIR3DL3	1.000000	heterozygosis: yes (1-2)	188
+1180101501	KIR3DL3	1.000000	heterozygosis: yes (>2)	189
+11808031	KIR3DL3	1.000000	heterozygosis: unknown	190
+1181107101	KIR3DL3	1.000000	heterozygosis: unknown	191
+1183605501	KIR3DL3	1.000000	heterozygosis: yes (1-2)	192
+118410051	KIR3DL3	1.000000	heterozygosis: yes (>2)	193
+1184611101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	194
+1185611601	KIR3DL3	1.000000	heterozygosis: unknown	195
+1186600201	KIR3DL3	1.000000	heterozygosis: yes (>2)	196
+1187601202	KIR3DL3	1.000000	heterozygosis: yes (1-2)	197
+1188124701	KIR3DL3	1.000000	heterozygosis: unknown	198
+1189134901	KIR3DL3	1.000000	heterozygosis: yes (1-2)	199
+1190114802	KIR3DL3	1.000000	heterozygosis: yes (1-2)	200
+1191526001	KIR3DL3	1.000000	heterozygosis: unknown	201
+119410052	KIR3DL3	1.000000	heterozygosis: yes (>2)	202
+1194402801	KIR3DL3	1.000000	heterozygosis: unknown	203
+1195412401	KIR3DL3	1.000000	heterozygosis: unknown	204
+1196421401	KIR3DL3	1.000000	heterozygosis: yes (>2)	205
+1197502501	KIR3DL3	1.000000	heterozygosis: yes (1-2)	206
+1198546501	KIR3DL3	1.000000	heterozygosis: yes (1-2)	207
+1199548101	KIR3DL3	1.000000	heterozygosis: yes (>2)	208
+1200535701	KIR3DL3	1.000000	heterozygosis: yes (1-2)	209
+1201535702	KIR3DL3	1.000000	heterozygosis: unknown	210
+1202536101	KIR3DL3	1.000000	heterozygosis: unknown	211
+120416021	KIR3DL3	1.000000	heterozygosis: unknown	212
+1204538102	KIR3DL3	1.000000	heterozygosis: yes (>2)	213
+1205554501	KIR3DL3	1.000000	heterozygosis: unknown	214
+1206552501	KIR3DL3	1.000000	heterozygosis: yes (1-2)	215
+1207301001	KIR3DL3	1.000000	heterozygosis: yes (1-2)	216
+1208202601	KIR3DL3	1.000000	heterozygosis: yes (1-2)	217
+1209209301	KIR3DL3	1.000000	heterozygosis: yes (1-2)	218
+1210206401	KIR3DL3	1.000000	heterozygosis: yes (>2)	219
+1211205401	KIR3DL3	1.000000	heterozygosis: unknown	220
+1212203001	KIR3DL3	1.000000	heterozygosis: unknown	221
+1213208101	KIR3DL3	1.000000	heterozygosis: unknown	222
+121418032	KIR3DL3	1.000000	heterozygosis: unknown	223
+1214602101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	224
+1215630501	KIR3DL3	1.000000	heterozygosis: unknown	225
+1216606101	KIR3DL3	1.000000	heterozygosis: yes (>2)	226
+1217612301	KIR3DL3	1.000000	heterozygosis: unknown	227
+1218625501	KIR3DL3	1.000000	heterozygosis: yes (1-2)	228
+1219602701	KIR3DL3	1.000000	heterozygosis: yes (>2)	229
+1220801701	KIR3DL3	1.000000	heterozygosis: yes (1-2)	230
+1222818901	KIR3DL3	1.000000	heterozygosis: unknown	231
+122309061	KIR3DL3	1.000000	heterozygosis: yes (1-2)	232
+1223818501	KIR3DL3	1.000000	heterozygosis: unknown	233
+1224835901	KIR3DL3	1.000000	heterozygosis: yes (>2)	234
+1226835501	KIR3DL3	1.000000	heterozygosis: unknown	235
+1227828901	KIR3DL3	1.000000	heterozygosis: yes (>2)	236
+1228816501	KIR3DL3	1.000000	heterozygosis: unknown	237
+1229509801	KIR3DL3	1.000000	heterozygosis: yes (1-2)	238
+1230536501	KIR3DL3	1.000000	heterozygosis: yes (1-2)	239
+1231532101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	240
+1232510901	KIR3DL3	1.000000	heterozygosis: unknown	241
+123313091	KIR3DL3	1.000000	heterozygosis: unknown	242
+1233501301	KIR3DL3	1.000000	heterozygosis: unknown	243
+1235616502	KIR3DL3	1.000000	heterozygosis: yes (>2)	244
+1236209301	KIR3DL3	1.000000	heterozygosis: unknown	245
+1237235701	KIR3DL3	1.000000	heterozygosis: unknown	246
+1238224501	KIR3DL3	1.000000	heterozygosis: yes (1-2)	247
+1239325901	KIR3DL3	1.000000	heterozygosis: yes (>2)	248
+1241322501	KIR3DL3	1.000000	heterozygosis: yes (>2)	249
+1242300101	KIR3DL3	1.000000	heterozygosis: unknown	250
+124313101	KIR3DL3	1.000000	heterozygosis: unknown	251
+1243300102	KIR3DL3	1.000000	heterozygosis: yes (>2)	252
+1244303302	KIR3DL3	1.000000	heterozygosis: unknown	253
+1245314301	KIR3DL3	1.000000	heterozygosis: yes (1-2)	254
+1246402801	KIR3DL3	1.000000	heterozygosis: yes (>2)	255
+1247403701	KIR3DL3	1.000000	heterozygosis: yes (>2)	256
+1248403701	KIR3DL3	1.000000	heterozygosis: yes (>2)	257
+1249232701	KIR3DL3	1.000000	heterozygosis: yes (1-2)	258
+1250226501	KIR3DL3	1.000000	heterozygosis: unknown	259
+1251233701	KIR3DL3	1.000000	heterozygosis: unknown	260
+1252327301	KIR3DL3	1.000000	heterozygosis: unknown	261
+125318061	KIR3DL3	1.000000	heterozygosis: unknown	262
+1253306101	KIR3DL3	1.000000	heterozygosis: unknown	263
+1254306102	KIR3DL3	1.000000	heterozygosis: yes (1-2)	264
+1255325901	KIR3DL3	1.000000	heterozygosis: unknown	265
+1257013101	KIR3DL3	1.000000	heterozygosis: unknown	266
+1258529501	KIR3DL3	1.000000	heterozygosis: yes (>2)	267
+1261523701	KIR3DL3	1.000000	heterozygosis: yes (1-2)	268
+1262524101	KIR3DL3	1.000000	heterozygosis: yes (>2)	269
+126322071	KIR3DL3	1.000000	heterozygosis: unknown	270
+1263534501	KIR3DL3	1.000000	heterozygosis: yes (>2)	271
+1264618401	KIR3DL3	1.000000	heterozygosis: yes (>2)	272
+1265619701	KIR3DL3	1.000000	heterozygosis: unknown	273
+1266700901	KIR3DL3	1.000000	heterozygosis: yes (1-2)	274
+1267601501	KIR3DL3	1.000000	heterozygosis: yes (1-2)	275
+1269611501	KIR3DL3	1.000000	heterozygosis: unknown	276
+1270318701	KIR3DL3	1.000000	heterozygosis: unknown	277
+1271304902	KIR3DL3	1.000000	heterozygosis: yes (1-2)	278
+1272231301	KIR3DL3	1.000000	heterozygosis: unknown	279
+1273214701	KIR3DL3	1.000000	heterozygosis: unknown	280
+1274204501	KIR3DL3	1.000000	heterozygosis: unknown	281
+1275529101	KIR3DL3	1.000000	heterozygosis: unknown	282
+1277601601	KIR3DL3	1.000000	heterozygosis: unknown	283
+1278601602	KIR3DL3	1.000000	heterozygosis: yes (>2)	284
+127923021	KIR3DL3	1.000000	heterozygosis: yes (>2)	285
+1279606101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	286
+1280605801	KIR3DL3	1.000000	heterozygosis: yes (>2)	287
+12813033	KIR3DL3	1.000000	heterozygosis: unknown	288
+1281608201	KIR3DL3	1.000000	heterozygosis: yes (1-2)	289
+1282622601	KIR3DL3	1.000000	heterozygosis: yes (1-2)	290
+1283622602	KIR3DL3	1.000000	heterozygosis: unknown	291
+1284314601	KIR3DL3	1.000000	heterozygosis: yes (1-2)	292
+1285201401	KIR3DL3	1.000000	heterozygosis: unknown	293
+1286518101	KIR3DL3	1.000000	heterozygosis: unknown	294
+1287202101	KIR3DL3	1.000000	heterozygosis: unknown	295
+1288305901	KIR3DL3	1.000000	heterozygosis: unknown	296
+128909102	KIR3DL3	1.000000	heterozygosis: yes (>2)	297
+1292014101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	298
+1294003701	KIR3DL3	1.000000	heterozygosis: yes (1-2)	299
+1295009501	KIR3DL3	1.000000	heterozygosis: yes (1-2)	300
+1296010301	KIR3DL3	1.000000	heterozygosis: yes (1-2)	301
+1297013901	KIR3DL3	1.000000	heterozygosis: yes (1-2)	302
+1298019101	KIR3DL3	1.000000	heterozygosis: unknown	303
+1299323301	KIR3DL3	1.000000	heterozygosis: yes (1-2)	304
+1300308501	KIR3DL3	1.000000	heterozygosis: yes (1-2)	305
+1301619901	KIR3DL3	1.000000	heterozygosis: yes (>2)	306
+1302824301	KIR3DL3	1.000000	heterozygosis: unknown	307
+1303610901	KIR3DL3	1.000000	heterozygosis: unknown	308
+1304510501	KIR3DL3	1.000000	heterozygosis: unknown	309
+1305612401	KIR3DL3	1.000000	heterozygosis: unknown	310
+1306837101	KIR3DL3	1.000000	heterozygosis: unknown	311
+1307701101	KIR3DL3	1.000000	heterozygosis: yes (>2)	312
+130900253	KIR3DL3	1.000000	heterozygosis: unknown	313
+1309534301	KIR3DL3	1.000000	heterozygosis: yes (1-2)	314
+1310570901	KIR3DL3	1.000000	heterozygosis: unknown	315
+1311000301	KIR3DL3	1.000000	heterozygosis: unknown	316
+1312401501	KIR3DL3	1.000000	heterozygosis: yes (>2)	317
+1313411701	KIR3DL3	1.000000	heterozygosis: yes (1-2)	318
+1314207601	KIR3DL3	1.000000	heterozygosis: unknown	319
+1315510301	KIR3DL3	1.000000	heterozygosis: yes (>2)	320
+1316014101	KIR3DL3	1.000000	heterozygosis: yes (>2)	321
+1317223701	KIR3DL3	1.000000	heterozygosis: yes (1-2)	322
+131909101	KIR3DL3	1.000000	heterozygosis: unknown	323
+1319604602	KIR3DL3	1.000000	heterozygosis: yes (1-2)	324
+1321617901	KIR3DL3	1.000000	heterozygosis: yes (1-2)	325
+1322616701	KIR3DL3	1.000000	heterozygosis: yes (1-2)	326
+1323600501	KIR3DL3	1.000000	heterozygosis: yes (>2)	327
+1324616101	KIR3DL3	1.000000	heterozygosis: yes (>2)	328
+1326613901	KIR3DL3	1.000000	heterozygosis: unknown	329
+1328603701	KIR3DL3	1.000000	heterozygosis: yes (>2)	330
+132936052	KIR3DL3	1.000000	heterozygosis: yes (>2)	331
+1329603702	KIR3DL3	1.000000	heterozygosis: yes (>2)	332
+1330617501	KIR3DL3	1.000000	heterozygosis: yes (1-2)	333
+1332703401	KIR3DL3	1.000000	heterozygosis: yes (1-2)	334
+1333214001	KIR3DL3	1.000000	heterozygosis: unknown	335
+1334717501	KIR3DL3	1.000000	heterozygosis: unknown	336
+1335501701	KIR3DL3	1.000000	heterozygosis: yes (1-2)	337
+1336507301	KIR3DL3	1.000000	heterozygosis: yes (>2)	338
+1337513301	KIR3DL3	1.000000	heterozygosis: yes (1-2)	339
+1338519701	KIR3DL3	1.000000	heterozygosis: yes (>2)	340
+133918061	KIR3DL3	1.000000	heterozygosis: yes (1-2)	341
+1339531301	KIR3DL3	1.000000	heterozygosis: yes (1-2)	342
+1340826701	KIR3DL3	1.000000	heterozygosis: yes (1-2)	343
+1341317021	KIR3DL3	1.000000	heterozygosis: unknown	344
+1342817101	KIR3DL3	1.000000	heterozygosis: yes (>2)	345
+1343317022	KIR3DL3	1.000000	heterozygosis: yes (1-2)	346
+1344203301	KIR3DL3	1.000000	heterozygosis: yes (>2)	347
+134901092	KIR3DL3	1.000000	heterozygosis: unknown	348
+135901091	KIR3DL3	1.000000	heterozygosis: unknown	349
+136923081	KIR3DL3	1.000000	heterozygosis: yes (1-2)	350
+137701061	KIR3DL3	1.000000	heterozygosis: unknown	351
+138106041	KIR3DL3	1.000000	heterozygosis: yes (>2)	352
+13813041	KIR3DL3	1.000000	heterozygosis: unknown	353
+139111041	KIR3DL3	1.000000	heterozygosis: unknown	354
+140706102	KIR3DL3	1.000000	heterozygosis: yes (1-2)	355
+141707011	KIR3DL3	1.000000	heterozygosis: yes (1-2)	356
+142707081	KIR3DL3	1.000000	heterozygosis: yes (1-2)	357
+143709042	KIR3DL3	1.000000	heterozygosis: yes (1-2)	358
+145709101	KIR3DL3	1.000000	heterozygosis: unknown	359
+146509051	KIR3DL3	1.000000	heterozygosis: yes (1-2)	360
+147213061	KIR3DL3	1.000000	heterozygosis: unknown	361
+148213091	KIR3DL3	1.000000	heterozygosis: yes (1-2)	362
+14833012	KIR3DL3	1.000000	heterozygosis: yes (1-2)	363
+149213051	KIR3DL3	1.000000	heterozygosis: unknown	364
+150228101	KIR3DL3	1.000000	heterozygosis: yes (>2)	365
+151228102	KIR3DL3	1.000000	heterozygosis: yes (1-2)	366
+152206101	KIR3DL3	1.000000	heterozygosis: yes (>2)	367
+153206102	KIR3DL3	1.000000	heterozygosis: yes (>2)	368
+154224081	KIR3DL3	1.000000	heterozygosis: yes (1-2)	369
+155224111	KIR3DL3	1.000000	heterozygosis: yes (>2)	370
+156202031	KIR3DL3	1.000000	heterozygosis: unknown	371
+157610031	KIR3DL3	1.000000	heterozygosis: yes (1-2)	372
+15843041	KIR3DL3	1.000000	heterozygosis: yes (1-2)	373
+158718101	KIR3DL3	1.000000	heterozygosis: yes (>2)	374
+159210011	KIR3DL3	1.000000	heterozygosis: unknown	375
+160230011	KIR3DL3	1.000000	heterozygosis: unknown	376
+161230101	KIR3DL3	1.000000	heterozygosis: yes (>2)	377
+162910071	KIR3DL3	1.000000	heterozygosis: yes (>2)	378
+163910072	KIR3DL3	1.000000	heterozygosis: yes (1-2)	379
+164919041	KIR3DL3	1.000000	heterozygosis: yes (>2)	380
+165919051	KIR3DL3	1.000000	heterozygosis: yes (1-2)	381
+166919061	KIR3DL3	1.000000	heterozygosis: yes (1-2)	382
+167919062	KIR3DL3	1.000000	heterozygosis: unknown	383
+168921021	KIR3DL3	1.000000	heterozygosis: yes (1-2)	384
+16907052	KIR3DL3	1.000000	heterozygosis: yes (1-2)	385
+169640071	KIR3DL3	1.000000	heterozygosis: yes (1-2)	386
+170918061	KIR3DL3	1.000000	heterozygosis: yes (1-2)	387
+172901102	KIR3DL3	1.000000	heterozygosis: yes (1-2)	388
+174003031	KIR3DL3	1.000000	heterozygosis: unknown	389
+175020072	KIR3DL3	1.000000	heterozygosis: yes (1-2)	390
+177023091	KIR3DL3	1.000000	heterozygosis: yes (>2)	391
+178718051	KIR3DL3	1.000000	heterozygosis: unknown	392
+17912032	KIR3DL3	1.000000	heterozygosis: yes (>2)	393
+179800101	KIR3DL3	1.000000	heterozygosis: unknown	394
+180806071	KIR3DL3	1.000000	heterozygosis: yes (1-2)	395
+181806072	KIR3DL3	1.000000	heterozygosis: yes (>2)	396
+182806101	KIR3DL3	1.000000	heterozygosis: unknown	397
+183810061	KIR3DL3	1.000000	heterozygosis: unknown	398
+184817091	KIR3DL3	1.000000	heterozygosis: unknown	399
+185706052	KIR3DL3	1.000000	heterozygosis: yes (1-2)	400
+186905062	KIR3DL3	1.000000	heterozygosis: yes (1-2)	401
+187914081	KIR3DL3	1.000000	heterozygosis: yes (1-2)	402
+188711071	KIR3DL3	1.000000	heterozygosis: unknown	403
+18912051	KIR3DL3	1.000000	heterozygosis: yes (1-2)	404
+189711051	KIR3DL3	1.000000	heterozygosis: yes (1-2)	405
+190731091	KIR3DL3	1.000000	heterozygosis: unknown	406
+191735081	KIR3DL3	1.000000	heterozygosis: yes (>2)	407
+192723061	KIR3DL3	1.000000	heterozygosis: unknown	408
+19309051	KIR3DL3	1.000000	heterozygosis: unknown	409
+193200178	KIR3DL3	1.000000	heterozygosis: unknown	410
+194211031	KIR3DL3	1.000000	heterozygosis: unknown	411
+195211032	KIR3DL3	1.000000	heterozygosis: yes (1-2)	412
+196216032	KIR3DL3	1.000000	heterozygosis: yes (>2)	413
+197226051	KIR3DL3	1.000000	heterozygosis: yes (>2)	414
+198305011	KIR3DL3	1.000000	heterozygosis: unknown	415
+201320081	KIR3DL3	1.000000	heterozygosis: yes (1-2)	416
+202320082	KIR3DL3	1.000000	heterozygosis: yes (>2)	417
+203323011	KIR3DL3	1.000000	heterozygosis: unknown	418
+204327071	KIR3DL3	1.000000	heterozygosis: unknown	419
+205300083	KIR3DL3	1.000000	heterozygosis: unknown	420
+206701082	KIR3DL3	1.000000	heterozygosis: unknown	421
+207701083	KIR3DL3	1.000000	heterozygosis: unknown	422
+208320012	KIR3DL3	1.000000	heterozygosis: unknown	423
+209320091	KIR3DL3	1.000000	heterozygosis: yes (>2)	424
+210322011	KIR3DL3	1.000000	heterozygosis: unknown	425
+210800010	KIR3DL3	1.000000	heterozygosis: unknown	426
+210800011	KIR3DL3	1.000000	heterozygosis: yes (1-2)	427
+210800012	KIR3DL3	1.000000	heterozygosis: yes (>2)	428
+210800013	KIR3DL3	1.000000	heterozygosis: yes (1-2)	429
+210800014	KIR3DL3	1.000000	heterozygosis: yes (1-2)	430
+210800015	KIR3DL3	1.000000	heterozygosis: unknown	431
+210800016	KIR3DL3	1.000000	heterozygosis: unknown	432
+210800017	KIR3DL3	1.000000	heterozygosis: yes (>2)	433
+210800018	KIR3DL3	1.000000	heterozygosis: yes (1-2)	434
+210800019	KIR3DL3	1.000000	heterozygosis: yes (1-2)	435
+210800020	KIR3DL3	1.000000	heterozygosis: yes (1-2)	436
+210800021	KIR3DL3	1.000000	heterozygosis: unknown	437
+210800022	KIR3DL3	1.000000	heterozygosis: unknown	438
+210800023	KIR3DL3	1.000000	heterozygosis: yes (1-2)	439
+210800024	KIR3DL3	1.000000	heterozygosis: unknown	440
+210800025	KIR3DL3	1.000000	heterozygosis: unknown	441
+210800026	KIR3DL3	1.000000	heterozygosis: yes (1-2)	442
+210800027	KIR3DL3	1.000000	heterozygosis: yes (1-2)	443
+210800028	KIR3DL3	1.000000	heterozygosis: unknown	444
+210800029	KIR3DL3	1.000000	heterozygosis: unknown	445
+210800030	KIR3DL3	1.000000	heterozygosis: unknown	446
+210800031	KIR3DL3	1.000000	heterozygosis: yes (>2)	447
+210800032	KIR3DL3	1.000000	heterozygosis: unknown	448
+210800033	KIR3DL3	1.000000	heterozygosis: yes (1-2)	449
+210800034	KIR3DL3	1.000000	heterozygosis: unknown	450
+210800035	KIR3DL3	1.000000	heterozygosis: unknown	451
+210800036	KIR3DL3	1.000000	heterozygosis: yes (>2)	452
+210800037	KIR3DL3	1.000000	heterozygosis: yes (1-2)	453
+210800038	KIR3DL3	1.000000	heterozygosis: unknown	454
+210800039	KIR3DL3	1.000000	heterozygosis: yes (1-2)	455
+210800040	KIR3DL3	1.000000	heterozygosis: unknown	456
+210800041	KIR3DL3	1.000000	heterozygosis: unknown	457
+210800042	KIR3DL3	1.000000	heterozygosis: unknown	458
+210800043	KIR3DL3	1.000000	heterozygosis: yes (>2)	459
+210800044	KIR3DL3	1.000000	heterozygosis: unknown	460
+210800045	KIR3DL3	1.000000	heterozygosis: unknown	461
+210800046	KIR3DL3	1.000000	heterozygosis: unknown	462
+210800047	KIR3DL3	1.000000	heterozygosis: yes (>2)	463
+210800048	KIR3DL3	1.000000	heterozygosis: yes (1-2)	464
+210800049	KIR3DL3	1.000000	heterozygosis: unknown	465
+210800050	KIR3DL3	1.000000	heterozygosis: yes (>2)	466
+210800051	KIR3DL3	1.000000	heterozygosis: yes (>2)	467
+210800052	KIR3DL3	1.000000	heterozygosis: yes (>2)	468
+210800053	KIR3DL3	1.000000	heterozygosis: unknown	469
+210800054	KIR3DL3	1.000000	heterozygosis: unknown	470
+210800055	KIR3DL3	1.000000	heterozygosis: yes (>2)	471
+210800056	KIR3DL3	1.000000	heterozygosis: yes (>2)	472
+210800057	KIR3DL3	1.000000	heterozygosis: yes (1-2)	473
+210800058	KIR3DL3	1.000000	heterozygosis: unknown	474
+210800059	KIR3DL3	1.000000	heterozygosis: yes (1-2)	475
+210800060	KIR3DL3	1.000000	heterozygosis: yes (1-2)	476
+210800061	KIR3DL3	1.000000	heterozygosis: yes (1-2)	477
+210800062	KIR3DL3	1.000000	heterozygosis: unknown	478
+210800063	KIR3DL3	1.000000	heterozygosis: unknown	479
+210800064	KIR3DL3	1.000000	heterozygosis: unknown	480
+210800065	KIR3DL3	1.000000	heterozygosis: yes (1-2)	481
+210800066	KIR3DL3	1.000000	heterozygosis: unknown	482
+210800067	KIR3DL3	1.000000	heterozygosis: yes (>2)	483
+210800070	KIR3DL3	1.000000	heterozygosis: yes (>2)	484
+210800071	KIR3DL3	1.000000	heterozygosis: unknown	485
+210800072	KIR3DL3	1.000000	heterozygosis: yes (>2)	486
+210800073	KIR3DL3	1.000000	heterozygosis: yes (1-2)	487
+210800074	KIR3DL3	1.000000	heterozygosis: yes (>2)	488
+210800075	KIR3DL3	1.000000	heterozygosis: yes (1-2)	489
+210800076	KIR3DL3	1.000000	heterozygosis: yes (1-2)	490
+210800077	KIR3DL3	1.000000	heterozygosis: unknown	491
+210800078	KIR3DL3	1.000000	heterozygosis: unknown	492
+210800079	KIR3DL3	1.000000	heterozygosis: unknown	493
+210800081	KIR3DL3	1.000000	heterozygosis: yes (1-2)	494
+210800082	KIR3DL3	1.000000	heterozygosis: unknown	495
+210800083	KIR3DL3	1.000000	heterozygosis: unknown	496
+210800084	KIR3DL3	1.000000	heterozygosis: unknown	497
+210800085	KIR3DL3	1.000000	heterozygosis: yes (>2)	498
+210800086	KIR3DL3	1.000000	heterozygosis: unknown	499
+210800087	KIR3DL3	1.000000	heterozygosis: yes (>2)	500
+210800088	KIR3DL3	1.000000	heterozygosis: yes (1-2)	501
+210800089	KIR3DL3	1.000000	heterozygosis: yes (1-2)	502
+210800091	KIR3DL3	1.000000	heterozygosis: unknown	503
+210800092	KIR3DL3	1.000000	heterozygosis: unknown	504
+210800093	KIR3DL3	1.000000	heterozygosis: yes (>2)	505
+210800094	KIR3DL3	1.000000	heterozygosis: yes (1-2)	506
+210800095	KIR3DL3	1.000000	heterozygosis: yes (>2)	507
+210800100	KIR3DL3	1.000000	heterozygosis: unknown	508
+210800101	KIR3DL3	1.000000	heterozygosis: yes (>2)	509
+210800103	KIR3DL3	1.000000	heterozygosis: yes (1-2)	510
+210800104	KIR3DL3	1.000000	heterozygosis: unknown	511
+210800105	KIR3DL3	1.000000	heterozygosis: yes (>2)	512
+210800106	KIR3DL3	1.000000	heterozygosis: yes (1-2)	513
+210800107	KIR3DL3	1.000000	heterozygosis: yes (1-2)	514
+210800108	KIR3DL3	1.000000	heterozygosis: unknown	515
+210800109	KIR3DL3	1.000000	heterozygosis: unknown	516
+210800110	KIR3DL3	1.000000	heterozygosis: yes (>2)	517
+210800111	KIR3DL3	1.000000	heterozygosis: yes (1-2)	518
+210800112	KIR3DL3	1.000000	heterozygosis: unknown	519
+210800114	KIR3DL3	1.000000	heterozygosis: unknown	520
+210800115	KIR3DL3	1.000000	heterozygosis: unknown	521
+210800116	KIR3DL3	1.000000	heterozygosis: yes (>2)	522
+210800117	KIR3DL3	1.000000	heterozygosis: unknown	523
+210800118	KIR3DL3	1.000000	heterozygosis: unknown	524
+210800119	KIR3DL3	1.000000	heterozygosis: yes (1-2)	525
+210800120	KIR3DL3	1.000000	heterozygosis: yes (>2)	526
+210800122	KIR3DL3	1.000000	heterozygosis: unknown	527
+210800123	KIR3DL3	1.000000	heterozygosis: yes (1-2)	528
+210800125	KIR3DL3	1.000000	heterozygosis: unknown	529
+210800126	KIR3DL3	1.000000	heterozygosis: yes (1-2)	530
+210800127	KIR3DL3	1.000000	heterozygosis: yes (>2)	531
+210800128	KIR3DL3	1.000000	heterozygosis: yes (>2)	532
+210800129	KIR3DL3	1.000000	heterozygosis: yes (1-2)	533
+210800130	KIR3DL3	1.000000	heterozygosis: yes (>2)	534
+210800133	KIR3DL3	1.000000	heterozygosis: unknown	535
+210800134	KIR3DL3	1.000000	heterozygosis: yes (>2)	536
+210800135	KIR3DL3	1.000000	heterozygosis: yes (1-2)	537
+210800136	KIR3DL3	1.000000	heterozygosis: unknown	538
+210800137	KIR3DL3	1.000000	heterozygosis: yes (>2)	539
+210800138	KIR3DL3	1.000000	heterozygosis: yes (1-2)	540
+210800139	KIR3DL3	1.000000	heterozygosis: unknown	541
+210800140	KIR3DL3	1.000000	heterozygosis: yes (>2)	542
+210800141	KIR3DL3	1.000000	heterozygosis: yes (1-2)	543
+210800142	KIR3DL3	1.000000	heterozygosis: yes (>2)	544
+210807000	KIR3DL3	1.000000	heterozygosis: yes (>2)	545
+210808000	KIR3DL3	1.000000	heterozygosis: yes (>2)	546
+210809000	KIR3DL3	1.000000	heterozygosis: yes (1-2)	547
+211322012	KIR3DL3	1.000000	heterozygosis: unknown	548
+212716041	KIR3DL3	1.000000	heterozygosis: unknown	549
+21309053	KIR3DL3	1.000000	heterozygosis: unknown	550
+213720091	KIR3DL3	1.000000	heterozygosis: unknown	551
+214709101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	552
+215712101	KIR3DL3	1.000000	heterozygosis: yes (>2)	553
+216211041	KIR3DL3	1.000000	heterozygosis: yes (>2)	554
+217211042	KIR3DL3	1.000000	heterozygosis: yes (1-2)	555
+218208091	KIR3DL3	1.000000	heterozygosis: unknown	556
+219208092	KIR3DL3	1.000000	heterozygosis: yes (1-2)	557
+220211091	KIR3DL3	1.000000	heterozygosis: yes (1-2)	558
+221409101	KIR3DL3	1.000000	heterozygosis: unknown	559
+222409102	KIR3DL3	1.000000	heterozygosis: yes (>2)	560
+22309072	KIR3DL3	1.000000	heterozygosis: yes (>2)	561
+224309081	KIR3DL3	1.000000	heterozygosis: unknown	562
+225204032	KIR3DL3	1.000000	heterozygosis: yes (1-2)	563
+226505041	KIR3DL3	1.000000	heterozygosis: yes (1-2)	564
+227708102	KIR3DL3	1.000000	heterozygosis: unknown	565
+228901052	KIR3DL3	1.000000	heterozygosis: unknown	566
+229727101	KIR3DL3	1.000000	heterozygosis: unknown	567
+230727081	KIR3DL3	1.000000	heterozygosis: yes (>2)	568
+231904021	KIR3DL3	1.000000	heterozygosis: yes (1-2)	569
+232503031	KIR3DL3	1.000000	heterozygosis: yes (>2)	570
+23312012	KIR3DL3	1.000000	heterozygosis: yes (1-2)	571
+233435041	KIR3DL3	1.000000	heterozygosis: yes (>2)	572
+234435042	KIR3DL3	1.000000	heterozygosis: unknown	573
+235414031	KIR3DL3	1.000000	heterozygosis: unknown	574
+236414032	KIR3DL3	1.000000	heterozygosis: yes (1-2)	575
+237218082	KIR3DL3	1.000000	heterozygosis: yes (1-2)	576
+238218081	KIR3DL3	1.000000	heterozygosis: yes (1-2)	577
+239601011	KIR3DL3	1.000000	heterozygosis: unknown	578
+240601021	KIR3DL3	1.000000	heterozygosis: yes (>2)	579
+241601031	KIR3DL3	1.000000	heterozygosis: unknown	580
+242605081	KIR3DL3	1.000000	heterozygosis: yes (1-2)	581
+24312081	KIR3DL3	1.000000	heterozygosis: unknown	582
+243607091	KIR3DL3	1.000000	heterozygosis: yes (1-2)	583
+244604061	KIR3DL3	1.000000	heterozygosis: yes (1-2)	584
+245309062	KIR3DL3	1.000000	heterozygosis: unknown	585
+246323051	KIR3DL3	1.000000	heterozygosis: yes (>2)	586
+247327031	KIR3DL3	1.000000	heterozygosis: yes (1-2)	587
+248200128	KIR3DL3	1.000000	heterozygosis: yes (1-2)	588
+250214101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	589
+251226081	KIR3DL3	1.000000	heterozygosis: unknown	590
+252900011	KIR3DL3	1.000000	heterozygosis: yes (1-2)	591
+25312101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	592
+253900058	KIR3DL3	1.000000	heterozygosis: yes (1-2)	593
+254911101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	594
+256801011	KIR3DL3	1.000000	heterozygosis: yes (>2)	595
+257801021	KIR3DL3	1.000000	heterozygosis: unknown	596
+258801022	KIR3DL3	1.000000	heterozygosis: yes (1-2)	597
+259801031	KIR3DL3	1.000000	heterozygosis: unknown	598
+260803041	KIR3DL3	1.000000	heterozygosis: yes (1-2)	599
+261805051	KIR3DL3	1.000000	heterozygosis: yes (>2)	600
+262805052	KIR3DL3	1.000000	heterozygosis: yes (>2)	601
+26312102	KIR3DL3	1.000000	heterozygosis: yes (>2)	602
+263805061	KIR3DL3	1.000000	heterozygosis: yes (1-2)	603
+264812071	KIR3DL3	1.000000	heterozygosis: yes (1-2)	604
+265812072	KIR3DL3	1.000000	heterozygosis: unknown	605
+266102011	KIR3DL3	1.000000	heterozygosis: unknown	606
+267102051	KIR3DL3	1.000000	heterozygosis: yes (1-2)	607
+268101011	KIR3DL3	1.000000	heterozygosis: yes (1-2)	608
+269102031	KIR3DL3	1.000000	heterozygosis: unknown	609
+270103041	KIR3DL3	1.000000	heterozygosis: yes (1-2)	610
+271110101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	611
+272106071	KIR3DL3	1.000000	heterozygosis: yes (>2)	612
+273106111	KIR3DL3	1.000000	heterozygosis: yes (>2)	613
+27319021	KIR3DL3	1.000000	heterozygosis: yes (1-2)	614
+274105051	KIR3DL3	1.000000	heterozygosis: unknown	615
+275108081	KIR3DL3	1.000000	heterozygosis: yes (>2)	616
+276110121	KIR3DL3	1.000000	heterozygosis: yes (>2)	617
+277101021	KIR3DL3	1.000000	heterozygosis: yes (>2)	618
+278900185	KIR3DL3	1.000000	heterozygosis: yes (1-2)	619
+279902091	KIR3DL3	1.000000	heterozygosis: yes (1-2)	620
+280905041	KIR3DL3	1.000000	heterozygosis: unknown	621
+282916071	KIR3DL3	1.000000	heterozygosis: unknown	622
+28326021	KIR3DL3	1.000000	heterozygosis: unknown	623
+283910031	KIR3DL3	1.000000	heterozygosis: unknown	624
+284626051	KIR3DL3	1.000000	heterozygosis: yes (>2)	625
+285626052	KIR3DL3	1.000000	heterozygosis: yes (1-2)	626
+286647051	KIR3DL3	1.000000	heterozygosis: yes (>2)	627
+288920032	KIR3DL3	1.000000	heterozygosis: unknown	628
+289911091	KIR3DL3	1.000000	heterozygosis: yes (>2)	629
+290907011	KIR3DL3	1.000000	heterozygosis: yes (1-2)	630
+291903092	KIR3DL3	1.000000	heterozygosis: unknown	631
+292903042	KIR3DL3	1.000000	heterozygosis: unknown	632
+293900060	KIR3DL3	1.000000	heterozygosis: unknown	633
+294309021	KIR3DL3	1.000000	heterozygosis: unknown	634
+295309041	KIR3DL3	1.000000	heterozygosis: yes (1-2)	635
+296309042	KIR3DL3	1.000000	heterozygosis: yes (>2)	636
+297100011	KIR3DL3	1.000000	heterozygosis: yes (1-2)	637
+298100021	KIR3DL3	1.000000	heterozygosis: yes (1-2)	638
+299100051	KIR3DL3	1.000000	heterozygosis: yes (>2)	639
+300100061	KIR3DL3	1.000000	heterozygosis: unknown	640
+302100071	KIR3DL3	1.000000	heterozygosis: unknown	641
+303100081	KIR3DL3	1.000000	heterozygosis: yes (1-2)	642
+304100101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	643
+305100171	KIR3DL3	1.000000	heterozygosis: unknown	644
+306300031	KIR3DL3	1.000000	heterozygosis: yes (>2)	645
+307300032	KIR3DL3	1.000000	heterozygosis: yes (1-2)	646
+308300051	KIR3DL3	1.000000	heterozygosis: yes (>2)	647
+309300061	KIR3DL3	1.000000	heterozygosis: yes (1-2)	648
+310300011	KIR3DL3	1.000000	heterozygosis: unknown	649
+311300012	KIR3DL3	1.000000	heterozygosis: yes (1-2)	650
+312300171	KIR3DL3	1.000000	heterozygosis: unknown	651
+313300141	KIR3DL3	1.000000	heterozygosis: yes (>2)	652
+314300111	KIR3DL3	1.000000	heterozygosis: yes (1-2)	653
+315300121	KIR3DL3	1.000000	heterozygosis: yes (1-2)	654
+316300122	KIR3DL3	1.000000	heterozygosis: yes (1-2)	655
+317300161	KIR3DL3	1.000000	heterozygosis: yes (1-2)	656
+3173319102	KIR3DL3	1.000000	heterozygosis: unknown	657
+31823101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	658
+318933021	KIR3DL3	1.000000	heterozygosis: unknown	659
+319416011	KIR3DL3	1.000000	heterozygosis: yes (>2)	660
+320712091	KIR3DL3	1.000000	heterozygosis: yes (>2)	661
+321701011	KIR3DL3	1.000000	heterozygosis: unknown	662
+322703021	KIR3DL3	1.000000	heterozygosis: yes (1-2)	663
+323708051	KIR3DL3	1.000000	heterozygosis: yes (>2)	664
+324708111	KIR3DL3	1.000000	heterozygosis: yes (1-2)	665
+325710071	KIR3DL3	1.000000	heterozygosis: yes (1-2)	666
+326712081	KIR3DL3	1.000000	heterozygosis: yes (1-2)	667
+327601041	KIR3DL3	1.000000	heterozygosis: yes (>2)	668
+328202011	KIR3DL3	1.000000	heterozygosis: unknown	669
+32833091	KIR3DL3	1.000000	heterozygosis: yes (1-2)	670
+329202012	KIR3DL3	1.000000	heterozygosis: unknown	671
+330201041	KIR3DL3	1.000000	heterozygosis: unknown	672
+331201042	KIR3DL3	1.000000	heterozygosis: yes (1-2)	673
+332205021	KIR3DL3	1.000000	heterozygosis: yes (>2)	674
+334615011	KIR3DL3	1.000000	heterozygosis: unknown	675
+335916011	KIR3DL3	1.000000	heterozygosis: unknown	676
+336908021	KIR3DL3	1.000000	heterozygosis: unknown	677
+337005011	KIR3DL3	1.000000	heterozygosis: yes (>2)	678
+338015051	KIR3DL3	1.000000	heterozygosis: unknown	679
+33838042	KIR3DL3	1.000000	heterozygosis: yes (1-2)	680
+339028131	KIR3DL3	1.000000	heterozygosis: yes (>2)	681
+340304011	KIR3DL3	1.000000	heterozygosis: yes (>2)	682
+341309071	KIR3DL3	1.000000	heterozygosis: yes (>2)	683
+342309061	KIR3DL3	1.000000	heterozygosis: yes (1-2)	684
+343021102	KIR3DL3	1.000000	heterozygosis: yes (>2)	685
+344305051	KIR3DL3	1.000000	heterozygosis: unknown	686
+345801011	KIR3DL3	1.000000	heterozygosis: yes (>2)	687
+348814061	KIR3DL3	1.000000	heterozygosis: yes (1-2)	688
+34930051	KIR3DL3	1.000000	heterozygosis: unknown	689
+349819101	KIR3DL3	1.000000	heterozygosis: unknown	690
+350817072	KIR3DL3	1.000000	heterozygosis: yes (1-2)	691
+351944071	KIR3DL3	1.000000	heterozygosis: unknown	692
+352105011	KIR3DL3	1.000000	heterozygosis: yes (>2)	693
+353105031	KIR3DL3	1.000000	heterozygosis: yes (1-2)	694
+354102051	KIR3DL3	1.000000	heterozygosis: unknown	695
+355101021	KIR3DL3	1.000000	heterozygosis: unknown	696
+357106041	KIR3DL3	1.000000	heterozygosis: yes (>2)	697
+358106042	KIR3DL3	1.000000	heterozygosis: yes (>2)	698
+359106051	KIR3DL3	1.000000	heterozygosis: yes (1-2)	699
+360106052	KIR3DL3	1.000000	heterozygosis: yes (>2)	700
+36041011	KIR3DL3	1.000000	heterozygosis: yes (1-2)	701
+361100250	KIR3DL3	1.000000	heterozygosis: unknown	702
+362105011	KIR3DL3	1.000000	heterozygosis: unknown	703
+363116101	KIR3DL3	1.000000	heterozygosis: yes (>2)	704
+364131061	KIR3DL3	1.000000	heterozygosis: yes (>2)	705
+365123011	KIR3DL3	1.000000	heterozygosis: unknown	706
+366123012	KIR3DL3	1.000000	heterozygosis: yes (>2)	707
+367814101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	708
+368814102	KIR3DL3	1.000000	heterozygosis: yes (1-2)	709
+369814111	KIR3DL3	1.000000	heterozygosis: yes (1-2)	710
+370100041	KIR3DL3	1.000000	heterozygosis: unknown	711
+37041012	KIR3DL3	1.000000	heterozygosis: yes (1-2)	712
+371100011	KIR3DL3	1.000000	heterozygosis: unknown	713
+372100051	KIR3DL3	1.000000	heterozygosis: yes (1-2)	714
+373100091	KIR3DL3	1.000000	heterozygosis: yes (>2)	715
+374100071	KIR3DL3	1.000000	heterozygosis: unknown	716
+375100081	KIR3DL3	1.000000	heterozygosis: yes (>2)	717
+376100111	KIR3DL3	1.000000	heterozygosis: yes (1-2)	718
+377900041	KIR3DL3	1.000000	heterozygosis: yes (1-2)	719
+378900081	KIR3DL3	1.000000	heterozygosis: yes (>2)	720
+379007151	KIR3DL3	1.000000	heterozygosis: yes (>2)	721
+380013012	KIR3DL3	1.000000	heterozygosis: yes (1-2)	722
+38046011	KIR3DL3	1.000000	heterozygosis: yes (1-2)	723
+381016011	KIR3DL3	1.000000	heterozygosis: unknown	724
+382019052	KIR3DL3	1.000000	heterozygosis: unknown	725
+383007071	KIR3DL3	1.000000	heterozygosis: yes (1-2)	726
+384010051	KIR3DL3	1.000000	heterozygosis: yes (1-2)	727
+385823082	KIR3DL3	1.000000	heterozygosis: yes (1-2)	728
+386832101	KIR3DL3	1.000000	heterozygosis: yes (>2)	729
+387832102	KIR3DL3	1.000000	heterozygosis: yes (1-2)	730
+388409011	KIR3DL3	1.000000	heterozygosis: yes (1-2)	731
+390400091	KIR3DL3	1.000000	heterozygosis: unknown	732
+39111041	KIR3DL3	1.000000	heterozygosis: unknown	733
+391400051	KIR3DL3	1.000000	heterozygosis: yes (>2)	734
+392400061	KIR3DL3	1.000000	heterozygosis: yes (>2)	735
+393400101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	736
+394400011	KIR3DL3	1.000000	heterozygosis: yes (1-2)	737
+395200244	KIR3DL3	1.000000	heterozygosis: yes (1-2)	738
+396725011	KIR3DL3	1.000000	heterozygosis: yes (>2)	739
+397725012	KIR3DL3	1.000000	heterozygosis: yes (1-2)	740
+398725051	KIR3DL3	1.000000	heterozygosis: unknown	741
+399725052	KIR3DL3	1.000000	heterozygosis: unknown	742
+401217031	KIR3DL3	1.000000	heterozygosis: yes (1-2)	743
+40126061	KIR3DL3	1.000000	heterozygosis: yes (>2)	744
+402000439	KIR3DL3	1.000000	heterozygosis: unknown	745
+403611041	KIR3DL3	1.000000	heterozygosis: unknown	746
+404808011	KIR3DL3	1.000000	heterozygosis: yes (1-2)	747
+405811051	KIR3DL3	1.000000	heterozygosis: unknown	748
+406000435	KIR3DL3	1.000000	heterozygosis: unknown	749
+407000434	KIR3DL3	1.000000	heterozygosis: yes (1-2)	750
+408000441	KIR3DL3	1.000000	heterozygosis: yes (1-2)	751
+409000527	KIR3DL3	1.000000	heterozygosis: unknown	752
+410817061	KIR3DL3	1.000000	heterozygosis: unknown	753
+41130012	KIR3DL3	1.000000	heterozygosis: yes (1-2)	754
+411611051	KIR3DL3	1.000000	heterozygosis: yes (1-2)	755
+412617011	KIR3DL3	1.000000	heterozygosis: unknown	756
+413620032	KIR3DL3	1.000000	heterozygosis: yes (>2)	757
+414601022	KIR3DL3	1.000000	heterozygosis: yes (1-2)	758
+415601031	KIR3DL3	1.000000	heterozygosis: unknown	759
+416215041	KIR3DL3	1.000000	heterozygosis: yes (>2)	760
+417218092	KIR3DL3	1.000000	heterozygosis: yes (>2)	761
+420213011	KIR3DL3	1.000000	heterozygosis: yes (1-2)	762
+421218041	KIR3DL3	1.000000	heterozygosis: yes (1-2)	763
+42140012	KIR3DL3	1.000000	heterozygosis: yes (1-2)	764
+422211031	KIR3DL3	1.000000	heterozygosis: yes (>2)	765
+423320091	KIR3DL3	1.000000	heterozygosis: unknown	766
+424320092	KIR3DL3	1.000000	heterozygosis: yes (1-2)	767
+425100248	KIR3DL3	1.000000	heterozygosis: unknown	768
+426111081	KIR3DL3	1.000000	heterozygosis: yes (1-2)	769
+427046021	KIR3DL3	1.000000	heterozygosis: unknown	770
+428046012	KIR3DL3	1.000000	heterozygosis: yes (>2)	771
+429046101	KIR3DL3	1.000000	heterozygosis: yes (>2)	772
+431106051	KIR3DL3	1.000000	heterozygosis: unknown	773
+43140021	KIR3DL3	1.000000	heterozygosis: unknown	774
+432800071	KIR3DL3	1.000000	heterozygosis: yes (>2)	775
+433800072	KIR3DL3	1.000000	heterozygosis: yes (1-2)	776
+434800024	KIR3DL3	1.000000	heterozygosis: yes (1-2)	777
+435800114	KIR3DL3	1.000000	heterozygosis: yes (1-2)	778
+436200080	KIR3DL3	1.000000	heterozygosis: yes (1-2)	779
+437202011	KIR3DL3	1.000000	heterozygosis: yes (1-2)	780
+438800029	KIR3DL3	1.000000	heterozygosis: yes (1-2)	781
+439833011	KIR3DL3	1.000000	heterozygosis: yes (1-2)	782
+441206011	KIR3DL3	1.000000	heterozygosis: yes (>2)	783
+44140022	KIR3DL3	1.000000	heterozygosis: yes (>2)	784
+445303031	KIR3DL3	1.000000	heterozygosis: yes (>2)	785
+446303051	KIR3DL3	1.000000	heterozygosis: yes (1-2)	786
+447303052	KIR3DL3	1.000000	heterozygosis: yes (1-2)	787
+449720041	KIR3DL3	1.000000	heterozygosis: unknown	788
+451303101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	789
+45513012	KIR3DL3	1.000000	heterozygosis: yes (>2)	790
+458904031	KIR3DL3	1.000000	heterozygosis: unknown	791
+461911071	KIR3DL3	1.000000	heterozygosis: unknown	792
+462911072	KIR3DL3	1.000000	heterozygosis: yes (>2)	793
+463137092	KIR3DL3	1.000000	heterozygosis: yes (>2)	794
+464151061	KIR3DL3	1.000000	heterozygosis: unknown	795
+46518081	KIR3DL3	1.000000	heterozygosis: unknown	796
+465300832	KIR3DL3	1.000000	heterozygosis: unknown	797
+466000377	KIR3DL3	1.000000	heterozygosis: yes (>2)	798
+467000378	KIR3DL3	1.000000	heterozygosis: yes (>2)	799
+468402011	KIR3DL3	1.000000	heterozygosis: yes (1-2)	800
+469217021	KIR3DL3	1.000000	heterozygosis: yes (1-2)	801
+470201041	KIR3DL3	1.000000	heterozygosis: yes (1-2)	802
+471201042	KIR3DL3	1.000000	heterozygosis: unknown	803
+472700136	KIR3DL3	1.000000	heterozygosis: unknown	804
+473700138	KIR3DL3	1.000000	heterozygosis: yes (1-2)	805
+474730041	KIR3DL3	1.000000	heterozygosis: unknown	806
+47518082	KIR3DL3	1.000000	heterozygosis: yes (>2)	807
+475700124	KIR3DL3	1.000000	heterozygosis: yes (1-2)	808
+476703051	KIR3DL3	1.000000	heterozygosis: yes (>2)	809
+477714051	KIR3DL3	1.000000	heterozygosis: unknown	810
+478714091	KIR3DL3	1.000000	heterozygosis: yes (1-2)	811
+479725051	KIR3DL3	1.000000	heterozygosis: unknown	812
+48130071	KIR3DL3	1.000000	heterozygosis: unknown	813
+481732011	KIR3DL3	1.000000	heterozygosis: unknown	814
+482732051	KIR3DL3	1.000000	heterozygosis: unknown	815
+483732031	KIR3DL3	1.000000	heterozygosis: yes (1-2)	816
+486425051	KIR3DL3	1.000000	heterozygosis: unknown	817
+487428061	KIR3DL3	1.000000	heterozygosis: yes (>2)	818
+488428071	KIR3DL3	1.000000	heterozygosis: yes (>2)	819
+489404031	KIR3DL3	1.000000	heterozygosis: unknown	820
+490903011	KIR3DL3	1.000000	heterozygosis: unknown	821
+49103041	KIR3DL3	1.000000	heterozygosis: unknown	822
+491905071	KIR3DL3	1.000000	heterozygosis: unknown	823
+492910021	KIR3DL3	1.000000	heterozygosis: unknown	824
+493911021	KIR3DL3	1.000000	heterozygosis: yes (1-2)	825
+494918051	KIR3DL3	1.000000	heterozygosis: unknown	826
+495919111	KIR3DL3	1.000000	heterozygosis: unknown	827
+496917101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	828
+497413041	KIR3DL3	1.000000	heterozygosis: yes (>2)	829
+498929061	KIR3DL3	1.000000	heterozygosis: yes (>2)	830
+500933081	KIR3DL3	1.000000	heterozygosis: yes (>2)	831
+50103042	KIR3DL3	1.000000	heterozygosis: yes (>2)	832
+501910081	KIR3DL3	1.000000	heterozygosis: unknown	833
+502903022	KIR3DL3	1.000000	heterozygosis: yes (1-2)	834
+503914062	KIR3DL3	1.000000	heterozygosis: unknown	835
+504900367	KIR3DL3	1.000000	heterozygosis: yes (1-2)	836
+506417051	KIR3DL3	1.000000	heterozygosis: yes (1-2)	837
+507933012	KIR3DL3	1.000000	heterozygosis: unknown	838
+508308101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	839
+509607121	KIR3DL3	1.000000	heterozygosis: yes (1-2)	840
+510512061	KIR3DL3	1.000000	heterozygosis: yes (>2)	841
+51103051	KIR3DL3	1.000000	heterozygosis: unknown	842
+511515011	KIR3DL3	1.000000	heterozygosis: yes (>2)	843
+512510011	KIR3DL3	1.000000	heterozygosis: yes (>2)	844
+513111021	KIR3DL3	1.000000	heterozygosis: yes (>2)	845
+514708022	KIR3DL3	1.000000	heterozygosis: yes (1-2)	846
+515000447	KIR3DL3	1.000000	heterozygosis: unknown	847
+516622071	KIR3DL3	1.000000	heterozygosis: yes (1-2)	848
+517622031	KIR3DL3	1.000000	heterozygosis: yes (1-2)	849
+518624081	KIR3DL3	1.000000	heterozygosis: yes (>2)	850
+519200295	KIR3DL3	1.000000	heterozygosis: yes (1-2)	851
+520701041	KIR3DL3	1.000000	heterozygosis: yes (>2)	852
+52103052	KIR3DL3	1.000000	heterozygosis: unknown	853
+521601061	KIR3DL3	1.000000	heterozygosis: yes (>2)	854
+522715031	KIR3DL3	1.000000	heterozygosis: yes (1-2)	855
+523704101	KIR3DL3	1.000000	heterozygosis: unknown	856
+524900021	KIR3DL3	1.000000	heterozygosis: yes (1-2)	857
+525900031	KIR3DL3	1.000000	heterozygosis: unknown	858
+526900011	KIR3DL3	1.000000	heterozygosis: yes (1-2)	859
+527900101	KIR3DL3	1.000000	heterozygosis: yes (>2)	860
+528900061	KIR3DL3	1.000000	heterozygosis: unknown	861
+529900111	KIR3DL3	1.000000	heterozygosis: unknown	862
+530900091	KIR3DL3	1.000000	heterozygosis: yes (1-2)	863
+531900151	KIR3DL3	1.000000	heterozygosis: yes (1-2)	864
+532802041	KIR3DL3	1.000000	heterozygosis: yes (>2)	865
+533802051	KIR3DL3	1.000000	heterozygosis: yes (1-2)	866
+53409011	KIR3DL3	1.000000	heterozygosis: unknown	867
+534200027	KIR3DL3	1.000000	heterozygosis: unknown	868
+535200028	KIR3DL3	1.000000	heterozygosis: unknown	869
+536212062	KIR3DL3	1.000000	heterozygosis: unknown	870
+538224061	KIR3DL3	1.000000	heterozygosis: yes (1-2)	871
+539224062	KIR3DL3	1.000000	heterozygosis: yes (1-2)	872
+540230101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	873
+541230102	KIR3DL3	1.000000	heterozygosis: unknown	874
+543236031	KIR3DL3	1.000000	heterozygosis: yes (>2)	875
+544000385	KIR3DL3	1.000000	heterozygosis: yes (1-2)	876
+54409051	KIR3DL3	1.000000	heterozygosis: unknown	877
+545000422	KIR3DL3	1.000000	heterozygosis: unknown	878
+546000429	KIR3DL3	1.000000	heterozygosis: yes (>2)	879
+547000448	KIR3DL3	1.000000	heterozygosis: yes (>2)	880
+548000496	KIR3DL3	1.000000	heterozygosis: yes (>2)	881
+550800017	KIR3DL3	1.000000	heterozygosis: yes (>2)	882
+551800070	KIR3DL3	1.000000	heterozygosis: yes (>2)	883
+552809062	KIR3DL3	1.000000	heterozygosis: yes (1-2)	884
+553815101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	885
+554824101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	886
+555824102	KIR3DL3	1.000000	heterozygosis: yes (1-2)	887
+556827101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	888
+557844101	KIR3DL3	1.000000	heterozygosis: unknown	889
+558809011	KIR3DL3	1.000000	heterozygosis: unknown	890
+55911051	KIR3DL3	1.000000	heterozygosis: yes (>2)	891
+559809021	KIR3DL3	1.000000	heterozygosis: yes (1-2)	892
+560809022	KIR3DL3	1.000000	heterozygosis: yes (1-2)	893
+561815021	KIR3DL3	1.000000	heterozygosis: unknown	894
+562815032	KIR3DL3	1.000000	heterozygosis: unknown	895
+563000569	KIR3DL3	1.000000	heterozygosis: unknown	896
+564832012	KIR3DL3	1.000000	heterozygosis: unknown	897
+565126021	KIR3DL3	1.000000	heterozygosis: unknown	898
+566106091	KIR3DL3	1.000000	heterozygosis: yes (>2)	899
+567100315	KIR3DL3	1.000000	heterozygosis: unknown	900
+568112011	KIR3DL3	1.000000	heterozygosis: yes (1-2)	901
+56911052	KIR3DL3	1.000000	heterozygosis: yes (1-2)	902
+569122051	KIR3DL3	1.000000	heterozygosis: unknown	903
+570122061	KIR3DL3	1.000000	heterozygosis: yes (>2)	904
+571000358	KIR3DL3	1.000000	heterozygosis: yes (1-2)	905
+572122013	KIR3DL3	1.000000	heterozygosis: yes (>2)	906
+573100301	KIR3DL3	1.000000	heterozygosis: unknown	907
+574003082	KIR3DL3	1.000000	heterozygosis: yes (>2)	908
+575300031	KIR3DL3	1.000000	heterozygosis: unknown	909
+576000031	KIR3DL3	1.000000	heterozygosis: unknown	910
+577000032	KIR3DL3	1.000000	heterozygosis: yes (>2)	911
+578323051	KIR3DL3	1.000000	heterozygosis: unknown	912
+579020062	KIR3DL3	1.000000	heterozygosis: unknown	913
+57914021	KIR3DL3	1.000000	heterozygosis: unknown	914
+580000088	KIR3DL3	1.000000	heterozygosis: unknown	915
+581020052	KIR3DL3	1.000000	heterozygosis: yes (1-2)	916
+582011101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	917
+583016011	KIR3DL3	1.000000	heterozygosis: yes (>2)	918
+584016071	KIR3DL3	1.000000	heterozygosis: yes (1-2)	919
+585016092	KIR3DL3	1.000000	heterozygosis: yes (>2)	920
+586000089	KIR3DL3	1.000000	heterozygosis: unknown	921
+587011051	KIR3DL3	1.000000	heterozygosis: yes (1-2)	922
+588314051	KIR3DL3	1.000000	heterozygosis: yes (>2)	923
+589000356	KIR3DL3	1.000000	heterozygosis: unknown	924
+58908011	KIR3DL3	1.000000	heterozygosis: yes (1-2)	925
+590000426	KIR3DL3	1.000000	heterozygosis: yes (1-2)	926
+591920071	KIR3DL3	1.000000	heterozygosis: yes (1-2)	927
+592911051	KIR3DL3	1.000000	heterozygosis: yes (>2)	928
+593918082	KIR3DL3	1.000000	heterozygosis: yes (1-2)	929
+594913051	KIR3DL3	1.000000	heterozygosis: yes (1-2)	930
+595913111	KIR3DL3	1.000000	heterozygosis: unknown	931
+59603011	KIR3DL3	1.000000	heterozygosis: yes (1-2)	932
+596906101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	933
+597200217	KIR3DL3	1.000000	heterozygosis: unknown	934
+599208021	KIR3DL3	1.000000	heterozygosis: unknown	935
+600211031	KIR3DL3	1.000000	heterozygosis: yes (1-2)	936
+601211052	KIR3DL3	1.000000	heterozygosis: yes (>2)	937
+602211091	KIR3DL3	1.000000	heterozygosis: yes (1-2)	938
+603211092	KIR3DL3	1.000000	heterozygosis: yes (1-2)	939
+604214091	KIR3DL3	1.000000	heterozygosis: yes (1-2)	940
+605228011	KIR3DL3	1.000000	heterozygosis: unknown	941
+606224012	KIR3DL3	1.000000	heterozygosis: yes (>2)	942
+607502081	KIR3DL3	1.000000	heterozygosis: unknown	943
+608506011	KIR3DL3	1.000000	heterozygosis: unknown	944
+60933051	KIR3DL3	1.000000	heterozygosis: unknown	945
+609503101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	946
+610503102	KIR3DL3	1.000000	heterozygosis: unknown	947
+611508041	KIR3DL3	1.000000	heterozygosis: unknown	948
+612206051	KIR3DL3	1.000000	heterozygosis: yes (1-2)	949
+613206052	KIR3DL3	1.000000	heterozygosis: yes (1-2)	950
+614202101	KIR3DL3	1.000000	heterozygosis: unknown	951
+615800019	KIR3DL3	1.000000	heterozygosis: yes (1-2)	952
+616501091	KIR3DL3	1.000000	heterozygosis: yes (>2)	953
+617502082	KIR3DL3	1.000000	heterozygosis: yes (1-2)	954
+618502071	KIR3DL3	1.000000	heterozygosis: yes (>2)	955
+61929041	KIR3DL3	1.000000	heterozygosis: yes (1-2)	956
+619507061	KIR3DL3	1.000000	heterozygosis: yes (>2)	957
+620523031	KIR3DL3	1.000000	heterozygosis: yes (>2)	958
+621523032	KIR3DL3	1.000000	heterozygosis: unknown	959
+622523092	KIR3DL3	1.000000	heterozygosis: unknown	960
+623523111	KIR3DL3	1.000000	heterozygosis: yes (1-2)	961
+624500287	KIR3DL3	1.000000	heterozygosis: unknown	962
+625528081	KIR3DL3	1.000000	heterozygosis: unknown	963
+626528021	KIR3DL3	1.000000	heterozygosis: unknown	964
+627513061	KIR3DL3	1.000000	heterozygosis: yes (1-2)	965
+628000409	KIR3DL3	1.000000	heterozygosis: unknown	966
+629000523	KIR3DL3	1.000000	heterozygosis: yes (1-2)	967
+62929011	KIR3DL3	1.000000	heterozygosis: yes (1-2)	968
+630000403	KIR3DL3	1.000000	heterozygosis: unknown	969
+631000405	KIR3DL3	1.000000	heterozygosis: unknown	970
+632000410	KIR3DL3	1.000000	heterozygosis: yes (1-2)	971
+633312061	KIR3DL3	1.000000	heterozygosis: yes (>2)	972
+634300224	KIR3DL3	1.000000	heterozygosis: unknown	973
+635323081	KIR3DL3	1.000000	heterozygosis: yes (>2)	974
+636902031	KIR3DL3	1.000000	heterozygosis: yes (1-2)	975
+637323091	KIR3DL3	1.000000	heterozygosis: unknown	976
+63929012	KIR3DL3	1.000000	heterozygosis: yes (1-2)	977
+639417062	KIR3DL3	1.000000	heterozygosis: yes (1-2)	978
+640417051	KIR3DL3	1.000000	heterozygosis: unknown	979
+641427041	KIR3DL3	1.000000	heterozygosis: unknown	980
+642705082	KIR3DL3	1.000000	heterozygosis: unknown	981
+643417011	KIR3DL3	1.000000	heterozygosis: unknown	982
+64404101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	983
+644417012	KIR3DL3	1.000000	heterozygosis: yes (1-2)	984
+645401031	KIR3DL3	1.000000	heterozygosis: unknown	985
+646405061	KIR3DL3	1.000000	heterozygosis: yes (1-2)	986
+647405102	KIR3DL3	1.000000	heterozygosis: yes (1-2)	987
+649927031	KIR3DL3	1.000000	heterozygosis: yes (1-2)	988
+651923072	KIR3DL3	1.000000	heterozygosis: yes (1-2)	989
+653000468	KIR3DL3	1.000000	heterozygosis: unknown	990
+654000467	KIR3DL3	1.000000	heterozygosis: yes (>2)	991
+65414101	KIR3DL3	1.000000	heterozygosis: unknown	992
+656901101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	993
+658402011	KIR3DL3	1.000000	heterozygosis: yes (1-2)	994
+659404021	KIR3DL3	1.000000	heterozygosis: unknown	995
+660407051	KIR3DL3	1.000000	heterozygosis: yes (>2)	996
+661407041	KIR3DL3	1.000000	heterozygosis: unknown	997
+662000476	KIR3DL3	1.000000	heterozygosis: yes (1-2)	998
+663921051	KIR3DL3	1.000000	heterozygosis: yes (1-2)	999
+66417082	KIR3DL3	1.000000	heterozygosis: yes (>2)	1000
+664934021	KIR3DL3	1.000000	heterozygosis: unknown	1001
+665921081	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1002
+666442081	KIR3DL3	1.000000	heterozygosis: yes (>2)	1003
+667934102	KIR3DL3	1.000000	heterozygosis: unknown	1004
+670208081	KIR3DL3	1.000000	heterozygosis: unknown	1005
+671208082	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1006
+672208061	KIR3DL3	1.000000	heterozygosis: unknown	1007
+673715061	KIR3DL3	1.000000	heterozygosis: unknown	1008
+674703041	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1009
+675000350	KIR3DL3	1.000000	heterozygosis: yes (>2)	1010
+676719081	KIR3DL3	1.000000	heterozygosis: yes (>2)	1011
+677226041	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1012
+678226042	KIR3DL3	1.000000	heterozygosis: yes (>2)	1013
+67903011	KIR3DL3	1.000000	heterozygosis: unknown	1014
+679226032	KIR3DL3	1.000000	heterozygosis: unknown	1015
+680000556	KIR3DL3	1.000000	heterozygosis: unknown	1016
+681000475	KIR3DL3	1.000000	heterozygosis: yes (>2)	1017
+682409091	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1018
+683407031	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1019
+685903011	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1020
+686907091	KIR3DL3	1.000000	heterozygosis: unknown	1021
+687912091	KIR3DL3	1.000000	heterozygosis: yes (>2)	1022
+688929011	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1023
+68922043	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1024
+690901071	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1025
+692420091	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1026
+693209051	KIR3DL3	1.000000	heterozygosis: yes (>2)	1027
+694209052	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1028
+695209021	KIR3DL3	1.000000	heterozygosis: unknown	1029
+696206071	KIR3DL3	1.000000	heterozygosis: unknown	1030
+697206072	KIR3DL3	1.000000	heterozygosis: unknown	1031
+698300155	KIR3DL3	1.000000	heterozygosis: yes (>2)	1032
+69929081	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1033
+800207091	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1034
+801213101	KIR3DL3	1.000000	heterozygosis: yes (>2)	1035
+802123041	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1036
+803123042	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1037
+804131031	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1038
+80418051	KIR3DL3	1.000000	heterozygosis: unknown	1039
+805105101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1040
+806105102	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1041
+808311032	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1042
+810200141	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1043
+811225081	KIR3DL3	1.000000	heterozygosis: unknown	1044
+812023062	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1045
+813016061	KIR3DL3	1.000000	heterozygosis: yes (>2)	1046
+81418052	KIR3DL3	1.000000	heterozygosis: unknown	1047
+814903031	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1048
+815407031	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1049
+816400231	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1050
+817922021	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1051
+818918011	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1052
+819800030	KIR3DL3	1.000000	heterozygosis: unknown	1053
+820000506	KIR3DL3	1.000000	heterozygosis: unknown	1054
+8227031	KIR3DL3	1.000000	heterozygosis: yes (>2)	1055
+822823072	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1056
+823810121	KIR3DL3	1.000000	heterozygosis: unknown	1057
+82425021	KIR3DL3	1.000000	heterozygosis: yes (>2)	1058
+824810122	KIR3DL3	1.000000	heterozygosis: yes (>2)	1059
+825605071	KIR3DL3	1.000000	heterozygosis: yes (>2)	1060
+826605072	KIR3DL3	1.000000	heterozygosis: unknown	1061
+827607111	KIR3DL3	1.000000	heterozygosis: yes (>2)	1062
+828604051	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1063
+829211061	KIR3DL3	1.000000	heterozygosis: yes (>2)	1064
+830203042	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1065
+831205021	KIR3DL3	1.000000	heterozygosis: unknown	1066
+832901032	KIR3DL3	1.000000	heterozygosis: unknown	1067
+833922051	KIR3DL3	1.000000	heterozygosis: yes (>2)	1068
+83425022	KIR3DL3	1.000000	heterozygosis: unknown	1069
+835930011	KIR3DL3	1.000000	heterozygosis: yes (>2)	1070
+836930072	KIR3DL3	1.000000	heterozygosis: unknown	1071
+837001011	KIR3DL3	1.000000	heterozygosis: yes (>2)	1072
+838001021	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1073
+839007051	KIR3DL3	1.000000	heterozygosis: yes (>2)	1074
+840007041	KIR3DL3	1.000000	heterozygosis: yes (>2)	1075
+841108042	KIR3DL3	1.000000	heterozygosis: yes (>2)	1076
+842112081	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1077
+843112071	KIR3DL3	1.000000	heterozygosis: yes (>2)	1078
+844112061	KIR3DL3	1.000000	heterozygosis: unknown	1079
+84428022	KIR3DL3	1.000000	heterozygosis: unknown	1080
+845112062	KIR3DL3	1.000000	heterozygosis: yes (>2)	1081
+847939062	KIR3DL3	1.000000	heterozygosis: unknown	1082
+848331071	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1083
+849106091	KIR3DL3	1.000000	heterozygosis: yes (>2)	1084
+850206101	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1085
+851230081	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1086
+852220051	KIR3DL3	1.000000	heterozygosis: yes (>2)	1087
+853216071	KIR3DL3	1.000000	heterozygosis: yes (>2)	1088
+854200282	KIR3DL3	1.000000	heterozygosis: unknown	1089
+85428051	KIR3DL3	1.000000	heterozygosis: unknown	1090
+855227091	KIR3DL3	1.000000	heterozygosis: unknown	1091
+856103091	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1092
+857103081	KIR3DL3	1.000000	heterozygosis: unknown	1093
+858000540	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1094
+859630011	KIR3DL3	1.000000	heterozygosis: unknown	1095
+860809022	KIR3DL3	1.000000	heterozygosis: yes (>2)	1096
+861812011	KIR3DL3	1.000000	heterozygosis: unknown	1097
+862900051	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1098
+863900061	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1099
+86428052	KIR3DL3	1.000000	heterozygosis: yes (>2)	1100
+864914071	KIR3DL3	1.000000	heterozygosis: yes (>2)	1101
+865000557	KIR3DL3	1.000000	heterozygosis: unknown	1102
+866604021	KIR3DL3	1.000000	heterozygosis: unknown	1103
+868610051	KIR3DL3	1.000000	heterozygosis: yes (>2)	1104
+869541071	KIR3DL3	1.000000	heterozygosis: yes (>2)	1105
+870400071	KIR3DL3	1.000000	heterozygosis: unknown	1106
+871400011	KIR3DL3	1.000000	heterozygosis: unknown	1107
+872400021	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1108
+873115091	KIR3DL3	1.000000	heterozygosis: unknown	1109
+874000021	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1110
+87428053	KIR3DL3	1.000000	heterozygosis: yes (>2)	1111
+875000031	KIR3DL3	1.000000	heterozygosis: unknown	1112
+876806031	KIR3DL3	1.000000	heterozygosis: unknown	1113
+877819091	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1114
+879809041	KIR3DL3	1.000000	heterozygosis: unknown	1115
+880808061	KIR3DL3	1.000000	heterozygosis: unknown	1116
+881813041	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1117
+88220081	KIR3DL3	1.000000	heterozygosis: unknown	1118
+882730051	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1119
+883701052	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1120
+884000530	KIR3DL3	1.000000	heterozygosis: yes (>2)	1121
+885000534	KIR3DL3	1.000000	heterozygosis: unknown	1122
+886000538	KIR3DL3	1.000000	heterozygosis: yes (>2)	1123
+887000453	KIR3DL3	1.000000	heterozygosis: unknown	1124
+888000458	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1125
+889110131	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1126
+890110091	KIR3DL3	1.000000	heterozygosis: unknown	1127
+891400031	KIR3DL3	1.000000	heterozygosis: yes (>2)	1128
+89220082	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1129
+893226021	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1130
+894207061	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1131
+896105021	KIR3DL3	1.000000	heterozygosis: yes (1-2)	1132
+897109041	KIR3DL3	1.000000	heterozygosis: unknown	1133
+898106061	KIR3DL3	1.000000	heterozygosis: unknown	1134
